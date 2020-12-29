@@ -4,7 +4,7 @@
 
 Locations are top 10 most populous cities in Slovenia and centers of all city municipalities.
 
-Potresi are fetched every minute, nonlocation and location every 30 minutes.
+potresi_public is fetched every minute, nonlocation and location every 30 minutes.
 
 * potresi_public	http://potresi.arso.gov.si/potresi/potresi_public
 * nonlocation	http://vreme.arso.gov.si/api/1.0/nonlocation/
