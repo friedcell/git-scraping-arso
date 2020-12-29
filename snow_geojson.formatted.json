@@ -1,0 +1,2505 @@
+{
+    "dataType": "observationAms", 
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    14.5449, 
+                    45.645200000000003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "756", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "", 
+                                "snowNew_val": "", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1401_", 
+                "parentId": "SI_NOTRANJSKO-KRASKA_", 
+                "title": "Babno Polje", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.0816, 
+                    46.167499999999997
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1188", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "58", 
+                                "snowNew_val": "6", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1403_", 
+                "parentId": "SI_GORENJSKA_", 
+                "title": "Blego\u0161", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.9422, 
+                    46.294199999999996
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "596", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "52", 
+                                "snowNew_val": "5", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1404_", 
+                "parentId": "SI_ZGORNJESAVSKA_", 
+                "title": "Bohinjska \u010ce\u0161njica", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.427199999999999, 
+                    46.262799999999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "546", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "10", 
+                                "snowNew_val": "4", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1405_", 
+                "parentId": "SI_BOVSKA_", 
+                "title": "Breginj", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.888500000000001, 
+                    46.140099999999997
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "779", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "27", 
+                                "snowNew_val": "1", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1406_", 
+                "parentId": "SI_BOVSKA_", 
+                "title": "Bukovski vrh", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.2257, 
+                    46.236499999999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "244", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "1440", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1025_", 
+                "parentId": "SI_SAVINJSKA_", 
+                "title": "Celje", 
+                "type": "WMOSTATION"
+            }, 
+            "snowSensorData": false, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.398899999999999, 
+                    45.722999999999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "586", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "", 
+                                "snowNew_val": "", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1407_", 
+                "parentId": "SI_NOTRANJSKO-KRASKA_", 
+                "title": "Cerkni\u0161ko jezero", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.146100000000001, 
+                    45.560000000000002
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "157", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1033_", 
+                "parentId": "SI_BELOKRANJSKA_", 
+                "title": "\u010crnomelj", 
+                "type": "WMOSTATION"
+            }, 
+            "snowSensorData": false, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.6838, 
+                    46.617800000000003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "292", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "1", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1411_", 
+                "parentId": "SI_PODRAVSKA_", 
+                "title": "Ga\u010dnik", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.8436, 
+                    45.754899999999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "320", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "", 
+                                "snowNew_val": "", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1412_", 
+                "parentId": "SI_GORISKA_", 
+                "title": "Godnje", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.8063, 
+                    46.298699999999997
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "428", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "15", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1414_", 
+                "parentId": "SI_KOROSKA_", 
+                "title": "Gornji Grad", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.0289, 
+                    46.010899999999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "325", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "3", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1416_", 
+                "parentId": "SI_BOVSKA_", 
+                "title": "Idrija", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.858000000000001, 
+                    45.561199999999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "540", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "", 
+                                "snowNew_val": "", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1417_", 
+                "parentId": "SI_KOCEVSKA_", 
+                "title": "Iskrba", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    16.187999999999999, 
+                    46.475900000000003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "335", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1420_", 
+                "parentId": "SI_POMURSKA_", 
+                "title": "Jeruzalem", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.5144, 
+                    46.404899999999998
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "894", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "12", 
+                                "snowNew_val": "1", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1489_", 
+                "parentId": "SI_GORENJSKA_", 
+                "title": "Jezersko", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.603300000000001, 
+                    46.308700000000002
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "549", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "13", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1423_", 
+                "parentId": "SI_GORENJSKA_", 
+                "title": "Kamni\u0161ka Bistrica", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.474399999999999, 
+                    46.3581
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "2262", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "352", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1424_", 
+                "parentId": "SI_BOVSKA_", 
+                "title": "Kanin", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.849600000000001, 
+                    45.645800000000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "467", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1426_", 
+                "parentId": "SI_KOCEVSKA_", 
+                "title": "Ko\u010devje", 
+                "type": "WMOSTATION"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.7517, 
+                    46.5167
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1072", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "75", 
+                                "snowNew_val": "2", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1428_", 
+                "parentId": "SI_ZGORNJESAVSKA_", 
+                "title": "Korensko sedlo", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.364699999999999, 
+                    46.247799999999998
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "403", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "8", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1429_", 
+                "parentId": "SI_GORENJSKA_", 
+                "title": "Kranj", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.8489, 
+                    46.378799999999998
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "2514", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "305", 
+                                "snowNew_val": "28", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1430_", 
+                "parentId": "SI_ZGORNJESAVSKA_", 
+                "title": "Kredarica", 
+                "type": "WMOSTATION"
+            }, 
+            "snowSensorData": false, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.657999999999999, 
+                    46.238
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "910", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "17", 
+                                "snowNew_val": "8", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1431_", 
+                "parentId": "SI_BOVSKA_", 
+                "title": "Krn", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.533300000000001, 
+                    46.2973
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1740", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "", 
+                                "snowNew_val": "", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1432_", 
+                "parentId": "SI_GORENJSKA_", 
+                "title": "Krvavec", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.0732, 
+                    46.087899999999998
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1211", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "27", 
+                                "snowNew_val": "1", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1434_", 
+                "parentId": "SI_OSREDNJESLOVENSKA_", 
+                "title": "Kum", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.5161, 
+                    45.9009
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "154", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1035_", 
+                "parentId": "SI_SPODNJEPOSAVSKA_", 
+                "title": "Letali\u0161\u010de Cerklje ob Krki", 
+                "type": "WMOSTATION"
+            }, 
+            "snowSensorData": false, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.6821, 
+                    46.479700000000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "264", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1023_", 
+                "parentId": "SI_PODRAVSKA_", 
+                "title": "Letali\u0161\u010de Edvarda Rusjana Maribor", 
+                "type": "WMOSTATION"
+            }, 
+            "snowSensorData": false, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.472799999999999, 
+                    46.217500000000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "364", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "2", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1493_", 
+                "parentId": "SI_GORENJSKA_", 
+                "title": "Letali\u0161\u010de Jo\u017eeta Pu\u010dnika Ljubljana", 
+                "type": "WMOSTATION"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.616099999999999, 
+                    45.475299999999997
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "2", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1008_", 
+                "parentId": "SI_OBALNO-KRASKA_", 
+                "title": "Letali\u0161\u010de Portoro\u017e", 
+                "type": "WMOSTATION"
+            }, 
+            "snowSensorData": false, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.2849, 
+                    46.067799999999998
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "943", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1435_", 
+                "parentId": "SI_SPODNJEPOSAVSKA_", 
+                "title": "Lisca", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.8186, 
+                    46.065199999999997
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "272", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1436_", 
+                "parentId": "SI_OSREDNJESLOVENSKA_", 
+                "title": "Litija", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.5124, 
+                    46.0655
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "299", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "9", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1005_", 
+                "parentId": "SI_OSREDNJESLOVENSKA_", 
+                "title": "Ljubljana", 
+                "type": "WMOSTATION"
+            }, 
+            "snowSensorData": false, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.203200000000001, 
+                    45.907699999999998
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "486", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "3", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1438_", 
+                "parentId": "SI_NOTRANJSKO-KRASKA_", 
+                "title": "Logatec", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.626099999999999, 
+                    46.567799999999998
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "279", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1491_", 
+                "parentId": "SI_PODRAVSKA_", 
+                "title": "Maribor", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.8178, 
+                    45.871899999999997
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "272", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1410_", 
+                "parentId": "SI_DOLENJSKA_", 
+                "title": "Marin\u010da vas", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.8597, 
+                    46.529600000000002
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "506", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "4", 
+                                "snowNew_val": "2", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1442_", 
+                "parentId": "SI_KOROSKA_", 
+                "title": "Me\u017eica", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.3225, 
+                    45.7759
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "958", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "", 
+                                "snowNew_val": "", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1443_", 
+                "parentId": "SI_SPODNJEPOSAVSKA_", 
+                "title": "Miklav\u017e na Gorjancih", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    16.191299999999998, 
+                    46.652099999999997
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "188", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1444_", 
+                "parentId": "SI_POMURSKA_", 
+                "title": "Murska Sobota", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.053800000000001, 
+                    45.771099999999997
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1242", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "15", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1445_", 
+                "parentId": "SI_NOTRANJSKO-KRASKA_", 
+                "title": "Nanos", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.508800000000001, 
+                    45.768900000000002
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "718", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1446_", 
+                "parentId": "SI_NOTRANJSKO-KRASKA_", 
+                "title": "Nova vas - Bloke", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.177300000000001, 
+                    45.8018
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "220", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1447_", 
+                "parentId": "SI_DOLENJSKA_", 
+                "title": "Novo mesto", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.6915, 
+                    45.531399999999998
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "331", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1448_", 
+                "parentId": "SI_KOCEVSKA_", 
+                "title": "Osilnica", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.228199999999999, 
+                    46.097700000000003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1020", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "35", 
+                                "snowNew_val": "3", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1449_", 
+                "parentId": "SI_GORENJSKA_", 
+                "title": "Pasja ravan", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.0525, 
+                    46.467199999999998
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "970", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "79", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1451_", 
+                "parentId": "SI_ZGORNJESAVSKA_", 
+                "title": "Planina pod Golico", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.506600000000001, 
+                    45.829000000000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "686", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1452_", 
+                "parentId": "SI_SPODNJEPOSAVSKA_", 
+                "title": "Planina v Podbo\u010dju", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": false, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.1973, 
+                    45.772199999999998
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "538", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1455_", 
+                "parentId": "SI_NOTRANJSKO-KRASKA_", 
+                "title": "Postojna", 
+                "type": "WMOSTATION"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.5784, 
+                    46.418199999999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1156", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "82", 
+                                "snowNew_val": "4", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1456_", 
+                "parentId": "SI_BOVSKA_", 
+                "title": "Predel", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.8492, 
+                    46.419699999999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "222", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1457_", 
+                "parentId": "SI_PODRAVSKA_", 
+                "title": "Ptuj", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.933, 
+                    46.366100000000003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "789", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "18", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1413_", 
+                "parentId": "SI_SAVINJSKA_", 
+                "title": "Radegunda", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.712899999999999, 
+                    46.497100000000003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "864", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "1440", 
+                                "snow": "70", 
+                                "snowNew_val": "48", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1031_", 
+                "parentId": "SI_ZGORNJESAVSKA_", 
+                "title": "Rate\u010de", 
+                "type": "WMOSTATION"
+            }, 
+            "snowSensorData": false, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.0901, 
+                    46.2361
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1642", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "51", 
+                                "snowNew_val": "29", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1458_", 
+                "parentId": "SI_GORENJSKA_", 
+                "title": "Ratitovec", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.6439, 
+                    46.240900000000003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "288", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1461_", 
+                "parentId": "SI_SAVINJSKA_", 
+                "title": "Roga\u0161ka Slatina", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.3315, 
+                    46.453000000000003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1494", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "47", 
+                                "snowNew_val": "12", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1462_", 
+                "parentId": "SI_PODRAVSKA_", 
+                "title": "Rogla", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.923500000000001, 
+                    46.346299999999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1344", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "137", 
+                                "snowNew_val": "5", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1463_", 
+                "parentId": "SI_ZGORNJESAVSKA_", 
+                "title": "Rudno polje", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.9236, 
+                    45.982100000000003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "545", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1465_", 
+                "parentId": "SI_OSREDNJESLOVENSKA_", 
+                "title": "Sevno", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.976000000000001, 
+                    45.5336
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1020", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "5", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1466_", 
+                "parentId": "SI_OBALNO-KRASKA_", 
+                "title": "Slavnik", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.4368, 
+                    46.343200000000003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "328", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1467_", 
+                "parentId": "SI_PODRAVSKA_", 
+                "title": "Slovenske Konjice", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.3988, 
+                    45.575600000000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1302", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "22", 
+                                "snowNew_val": "4", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1470_", 
+                "parentId": "SI_NOTRANJSKO-KRASKA_", 
+                "title": "Svi\u0161\u010daki", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.1112, 
+                    46.489600000000003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "455", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "1", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1471_", 
+                "parentId": "SI_KOROSKA_", 
+                "title": "\u0160martno pri Slovenj Gradcu", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.718, 
+                    46.177700000000002
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "187", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "1", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1473_", 
+                "parentId": "SI_BOVSKA_", 
+                "title": "Tolmin - Vol\u010de", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.3713, 
+                    46.094099999999997
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "692", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "1440", 
+                                "snow": "16", 
+                                "snowNew_val": "15", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1474_", 
+                "parentId": "SI_OSREDNJESLOVENSKA_", 
+                "title": "Topol", 
+                "type": "WMOSTATION"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.4567, 
+                    46.439900000000002
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1200", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "33", 
+                                "snowNew_val": "8", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1468_", 
+                "parentId": "SI_PODRAVSKA_", 
+                "title": "Trije Kralji na Pohorju", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.9109, 
+                    46.198599999999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "671", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "9", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1476_", 
+                "parentId": "SI_SAVINJSKA_", 
+                "title": "Trojane - Limovce", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.9634, 
+                    46.484900000000003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1695", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "62", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1477_", 
+                "parentId": "SI_KOROSKA_", 
+                "title": "Ur\u0161lja gora", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.6427, 
+                    45.831000000000003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "528", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "5", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1480_", 
+                "parentId": "SI_KOCEVSKA_", 
+                "title": "Velike La\u0161\u010de", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.839600000000001, 
+                    46.259399999999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1500", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "1440", 
+                                "snow": "170", 
+                                "snowNew_val": "60", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1481_", 
+                "parentId": "SI_ZGORNJESAVSKA_", 
+                "title": "Vogel", 
+                "type": "WMOSTATION"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.9031, 
+                    46.024999999999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1067", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "1440", 
+                                "snow": "49", 
+                                "snowNew_val": "27", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-0001_", 
+                "parentId": "SI_BOVSKA_", 
+                "title": "Vojsko", 
+                "type": "WMOSTATION"
+            }, 
+            "snowSensorData": false, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.2973, 
+                    45.973700000000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "310", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "11", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1483_", 
+                "parentId": "SI_OSREDNJESLOVENSKA_", 
+                "title": "Vrhnika", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.7478, 
+                    46.432899999999997
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1684", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "", 
+                                "snowNew_val": "", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1484_", 
+                "parentId": "SI_ZGORNJESAVSKA_", 
+                "title": "Vr\u0161i\u010d", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.0023, 
+                    45.939500000000002
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "716", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "2", 
+                                "snowNew_val": "0", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1408_", 
+                "parentId": "SI_BOVSKA_", 
+                "title": "Zadlog", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.232900000000001, 
+                    46.428800000000003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1538", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "168", 
+                                "snowNew_val": "5", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1486_", 
+                "parentId": "SI_ZGORNJESAVSKA_", 
+                "title": "Zelenica", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.350199999999999, 
+                    46.6434
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "723", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "17", 
+                                "snowNew_val": "1", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1459_", 
+                "parentId": "SI_KOROSKA_", 
+                "title": "Zgornja Kapla", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.9352, 
+                    46.423999999999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "778", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "83", 
+                                "snowNew_val": "2", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1487_", 
+                "parentId": "SI_ZGORNJESAVSKA_", 
+                "title": "Zgornja Radovna", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.028499999999999, 
+                    46.222099999999998
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "846", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2020-12-29", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "51", 
+                                "snowNew_val": "9", 
+                                "time": "420", 
+                                "valid": "2020-12-29T06:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1488_", 
+                "parentId": "SI_GORENJSKA_", 
+                "title": "Zgornja Sorica", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }
+    ], 
+    "icon_format": "png", 
+    "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/weather/", 
+    "language": "sl", 
+    "params": {
+        "snow": {
+            "desc": "Skupna vi\u0161ina sne\u017ene odeje", 
+            "name": "SF", 
+            "unit": "cm"
+        }, 
+        "snowNew_val": {
+            "desc": "Novozapadli sneg", 
+            "name": "SN", 
+            "unit": "cm"
+        }
+    }, 
+    "tsUpdated": "2020-12-29T06:15:03+00:00", 
+    "type": "FeatureCollection", 
+    "webcamUrl": "http://www.meteo.si/uploads/probase/www/observ/webcam/"
+}

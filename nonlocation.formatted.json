@@ -1,0 +1,594 @@
+{
+    "fcast_si_hint": {
+        "articleinfo": {
+            "pubdate": "Tuesday, 29.12.2020 ob 11h", 
+            "title": "Vremenski namig", 
+            "tsValid_issued": "2020-12-29 11:40"
+        }, 
+        "section": [
+            {
+                "id": "fcast_SLOVENIA_d1", 
+                "para": [
+                    {
+                        "para": "Danes znova poro\u010damo o mo\u010dnem potresu. Prosimo vas za izpolnitev vpra\u0161alnika. Zaradi preobremenitve strani, lahko t\u2026 https://t.co/BArkHA2J0c"
+                    }
+                ], 
+                "title": "Zadnja novica"
+            }
+        ]
+    }, 
+    "fcast_si_text": {
+        "articleinfo": {
+            "pubdate": "Torek, 29.12.2020 ob 16h", 
+            "title": "Vremenska napoved", 
+            "tsValid_issued": "2020-12-29 16:24"
+        }, 
+        "dataType": "", 
+        "features": "", 
+        "params": "", 
+        "section": [
+            {
+                "para": "Zve\u010der in pono\u010di bodo \u0161e ob\u010dasne padavine, deloma plohe, ki bodo pogostej\u0161e na zahodu ter jugu Slovenije. Po ni\u017einah bo ve\u010dinoma de\u017eevalo. Lahko nastane tudi kak\u0161na nevihta. Do jutra bodo padavine oslabele in ve\u010dinoma ponehale. Jutranje temperature bodo od 0 do 5, ob morju okoli 7, v alpskih dolinah do -3 \u00b0C.", 
+                "title": "NAPOVED ZA SLOVENIJO"
+            }, 
+            {
+                "para": "Jutri bo spremenljivo do prete\u017eno obla\u010dno, predvsem na jugu bo nastalo \u0161e nekaj krajevnih ploh. Popoldne se bo obla\u010dnost trgala. Najvi\u0161je dnevne temperature bodo od 1 do 8, na Primorskem okoli 10 \u00b0C.", 
+                "title": "NAPOVED ZA SLOVENIJO"
+            }, 
+            {
+                "para": "Pono\u010di bo ve\u010dinoma obla\u010dno, pojavljale se bodo krajevne plohe, predvsem ob Jadranu pa tudi nevihte. Zjutraj bodo padavine ve\u010dinoma ponehale.", 
+                "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
+            }, 
+            {
+                "para": "Jutri bodo na obmo\u010dju Kvarnerja in Gorskega Kotarja dopoldne ob\u010dasne padavine, drugod bo suho vreme.", 
+                "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
+            }, 
+            {
+                "para": "Nad Evropo je obse\u017eno obmo\u010dje nizkega zra\u010dnega tlaka. Hladna fronta se pomika nad osrednji Balkan. Za njo k nam od jugozahoda \u0161e naprej doteka vla\u017een zrak.", 
+                "title": "VREMENSKA SLIKA"
+            }, 
+            {
+                "para": "Jutri Nad Evropo je obse\u017eno obmo\u010dje nizkega zra\u010dnega tlaka, ki po\u010dasi slabi. Vremenska fronta se zadr\u017euje nad osrednjim in ju\u017enim Balkanom. Nad na\u0161e kraje s \u0161ibkim jugozahodnikom \u0161e naprej doteka razmeroma vla\u017een zrak.", 
+                "title": "VREMENSKA SLIKA"
+            }, 
+            {
+                "para": "V \u010detrtek se bo delno razjasnilo, po nekaterih ni\u017einah bo megla ali pa nizka obla\u010dnost. V petek se bo od jugozahoda poobla\u010dilo, predvsem na jugu in zahodu bodo ob\u010dasno padavine.", 
+                "title": "OBETI"
+            }, 
+            {
+                "para": "V ve\u010djem delu na\u0161ih gora je velika nevarnost sne\u017enih plazov.", 
+                "title": "OPOZORILO"
+            }, 
+            {
+                "para": "Zve\u010der in pono\u010di bo obla\u010dno z ob\u010dasnimi padavinami. Jutri bodo padavine ponehale, obla\u010dnost se bo trgala.", 
+                "title": "NAPOVED ZA SLOVENIJO - povzetek"
+            }
+        ], 
+        "tsUpdated": "2020-12-29T15:24:33+00:00", 
+        "type": "FeatureCollection"
+    }, 
+    "observation_si_avio": {
+        "dataType": "observation", 
+        "features": [
+            {
+                "geometry": {
+                    "coordinates": [
+                        15.525, 
+                        45.893599999999999
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "altitude": "154.0", 
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2020-12-29", 
+                            "timeline": [
+                                {
+                                    "clouds_icon_wwsyn_icon": "overcast_lightRA_night", 
+                                    "interval": "", 
+                                    "time": "1020", 
+                                    "valid": "2020-12-29T16:00:00+00:00", 
+                                    "vis_shortText": ">10", 
+                                    "wwsyn_icon": "lightRA"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "CERKLJE_LETAL-SCE_", 
+                    "parentId": "SI_SPODNJEPOSAVSKA_", 
+                    "title": "Letali\u0161\u010de Cerklje ob Krki"
+                }, 
+                "type": "Feature"
+            }, 
+            {
+                "geometry": {
+                    "coordinates": [
+                        15.6869, 
+                        46.479999999999997
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "altitude": "264.0", 
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2020-12-29", 
+                            "timeline": [
+                                {
+                                    "clouds_icon_wwsyn_icon": "overcast_night", 
+                                    "interval": "", 
+                                    "time": "1020", 
+                                    "valid": "2020-12-29T16:00:00+00:00", 
+                                    "vis_shortText": ">10", 
+                                    "wwsyn_icon": ""
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "MARIBOR_SLIVNICA_", 
+                    "parentId": "SI_PODRAVSKA_", 
+                    "title": "Letali\u0161\u010de Edvarda Rusjana Maribor"
+                }, 
+                "type": "Feature"
+            }, 
+            {
+                "geometry": {
+                    "coordinates": [
+                        14.477499999999999, 
+                        46.217799999999997
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "altitude": "364.0", 
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2020-12-29", 
+                            "timeline": [
+                                {
+                                    "clouds_icon_wwsyn_icon": "overcast_night", 
+                                    "interval": "", 
+                                    "time": "1020", 
+                                    "valid": "2020-12-29T16:00:00+00:00", 
+                                    "vis_shortText": "5-10", 
+                                    "wwsyn_icon": ""
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "LJUBL-ANA_BRNIK_", 
+                    "parentId": "SI_GORENJSKA_", 
+                    "title": "Letali\u0161\u010de Jo\u017eeta Pu\u010dnika Ljubljana"
+                }, 
+                "type": "Feature"
+            }, 
+            {
+                "geometry": {
+                    "coordinates": [
+                        13.6206, 
+                        45.4756
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "altitude": "2.0", 
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2020-12-29", 
+                            "timeline": [
+                                {
+                                    "clouds_icon_wwsyn_icon": "prevCloudy_night", 
+                                    "interval": "", 
+                                    "time": "1020", 
+                                    "valid": "2020-12-29T16:00:00+00:00", 
+                                    "vis_shortText": ">10", 
+                                    "wwsyn_icon": ""
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "PORTOROZ_SECOVLJE_", 
+                    "parentId": "SI_OBALNO-KRASKA_", 
+                    "title": "Letali\u0161\u010de Portoro\u017e"
+                }, 
+                "type": "Feature"
+            }
+        ], 
+        "icon_format": "png", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/weather/", 
+        "language": "sl", 
+        "params": {
+            "clouds_icon_wwsyn_icon": {
+                "desc": "Obla\u010dnost / Pojavi", 
+                "name": "NPHENOM.", 
+                "unit": ""
+            }, 
+            "vis_shortText": {
+                "desc": "Vidnost", 
+                "name": "VIS", 
+                "unit": "km"
+            }, 
+            "wwsyn_icon": {
+                "desc": "Pojavi", 
+                "name": "PHENOM.", 
+                "unit": ""
+            }
+        }, 
+        "tsUpdated": "2020-12-29T16:13:04+00:00", 
+        "type": "FeatureCollection", 
+        "webcamUrl": "http://www.meteo.si/uploads/probase/www/observ/webcam/"
+    }, 
+    "observation_si_eco": {
+        "dataType": "observationAms", 
+        "features": [
+            {
+                "geometry": {
+                    "coordinates": [
+                        15.2257, 
+                        46.236499999999999
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "altitude": "244.0", 
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2020-12-29", 
+                            "timeline": [
+                                {
+                                    "interval": "", 
+                                    "no2_val": "53", 
+                                    "pm10_val": "27", 
+                                    "time": "1020", 
+                                    "valid": "2020-12-29T16:00:00+00:00"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "METEO-1025_", 
+                    "parentId": "SI_SAVINJSKA_", 
+                    "title": "Celje"
+                }, 
+                "type": "Feature"
+            }, 
+            {
+                "geometry": {
+                    "coordinates": [
+                        14.5124, 
+                        46.0655
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "altitude": "299.0", 
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2020-12-29", 
+                            "timeline": [
+                                {
+                                    "interval": "", 
+                                    "no2_val": "54", 
+                                    "pm10_val": "18", 
+                                    "time": "1020", 
+                                    "valid": "2020-12-29T16:00:00+00:00"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "METEO-1005_", 
+                    "parentId": "SI_OSREDNJESLOVENSKA_", 
+                    "title": "Ljubljana"
+                }, 
+                "type": "Feature"
+            }, 
+            {
+                "geometry": {
+                    "coordinates": [
+                        16.191299999999998, 
+                        46.652099999999997
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "altitude": "188.0", 
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2020-12-29", 
+                            "timeline": [
+                                {
+                                    "interval": "", 
+                                    "no2_val": "3", 
+                                    "pm10_val": "2", 
+                                    "time": "1020", 
+                                    "valid": "2020-12-29T16:00:00+00:00"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "METEO-1444_", 
+                    "parentId": "SI_POMURSKA_", 
+                    "title": "Murska Sobota"
+                }, 
+                "type": "Feature"
+            }, 
+            {
+                "geometry": {
+                    "coordinates": [
+                        13.6524, 
+                        45.955599999999997
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "altitude": "113", 
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2020-12-29", 
+                            "timeline": [
+                                {
+                                    "interval": "", 
+                                    "no2_val": "47", 
+                                    "pm10_val": "13", 
+                                    "time": "1020", 
+                                    "valid": "2020-12-29T16:00:00+00:00"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "E25_", 
+                    "parentId": "", 
+                    "title": "Nova Gorica"
+                }, 
+                "type": "Feature"
+            }
+        ], 
+        "icon_format": "png", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/weather/", 
+        "language": "sl", 
+        "params": {
+            "no2_val": {
+                "desc": "Du\u0161ikov dioksid", 
+                "name": "NO2", 
+                "unit": "\u03bcg/m\u00b3"
+            }, 
+            "pm10_val": {
+                "desc": "Delci PM10", 
+                "name": "PM10", 
+                "unit": "\u03bcg/m\u00b3"
+            }
+        }, 
+        "tsUpdated": "2020-12-29T16:12:01+00:00", 
+        "type": "FeatureCollection", 
+        "webcamUrl": "http://www.meteo.si/uploads/probase/www/observ/webcam/"
+    }, 
+    "observation_si_water": {
+        "dataType": "observationAms", 
+        "features": [
+            {
+                "geometry": {
+                    "coordinates": [
+                        13.865, 
+                        46.279000000000003
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2020-12-29", 
+                            "timeline": [
+                                {
+                                    "time": "1020", 
+                                    "tw": "5", 
+                                    "valid": "2020-12-29T16:00:00+00:00", 
+                                    "wLev": "37"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "HYDRO-3280", 
+                    "title": "Bohinjsko jezero"
+                }, 
+                "type": "Feature"
+            }, 
+            {
+                "geometry": {
+                    "coordinates": [
+                        14.099, 
+                        46.359999999999999
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2020-12-29", 
+                            "timeline": [
+                                {
+                                    "time": "1020", 
+                                    "tw": "6", 
+                                    "valid": "2020-12-29T16:00:00+00:00", 
+                                    "wLev": "49"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "HYDRO-3350", 
+                    "title": "Blejsko jezero"
+                }, 
+                "type": "Feature"
+            }, 
+            {
+                "geometry": {
+                    "coordinates": [
+                        15.076000000000001, 
+                        45.484999999999999
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2020-12-29", 
+                            "timeline": [
+                                {
+                                    "time": "1020", 
+                                    "tw": "8", 
+                                    "valid": "2020-12-29T16:00:00+00:00", 
+                                    "wLev": "323"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "HYDRO-4828", 
+                    "title": "Kolpa"
+                }, 
+                "type": "Feature"
+            }, 
+            {
+                "geometry": {
+                    "coordinates": [
+                        13.724, 
+                        45.548000000000002
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2020-12-29", 
+                            "timeline": [
+                                {
+                                    "time": "1020", 
+                                    "tw": "12", 
+                                    "valid": "2020-12-29T16:00:00+00:00", 
+                                    "wLev": "242"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "HYDRO-9350", 
+                    "title": "Jadransko morje"
+                }, 
+                "type": "Feature"
+            }
+        ], 
+        "icon_format": "png", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/weather/", 
+        "language": "sl", 
+        "params": {
+            "tw": {
+                "desc": "Temp. vode", 
+                "unit": "\u00b0C"
+            }, 
+            "wLev": {
+                "desc": "Vodostaj", 
+                "unit": "cm"
+            }
+        }, 
+        "type": "FeatureCollection"
+    }, 
+    "warning_si": {
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
+        "language": "sl", 
+        "locations": [
+            {
+                "countryIsoCode2": "SI", 
+                "id": "SLOVENIA_", 
+                "name": "Slovenija", 
+                "summary": [
+                    {
+                        "event": [
+                            {
+                                "degree": "orange", 
+                                "parameter": "WarningAvalanche", 
+                                "parameter_desc": "Sne\u017eni plazovi", 
+                                "region_map": "warning_avalanche_si-region_d1hlast-d3h00.png", 
+                                "validEnd": "2020-12-29T22:59:00+00:00", 
+                                "validStart": "2020-12-29T15:00:00+00:00"
+                            }
+                        ], 
+                        "interval": "2 days", 
+                        "type": "maxDegreeEvent"
+                    }, 
+                    {
+                        "event": [
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningWind", 
+                                "parameter_desc": "Veter", 
+                                "validEnd": "2020-12-29T15:59:00+00:00", 
+                                "validStart": "2020-12-29T15:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningRain", 
+                                "parameter_desc": "De\u017e", 
+                                "validEnd": "2020-12-29T22:59:00+00:00", 
+                                "validStart": "2020-12-29T15:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningSnow", 
+                                "parameter_desc": "Sneg", 
+                                "validEnd": "2021-01-02T21:59:00+00:00", 
+                                "validStart": "2021-01-01T14:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningTS", 
+                                "parameter_desc": "Nevihte", 
+                                "validEnd": "2020-12-29T21:59:00+00:00", 
+                                "validStart": "2020-12-29T15:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "orange", 
+                                "parameter": "WarningAvalanche", 
+                                "parameter_desc": "Sne\u017eni plazovi", 
+                                "validEnd": "2020-12-29T22:59:00+00:00", 
+                                "validStart": "2020-12-29T15:00:00+00:00"
+                            }
+                        ], 
+                        "interval": "5 days", 
+                        "type": "maxDegreeEvent"
+                    }
+                ], 
+                "text": {
+                    "id": "warning_SLOVENIA", 
+                    "para": [
+                        "V ve\u010djem delu na\u0161ih gora je velika nevarnost sne\u017enih plazov."
+                    ], 
+                    "title": "Opozorilo"
+                }
+            }
+        ], 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
+        "type": "warning", 
+        "updated": "2020-12-29T09:30:00+00:00"
+    }
+}

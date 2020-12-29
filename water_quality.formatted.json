@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "properties": {
+                "days": [
+                    {
+                        "date": "2020-09-11", 
+                        "timeline": [
+                            {
+                                "skladnost": 1, 
+                                "temperatura": 19, 
+                                "valid": "2020-09-11T13:59:43Z"
+                            }
+                        ]
+                    }
+                ], 
+                "title": "morje, Debeli rti\u010d"
+            }
+        }, 
+        {
+            "properties": {
+                "days": [
+                    {
+                        "date": "2020-09-11", 
+                        "timeline": [
+                            {
+                                "skladnost": 1, 
+                                "temperatura": 19, 
+                                "valid": "2020-09-11T13:59:43Z"
+                            }
+                        ]
+                    }
+                ], 
+                "title": "morje, RKS MZL Debeli rti\u010d"
+            }
+        }, 
+        {
+            "properties": {
+                "days": [
+                    {
+                        "date": "2020-09-11", 
+                        "timeline": [
+                            {
+                                "skladnost": 1, 
+                                "temperatura": 19, 
+                                "valid": "2020-09-11T13:59:43Z"
+                            }
+                        ]
+                    }
+                ], 
+                "title": "morje, Bele skale"
+            }
+        }, 
+        {
+            "properties": {
+                "days": [
+                    {
+                        "date": "2020-09-11", 
+                        "timeline": [
+                            {
+                                "skladnost": 1, 
+                                "temperatura": 19, 
+                                "valid": "2020-09-11T13:59:43Z"
+                            }
+                        ]
+                    }
+                ], 
+                "title": "Bohinj, Fu\u017einarski zaliv"
+            }
+        }
+    ], 
+    "params": {
+        "skladnost": {
+            "desc": "Skladnost", 
+            "name": "skladnost", 
+            "unit": ""
+        }, 
+        "temperatura": {
+            "desc": "Temperatura", 
+            "name": "temperatura", 
+            "unit": "\u00b0C"
+        }
+    }, 
+    "type": "FeatureCollection"
+}
