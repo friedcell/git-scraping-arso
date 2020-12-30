@@ -2,7 +2,7 @@
 
 /raw includes raw files, formated for easier inspection of changes are in root.
 
-Locations are top 10 most populous cities in Slovenia and centers of all city municipalities.
+Locations are top 10 most populous cities in Slovenia and centers of all city municipalities except Slovenj Gradec.
 
 potresi_public is fetched every minute, nonlocation and location every 30 minutes.
 
@@ -22,4 +22,3 @@ potresi_public is fetched every minute, nonlocation and location every 30 minute
 * trbovlje	http://vreme.arso.gov.si/api/1.0/location/?location=Trbovlje
 * nova_gorica	http://vreme.arso.gov.si/api/1.0/location/?location=Nova+Gorica
 * murska_sobota	http://vreme.arso.gov.si/api/1.0/location/?location=Murska+Sobota
-* slovenj_gradec	http://vreme.arso.gov.si/api/1.0/location/?location=Slovenj+Gradec
