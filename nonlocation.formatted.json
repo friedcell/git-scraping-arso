@@ -19,24 +19,27 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sreda, 30.12.2020 ob 13h", 
+            "pubdate": "Sreda, 30.12.2020 ob 16h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2020-12-30 13:07"
+            "tsValid_issued": "2020-12-30 15:52"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Popoldne bo spremenljivo do prete\u017eno obla\u010dno, nastalo bo \u0161e nekaj krajevnih ploh. Najvi\u0161je dnevne temperature bodo od 1 do 8, na Primorskem okoli 10 \u00b0C.", 
+                "para": [
+                    "Pono\u010di bo na severovzhodu suho, drugod se bodo pojavljale krajevne plohe, lahko tudi sne\u017ene.", 
+                    "Jutranje temperature bodo od -1 do 4, ob morju 6, v alpskih dolinah okoli -4 \u00b0C."
+                ], 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bodo na jugu in sprva tudi na severozahodu Slovenije \u0161e manj\u0161e padavine, \u010dez dan se bo obla\u010dnost postopno umikala. Po nekaterih ni\u017einah v notranjosti bo ve\u010dji del dneva vztrajala megla ali pa nizka obla\u010dnost. Jutranje temperature bodo od -1 do 3, ob morju 6, v alpskih dolinah okoli -4, najvi\u0161je dnevne od 1 do 8, na Primorskem do 11 \u00b0C.", 
+                "para": "Jutri bodo na jugu in sprva tudi na severozahodu Slovenije \u0161e manj\u0161e padavine, \u010dez dan se bo obla\u010dnost postopno umikala. Po nekaterih ni\u017einah v notranjosti bo ve\u010dji del dneva vztrajala megla ali pa nizka obla\u010dnost. Najvi\u0161je dnevne temperature bodo od 1 do 8, na Primorskem do 12 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Danes in jutri bodo ob Jadranu ob\u010dasno \u0161e nastajale plohe, drugod bo ve\u010dinoma suho vreme, obla\u010dnost se bo trgala.", 
+                "para": "Pono\u010di in jutri bodo ob Jadranu ob\u010dasno \u0161e nastajale plohe, drugod bo ve\u010dinoma suho vreme, obla\u010dnost se bo trgala.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
@@ -59,11 +62,11 @@
                 "title": "OPOZORILO"
             }, 
             {
-                "para": "Danes in jutri bo prete\u017eno obla\u010dno s kraj\u0161imi son\u010dnimi obdobji, po nekaterih ni\u017einah bo megleno. Na jugu bo nastala kak\u0161na ploha.", 
+                "para": "Pono\u010di in jutri bo prete\u017eno obla\u010dno s kraj\u0161imi son\u010dnimi obdobji, po nekaterih ni\u017einah bo megleno. Na jugu bo nastala kak\u0161na ploha.", 
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2020-12-30T12:08:00+00:00", 
+        "tsUpdated": "2020-12-30T14:52:58+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -529,7 +532,7 @@
                                 "parameter_desc": "Sne\u017eni plazovi", 
                                 "region_map": "warning_avalanche_si-region_d1hlast-d3h00.png", 
                                 "validEnd": "2020-12-30T22:59:00+00:00", 
-                                "validStart": "2020-12-30T13:00:00+00:00"
+                                "validStart": "2020-12-30T14:00:00+00:00"
                             }
                         ], 
                         "interval": "2 days", 
@@ -556,7 +559,7 @@
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
                                 "validEnd": "2020-12-30T22:59:00+00:00", 
-                                "validStart": "2020-12-30T13:00:00+00:00"
+                                "validStart": "2020-12-30T14:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
