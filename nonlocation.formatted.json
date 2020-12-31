@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "\u010cetrtek, 31.12.2020 ob 13h", 
+            "pubdate": "\u010cetrtek, 31.12.2020 ob 16h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2020-12-31 13:16"
+            "tsValid_issued": "2020-12-31 16:03"
         }, 
         "dataType": "", 
         "features": "", 
@@ -29,7 +29,6 @@
         "section": [
             {
                 "para": [
-                    "Popoldne bo zmerno do prete\u017eno obla\u010dno, ponekod se bo delno razjasnilo. Najvi\u0161je dnevne temperature bodo od 2 do 7, na Primorskem okoli 10 \u00b0C.\n", 
                     "Pono\u010di bo po ni\u017einah ve\u010dinoma nastala megla ali nizka obla\u010dnost, sicer pa bo deloma jasno.  Jutranje temperature bodo okoli 0, ob morju okoli 5, v alpskih dolinah do -5 \u00b0C."
                 ], 
                 "title": "NAPOVED ZA SLOVENIJO"
@@ -39,7 +38,7 @@
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Danes bo v krajih zahodno od nas precej jasno, drugod zmerno do prete\u017eno obla\u010dno.", 
+                "para": "Pono\u010di bo deloma jasno in po ni\u017einah megleno.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
@@ -47,7 +46,7 @@
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
-                "para": "Vremenska fronta se je pomaknila nad vzhodni in ju\u017eni Balkan. Nad Alpami je prehodno nastalo \u0161ibko obmo\u010dje visokega zra\u010dnega tlaka. Nad na\u0161e kraje s \u0161ibkim vzhodnikom doteka nekoliko hladnej\u0161i zrak.", 
+                "para": "Nad Alpami je prehodno nastalo \u0161ibko obmo\u010dje visokega zra\u010dnega tlaka. Nad na\u0161e kraje s \u0161ibkim vzhodnikom doteka nekoliko hladnej\u0161i in bolj suh zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
@@ -67,11 +66,11 @@
                 "title": "OPOZORILO"
             }, 
             {
-                "para": "Popoldne se bo ponekod delno razjasnilo. Jutri bo na zahodu znova de\u017e, na vzhodu pa nekaj megle in sonca.", 
+                "para": "Pono\u010di bo po ni\u017einah ve\u010dinoma obla\u010dno ali megleno. Jutri bo na zahodu znova de\u017e, na vzhodu pa nekaj sonca in vetra.", 
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2020-12-31T12:16:36+00:00", 
+        "tsUpdated": "2020-12-31T15:04:01+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -96,8 +95,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "prevCloudy_day", 
                                     "interval": "", 
-                                    "time": "900", 
-                                    "valid": "2020-12-31T14:00:00+00:00", 
+                                    "time": "960", 
+                                    "valid": "2020-12-31T15:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -127,10 +126,10 @@
                             "date": "2020-12-31", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "prevCloudy_day", 
+                                    "clouds_icon_wwsyn_icon": "partCloudy_day", 
                                     "interval": "", 
-                                    "time": "900", 
-                                    "valid": "2020-12-31T14:00:00+00:00", 
+                                    "time": "960", 
+                                    "valid": "2020-12-31T15:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -162,8 +161,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "overcast_day", 
                                     "interval": "", 
-                                    "time": "900", 
-                                    "valid": "2020-12-31T14:00:00+00:00", 
+                                    "time": "960", 
+                                    "valid": "2020-12-31T15:00:00+00:00", 
                                     "vis_shortText": "5-10", 
                                     "wwsyn_icon": ""
                                 }
@@ -193,10 +192,10 @@
                             "date": "2020-12-31", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "overcast_day", 
+                                    "clouds_icon_wwsyn_icon": "prevCloudy_day", 
                                     "interval": "", 
-                                    "time": "900", 
-                                    "valid": "2020-12-31T14:00:00+00:00", 
+                                    "time": "960", 
+                                    "valid": "2020-12-31T15:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -230,7 +229,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2020-12-31T14:13:04+00:00", 
+        "tsUpdated": "2020-12-31T15:13:05+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "http://www.meteo.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -255,10 +254,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "15", 
-                                    "pm10_val": "12", 
-                                    "time": "900", 
-                                    "valid": "2020-12-31T14:00:00+00:00"
+                                    "no2_val": "19", 
+                                    "pm10_val": "15", 
+                                    "time": "960", 
+                                    "valid": "2020-12-31T15:00:00+00:00"
                                 }
                             ]
                         }
@@ -287,10 +286,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "38", 
-                                    "pm10_val": "20", 
-                                    "time": "900", 
-                                    "valid": "2020-12-31T14:00:00+00:00"
+                                    "no2_val": "36", 
+                                    "pm10_val": "19", 
+                                    "time": "960", 
+                                    "valid": "2020-12-31T15:00:00+00:00"
                                 }
                             ]
                         }
@@ -319,10 +318,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "", 
-                                    "pm10_val": "16", 
-                                    "time": "900", 
-                                    "valid": "2020-12-31T14:00:00+00:00"
+                                    "no2_val": "21", 
+                                    "pm10_val": "25", 
+                                    "time": "960", 
+                                    "valid": "2020-12-31T15:00:00+00:00"
                                 }
                             ]
                         }
@@ -351,10 +350,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "18", 
-                                    "pm10_val": "8", 
-                                    "time": "900", 
-                                    "valid": "2020-12-31T14:00:00+00:00"
+                                    "no2_val": "16", 
+                                    "pm10_val": "5", 
+                                    "time": "960", 
+                                    "valid": "2020-12-31T15:00:00+00:00"
                                 }
                             ]
                         }
@@ -381,7 +380,7 @@
                 "unit": "\u03bcg/m\u00b3"
             }
         }, 
-        "tsUpdated": "2020-12-31T14:12:02+00:00", 
+        "tsUpdated": "2020-12-31T15:12:01+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "http://www.meteo.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -404,9 +403,9 @@
                             "date": "2020-12-31", 
                             "timeline": [
                                 {
-                                    "time": "900", 
+                                    "time": "960", 
                                     "tw": "5", 
-                                    "valid": "2020-12-31T14:00:00+00:00", 
+                                    "valid": "2020-12-31T15:00:00+00:00", 
                                     "wLev": "30"
                                 }
                             ]
@@ -433,9 +432,9 @@
                             "date": "2020-12-31", 
                             "timeline": [
                                 {
-                                    "time": "900", 
+                                    "time": "960", 
                                     "tw": "6", 
-                                    "valid": "2020-12-31T14:00:00+00:00", 
+                                    "valid": "2020-12-31T15:00:00+00:00", 
                                     "wLev": "48"
                                 }
                             ]
@@ -462,10 +461,10 @@
                             "date": "2020-12-31", 
                             "timeline": [
                                 {
-                                    "time": "900", 
+                                    "time": "960", 
                                     "tw": "10", 
-                                    "valid": "2020-12-31T14:00:00+00:00", 
-                                    "wLev": "172"
+                                    "valid": "2020-12-31T15:00:00+00:00", 
+                                    "wLev": "171"
                                 }
                             ]
                         }
@@ -491,10 +490,10 @@
                             "date": "2020-12-31", 
                             "timeline": [
                                 {
-                                    "time": "900", 
+                                    "time": "960", 
                                     "tw": "12", 
-                                    "valid": "2020-12-31T14:00:00+00:00", 
-                                    "wLev": "177"
+                                    "valid": "2020-12-31T15:00:00+00:00", 
+                                    "wLev": "161"
                                 }
                             ]
                         }
@@ -555,7 +554,7 @@
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
                                 "validEnd": "2021-01-01T21:59:00+00:00", 
-                                "validStart": "2020-12-31T13:00:00+00:00"
+                                "validStart": "2020-12-31T14:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
