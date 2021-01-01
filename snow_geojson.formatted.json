@@ -19,10 +19,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "4", 
+                                "snow": "2", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -53,10 +53,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "70", 
-                                "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "snow": "71", 
+                                "snowNew_val": "1", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -89,8 +89,8 @@
                                 "interval": "720", 
                                 "snow": "43", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -121,10 +121,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "7", 
+                                "snow": "6", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -155,10 +155,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "28", 
+                                "snow": "27", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -169,40 +169,6 @@
                 "type": "SI_RNSTATION_B"
             }, 
             "snowSensorData": true, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    15.2257, 
-                    46.236499999999999
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "altitude": "244", 
-                "country": "SI", 
-                "days": [
-                    {
-                        "UTCoffset": "+01:00", 
-                        "date": "2021-01-01", 
-                        "timeline": [
-                            {
-                                "interval": "1440", 
-                                "snow": "0", 
-                                "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
-                            }
-                        ]
-                    }
-                ], 
-                "id": "METEO-1025_", 
-                "parentId": "SI_SAVINJSKA_", 
-                "title": "Celje", 
-                "type": "WMOSTATION"
-            }, 
-            "snowSensorData": false, 
             "type": "Feature"
         }, 
         {
@@ -225,8 +191,8 @@
                                 "interval": "720", 
                                 "snow": "", 
                                 "snowNew_val": "", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -237,40 +203,6 @@
                 "type": "SI_RNSTATION_B"
             }, 
             "snowSensorData": true, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    15.146100000000001, 
-                    45.560000000000002
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "altitude": "157", 
-                "country": "SI", 
-                "days": [
-                    {
-                        "UTCoffset": "+01:00", 
-                        "date": "2021-01-01", 
-                        "timeline": [
-                            {
-                                "interval": "720", 
-                                "snow": "0", 
-                                "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
-                            }
-                        ]
-                    }
-                ], 
-                "id": "METEO-1033_", 
-                "parentId": "SI_BELOKRANJSKA_", 
-                "title": "\u010crnomelj", 
-                "type": "WMOSTATION"
-            }, 
-            "snowSensorData": false, 
             "type": "Feature"
         }, 
         {
@@ -291,10 +223,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "2", 
-                                "snowNew_val": "1", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "snow": "1", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -327,8 +259,8 @@
                                 "interval": "720", 
                                 "snow": "", 
                                 "snowNew_val": "", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -359,10 +291,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "7", 
+                                "snow": "6", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -395,8 +327,8 @@
                                 "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -427,10 +359,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "1", 
+                                "snow": "", 
                                 "snowNew_val": "", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -461,10 +393,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "1", 
-                                "snowNew_val": "1", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -495,10 +427,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "17", 
+                                "snow": "16", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -529,10 +461,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "12", 
+                                "snow": "11", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -563,10 +495,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "335", 
+                                "snow": "334", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -597,10 +529,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "0", 
-                                "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "snow": "", 
+                                "snowNew_val": "", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -608,7 +540,7 @@
                 "id": "METEO-1426_", 
                 "parentId": "SI_KOCEVSKA_", 
                 "title": "Ko\u010devje", 
-                "type": "WMOSTATION"
+                "type": "SI_RNSTATION_B"
             }, 
             "snowSensorData": true, 
             "type": "Feature"
@@ -631,10 +563,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "87", 
+                                "snow": "86", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -667,8 +599,8 @@
                                 "interval": "720", 
                                 "snow": "3", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -700,9 +632,9 @@
                             {
                                 "interval": "720", 
                                 "snow": "325", 
-                                "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "snowNew_val": "5", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -733,10 +665,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "16", 
+                                "snow": "15", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -767,10 +699,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "91", 
-                                "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "snow": "", 
+                                "snowNew_val": "", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -801,10 +733,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "30", 
+                                "snow": "29", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -837,8 +769,8 @@
                                 "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -871,8 +803,8 @@
                                 "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -903,10 +835,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "1", 
-                                "snowNew_val": "1", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -914,7 +846,7 @@
                 "id": "METEO-1493_", 
                 "parentId": "SI_GORENJSKA_", 
                 "title": "Letali\u0161\u010de Jo\u017eeta Pu\u010dnika Ljubljana", 
-                "type": "SI_RNSTATION_B"
+                "type": "WMOSTATION"
             }, 
             "snowSensorData": true, 
             "type": "Feature"
@@ -939,8 +871,8 @@
                                 "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -971,10 +903,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "1", 
-                                "snowNew_val": "1", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1007,8 +939,8 @@
                                 "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1019,40 +951,6 @@
                 "type": "SI_RNSTATION_B"
             }, 
             "snowSensorData": true, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    14.5124, 
-                    46.0655
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "altitude": "299", 
-                "country": "SI", 
-                "days": [
-                    {
-                        "UTCoffset": "+01:00", 
-                        "date": "2021-01-01", 
-                        "timeline": [
-                            {
-                                "interval": "720", 
-                                "snow": "0", 
-                                "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
-                            }
-                        ]
-                    }
-                ], 
-                "id": "METEO-1005_", 
-                "parentId": "SI_OSREDNJESLOVENSKA_", 
-                "title": "Ljubljana", 
-                "type": "WMOSTATION"
-            }, 
-            "snowSensorData": false, 
             "type": "Feature"
         }, 
         {
@@ -1075,8 +973,8 @@
                                 "interval": "720", 
                                 "snow": "41", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1108,9 +1006,9 @@
                             {
                                 "interval": "720", 
                                 "snow": "0", 
-                                "snowNew_val": "", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1141,10 +1039,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "1", 
-                                "snowNew_val": "1", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1175,10 +1073,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "1", 
-                                "snowNew_val": "1", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1211,8 +1109,8 @@
                                 "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1245,8 +1143,8 @@
                                 "interval": "720", 
                                 "snow": "2", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1277,10 +1175,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "12", 
+                                "snow": "6", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1311,10 +1209,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "1", 
+                                "snow": "", 
                                 "snowNew_val": "", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1347,8 +1245,8 @@
                                 "interval": "720", 
                                 "snow": "24", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1379,10 +1277,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "1", 
+                                "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1413,10 +1311,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "1", 
-                                "snowNew_val": "1", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1449,8 +1347,8 @@
                                 "interval": "720", 
                                 "snow": "", 
                                 "snowNew_val": "", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1481,10 +1379,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "32", 
+                                "snow": "31", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1515,10 +1413,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "104", 
+                                "snow": "102", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1549,10 +1447,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "86", 
+                                "snow": "85", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1585,8 +1483,8 @@
                                 "interval": "720", 
                                 "snow": "1", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1619,8 +1517,8 @@
                                 "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1628,7 +1526,7 @@
                 "id": "METEO-1455_", 
                 "parentId": "SI_NOTRANJSKO-KRASKA_", 
                 "title": "Postojna", 
-                "type": "WMOSTATION"
+                "type": "SI_RNSTATION_B"
             }, 
             "snowSensorData": true, 
             "type": "Feature"
@@ -1651,10 +1549,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "98", 
-                                "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "snow": "102", 
+                                "snowNew_val": "4", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1687,8 +1585,8 @@
                                 "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1721,8 +1619,8 @@
                                 "interval": "720", 
                                 "snow": "9", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1733,40 +1631,6 @@
                 "type": "SI_RNSTATION_B"
             }, 
             "snowSensorData": true, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    13.712899999999999, 
-                    46.497100000000003
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "altitude": "864", 
-                "country": "SI", 
-                "days": [
-                    {
-                        "UTCoffset": "+01:00", 
-                        "date": "2021-01-01", 
-                        "timeline": [
-                            {
-                                "interval": "1440", 
-                                "snow": "85", 
-                                "snowNew_val": "1", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
-                            }
-                        ]
-                    }
-                ], 
-                "id": "METEO-1031_", 
-                "parentId": "SI_ZGORNJESAVSKA_", 
-                "title": "Rate\u010de", 
-                "type": "WMOSTATION"
-            }, 
-            "snowSensorData": false, 
             "type": "Feature"
         }, 
         {
@@ -1787,10 +1651,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "79", 
-                                "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "snow": "82", 
+                                "snowNew_val": "3", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1821,10 +1685,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "1", 
-                                "snowNew_val": "1", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1855,10 +1719,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "65", 
+                                "snow": "64", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1889,10 +1753,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "151", 
-                                "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "snow": "152", 
+                                "snowNew_val": "1", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1925,8 +1789,8 @@
                                 "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1959,8 +1823,8 @@
                                 "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -1991,10 +1855,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "1", 
-                                "snowNew_val": "1", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -2025,10 +1889,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "45", 
-                                "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "snow": "46", 
+                                "snowNew_val": "1", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -2061,8 +1925,8 @@
                                 "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -2095,8 +1959,8 @@
                                 "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -2126,11 +1990,11 @@
                         "date": "2021-01-01", 
                         "timeline": [
                             {
-                                "interval": "1440", 
+                                "interval": "720", 
                                 "snow": "6", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -2138,7 +2002,7 @@
                 "id": "METEO-1474_", 
                 "parentId": "SI_OSREDNJESLOVENSKA_", 
                 "title": "Topol", 
-                "type": "WMOSTATION"
+                "type": "SI_RNSTATION_B"
             }, 
             "snowSensorData": true, 
             "type": "Feature"
@@ -2161,10 +2025,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "44", 
+                                "snow": "43", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -2195,10 +2059,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "4", 
+                                "snow": "3", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -2229,10 +2093,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "63", 
+                                "snow": "62", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -2263,10 +2127,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "1", 
-                                "snowNew_val": "1", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "snow": "", 
+                                "snowNew_val": "", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -2296,11 +2160,11 @@
                         "date": "2021-01-01", 
                         "timeline": [
                             {
-                                "interval": "1440", 
-                                "snow": "200", 
-                                "snowNew_val": "1", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "interval": "720", 
+                                "snow": "169", 
+                                "snowNew_val": "2", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -2308,43 +2172,9 @@
                 "id": "METEO-1481_", 
                 "parentId": "SI_ZGORNJESAVSKA_", 
                 "title": "Vogel", 
-                "type": "WMOSTATION"
+                "type": "SI_RNSTATION_B"
             }, 
             "snowSensorData": true, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    13.9031, 
-                    46.024999999999999
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "altitude": "1067", 
-                "country": "SI", 
-                "days": [
-                    {
-                        "UTCoffset": "+01:00", 
-                        "date": "2021-01-01", 
-                        "timeline": [
-                            {
-                                "interval": "1440", 
-                                "snow": "58", 
-                                "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
-                            }
-                        ]
-                    }
-                ], 
-                "id": "METEO-0001_", 
-                "parentId": "SI_BOVSKA_", 
-                "title": "Vojsko", 
-                "type": "WMOSTATION"
-            }, 
-            "snowSensorData": false, 
             "type": "Feature"
         }, 
         {
@@ -2367,8 +2197,8 @@
                                 "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -2399,10 +2229,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "159", 
-                                "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "snow": "161", 
+                                "snowNew_val": "2", 
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -2433,10 +2263,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "3", 
+                                "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -2467,10 +2297,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "188", 
+                                "snow": "186", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -2503,8 +2333,8 @@
                                 "interval": "720", 
                                 "snow": "10", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -2535,10 +2365,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "47", 
+                                "snow": "45", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2021-01-01T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2021-01-01T18:00:00+00:00"
                             }
                         ]
                     }
@@ -2567,7 +2397,7 @@
             "unit": "cm"
         }
     }, 
-    "tsUpdated": "2021-01-01T06:15:02+00:00", 
+    "tsUpdated": "2021-01-01T18:15:02+00:00", 
     "type": "FeatureCollection", 
     "webcamUrl": "http://www.meteo.si/uploads/probase/www/observ/webcam/"
 }
