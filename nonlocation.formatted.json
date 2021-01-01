@@ -546,6 +546,13 @@
                             }, 
                             {
                                 "degree": "yellow", 
+                                "parameter": "WarningTS", 
+                                "parameter_desc": "Nevihte", 
+                                "validEnd": "2021-01-02T17:59:00+00:00", 
+                                "validStart": "2021-01-02T14:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
                                 "validEnd": "2021-01-01T21:59:00+00:00", 
@@ -567,6 +574,6 @@
         ], 
         "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2020-12-31T06:35:00+00:00"
+        "updated": "2021-01-01T06:24:00+00:00"
     }
 }
