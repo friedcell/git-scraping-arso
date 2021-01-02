@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sobota, 2.1.2021 ob 9h", 
+            "pubdate": "Sobota, 2.1.2021 ob 11h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-01-02 08:33"
+            "tsValid_issued": "2021-01-02 10:51"
         }, 
         "dataType": "", 
         "features": "", 
@@ -32,7 +32,7 @@
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo prete\u017eno obla\u010dno, ob\u010dasno bodo \u0161e krajevne padavine, deloma plohe. Jutranje temperature bodo od -2 do 3, na Primorskem okoli 6, najvi\u0161je dnevne od 1 do 6, na Primorskem do 11 \u00b0C.", 
+                "para": "Jutri bo prete\u017eno obla\u010dno, ob\u010dasno bodo \u0161e krajevne padavine, deloma plohe. Jutranje temperature bodo od -1 do 3, na Primorskem okoli 7, najvi\u0161je dnevne od 2 do 7, na Primorskem do 11 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -56,7 +56,7 @@
                 "title": "OBETI"
             }, 
             {
-                "para": "Dodatnega opozorila ni.", 
+                "para": "Danes se bo predvsem v visokogorju Julijcev pove\u010dala nevarnost sne\u017enih plazov.", 
                 "title": "OPOZORILO"
             }, 
             {
@@ -64,7 +64,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-01-02T07:33:24+00:00", 
+        "tsUpdated": "2021-01-02T09:51:39+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -523,7 +523,16 @@
                 "name": "Slovenija", 
                 "summary": [
                     {
-                        "event": "", 
+                        "event": [
+                            {
+                                "degree": "orange", 
+                                "parameter": "WarningAvalanche", 
+                                "parameter_desc": "Sne\u017eni plazovi", 
+                                "region_map": "warning_avalanche_si-region_d1hlast-d3h00.png", 
+                                "validEnd": "2021-01-03T21:59:00+00:00", 
+                                "validStart": "2021-01-02T09:00:00+00:00"
+                            }
+                        ], 
                         "interval": "2 days", 
                         "type": "maxDegreeEvent"
                     }, 
@@ -541,14 +550,14 @@
                                 "parameter": "WarningRain", 
                                 "parameter_desc": "De\u017e", 
                                 "validEnd": "2021-01-02T21:59:00+00:00", 
-                                "validStart": "2021-01-02T08:00:00+00:00"
+                                "validStart": "2021-01-02T09:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningSnow", 
                                 "parameter_desc": "Sneg", 
                                 "validEnd": "2021-01-02T21:59:00+00:00", 
-                                "validStart": "2021-01-02T08:00:00+00:00"
+                                "validStart": "2021-01-02T09:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
@@ -565,11 +574,11 @@
                                 "validStart": "2021-01-02T09:00:00+00:00"
                             }, 
                             {
-                                "degree": "yellow", 
+                                "degree": "orange", 
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
-                                "validEnd": "2021-01-06T21:59:00+00:00", 
-                                "validStart": "2021-01-02T08:00:00+00:00"
+                                "validEnd": "2021-01-03T22:59:00+00:00", 
+                                "validStart": "2021-01-02T09:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -579,7 +588,7 @@
                 "text": {
                     "id": "warning_SLOVENIA", 
                     "para": [
-                        "Dodatnega opozorila ni."
+                        "Danes se bo predvsem v visokogorju Julijcev pove\u010dala nevarnost sne\u017enih plazov. "
                     ], 
                     "title": "Opozorilo"
                 }
@@ -587,6 +596,6 @@
         ], 
         "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-01-02T07:08:00+00:00"
+        "updated": "2021-01-02T09:52:00+00:00"
     }
 }
