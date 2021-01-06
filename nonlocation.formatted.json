@@ -530,6 +530,13 @@
                         "event": [
                             {
                                 "degree": "yellow", 
+                                "parameter": "WarningWind", 
+                                "parameter_desc": "Veter", 
+                                "validEnd": "2021-01-08T21:59:00+00:00", 
+                                "validStart": "2021-01-08T06:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
                                 "validEnd": "2021-01-06T21:59:00+00:00", 
@@ -558,6 +565,6 @@
         ], 
         "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-01-05T06:01:00+00:00"
+        "updated": "2021-01-06T06:32:00+00:00"
     }
 }
