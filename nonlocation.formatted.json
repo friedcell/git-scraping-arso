@@ -19,24 +19,24 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Nedelja, 10.1.2021 ob 13h", 
+            "pubdate": "Nedelja, 10.1.2021 ob 16h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-01-10 13:18"
+            "tsValid_issued": "2021-01-10 15:53"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Popoldne bo obla\u010dno, predvsem v ju\u017eni in osrednji Sloveniji bo rahlo sne\u017eilo. Pihal bo severovzhodni veter, na Primorskem zmerna do mo\u010dna burja. Temperature bodo od -4 do 1, na Primorskem do 6 \u00b0C.", 
+                "para": "Pono\u010di bo pove\u010dini obla\u010dno, predvsem na jugu bo \u0161e rahlo sne\u017eilo. Na zahodu in severu se bo proti jutru delno zjasnilo. Na Primorskem bo pihala zmerna do mo\u010dna burja. Jutranje temperature bodo do -6 do -1, v alpskih dolinah do -12, na Primorskem okoli 3 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo v severnih in zahodnih krajih deloma jasno, drugod bo sprva \u0161e prete\u017eno obla\u010dno. Rahlo sne\u017eenje na jugu bo dopoldne ponehalo. Popoldne se bo od severozahoda postopno jasnilo. Na Primorskem bo dopoldne \u0161e pihala zmerna do mo\u010dna burja, popoldne pa bo po\u010dasi slabela. Najni\u017eje jutranje temperature bodo do -6 do -1, v alpskih dolinah do -12, na Primorskem okoli 3, najvi\u0161je dnevne okoli 0, na Primorskem do 6 \u00b0C.", 
+                "para": "Jutri bo v severnih in zahodnih krajih deloma jasno, drugod bo sprva \u0161e prete\u017eno obla\u010dno. Rahlo sne\u017eenje na jugu bo dopoldne ponehalo. Popoldne se bo od severozahoda postopno jasnilo. Na Primorskem bo dopoldne \u0161e pihala zmerna do mo\u010dna burja, popoldne pa bo po\u010dasi slabela. Najvi\u0161je dnevne temperature bodo okoli 0, na Primorskem do 6 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Danes bo ve\u010dinoma obla\u010dno, na severu Hrva\u0161ke bo ob\u010dasno rahlo sne\u017eilo. Ob severnem Jadranu bo pihala zmerna do mo\u010dna burja.", 
+                "para": "Pono\u010di bo ve\u010dinoma obla\u010dno, na severu Hrva\u0161ke bo ob\u010dasno rahlo sne\u017eilo. Ob severnem Jadranu bo pihala zmerna do mo\u010dna burja.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
@@ -60,11 +60,11 @@
                 "title": "OPOZORILO"
             }, 
             {
-                "para": "Danes bo obla\u010dno, v notranjosti bo rahlo sne\u017eilo. Jutri se bo od severozahoda postopno jasnilo. \u0160e bo pihala burja.", 
+                "para": "Pono\u010di bo obla\u010dno, v notranjosti bo rahlo sne\u017eilo. Jutri se bo od severozahoda postopno jasnilo. \u0160e bo pihala burja.", 
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-01-10T12:18:51+00:00", 
+        "tsUpdated": "2021-01-10T14:53:19+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -530,7 +530,7 @@
                                 "parameter_desc": "Veter", 
                                 "region_map": "warning_wind_si-region_d1hlast-d3h00.png", 
                                 "validEnd": "2021-01-11T11:59:00+00:00", 
-                                "validStart": "2021-01-10T13:00:00+00:00"
+                                "validStart": "2021-01-10T14:00:00+00:00"
                             }
                         ], 
                         "interval": "2 days", 
@@ -543,21 +543,21 @@
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
                                 "validEnd": "2021-01-11T11:59:00+00:00", 
-                                "validStart": "2021-01-10T13:00:00+00:00"
+                                "validStart": "2021-01-10T14:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningTn", 
                                 "parameter_desc": "Nizka temperatura", 
                                 "validEnd": "2021-01-11T08:59:00+00:00", 
-                                "validStart": "2021-01-10T13:00:00+00:00"
+                                "validStart": "2021-01-10T14:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
                                 "validEnd": "2021-01-14T21:59:00+00:00", 
-                                "validStart": "2021-01-10T13:00:00+00:00"
+                                "validStart": "2021-01-10T14:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
