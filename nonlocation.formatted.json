@@ -1,16 +1,16 @@
 {
     "fcast_si_hint": {
         "articleinfo": {
-            "pubdate": "Sunday, 10.1.2021 ob 5h", 
+            "pubdate": "Monday, 11.1.2021 ob 5h", 
             "title": "Vremenski namig", 
-            "tsValid_issued": "2021-01-10 05:04"
+            "tsValid_issued": "2021-01-11 05:02"
         }, 
         "section": [
             {
                 "id": "fcast_SLOVENIA_d1", 
                 "para": [
                     {
-                        "para": "Dobro jutro, danes bo obla\u010dno, na jugu bo rahlo sne\u017eilo. Jutri bo na jugovzhodu \u0161e obla\u010dno, drugod delno jasno. \u0160e\u2026 https://t.co/lrjUVmCF9p"
+                        "para": "Dobro jutro, danes bo prete\u017eno obla\u010dno, le na severu in zahodu delno jasno. Jutri zjutraj bo jasno in mrzlo, \u010dez da\u2026 https://t.co/42NF83WP1U"
                     }
                 ], 
                 "title": "Zadnja novica"
@@ -532,7 +532,7 @@
                                 "parameter_desc": "Veter", 
                                 "region_map": "warning_wind_si-region_d1hlast-d3h00.png", 
                                 "validEnd": "2021-01-11T11:59:00+00:00", 
-                                "validStart": "2021-01-11T04:00:00+00:00"
+                                "validStart": "2021-01-11T05:00:00+00:00"
                             }
                         ], 
                         "interval": "2 days", 
@@ -545,21 +545,21 @@
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
                                 "validEnd": "2021-01-11T11:59:00+00:00", 
-                                "validStart": "2021-01-11T04:00:00+00:00"
+                                "validStart": "2021-01-11T05:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningTn", 
                                 "parameter_desc": "Nizka temperatura", 
                                 "validEnd": "2021-01-11T08:59:00+00:00", 
-                                "validStart": "2021-01-11T04:00:00+00:00"
+                                "validStart": "2021-01-11T05:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
                                 "validEnd": "2021-01-14T22:59:00+00:00", 
-                                "validStart": "2021-01-11T04:00:00+00:00"
+                                "validStart": "2021-01-11T05:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -569,7 +569,7 @@
                 "text": {
                     "id": "warning_SLOVENIA", 
                     "para": [
-                        "Do ponedeljka opoldne bodo najmo\u010dnej\u0161i sunki burje predvsem v Vipavski dolini lahko dosegali hitrost med 100 in 120 km/h."
+                        "Danes zjutraj in dopoldne bodo najmo\u010dnej\u0161i sunki burje predvsem v Vipavski dolini lahko \u0161e dosegali hitrost med 100 in 120 km/h."
                     ], 
                     "title": "Opozorilo"
                 }
