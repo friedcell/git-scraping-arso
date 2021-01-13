@@ -21,7 +21,7 @@
         "articleinfo": {
             "pubdate": "Sreda, 13.1.2021 ob 6h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-01-13 05:42"
+            "tsValid_issued": "2021-01-13 06:18"
         }, 
         "dataType": "", 
         "features": "", 
@@ -29,13 +29,13 @@
         "section": [
             {
                 "para": [
-                    "Danes bo prete\u017eno jasno, le na jugovzhodu bo dopoldne \u0161e prete\u017eno obla\u010dno. Najvi\u0161je dnevne temperature bodo od -2 do 5, na Primorskem do 9 \u00b0C.\n", 
+                    "Danes bo prete\u017eno jasno, le na vzhodu bo dopoldne prete\u017eno obla\u010dno s sne\u017enimi plohami. Najvi\u0161je dnevne temperature bodo od -2 do 5, na Primorskem do 9 \u00b0C.\n", 
                     "Pono\u010di bo obla\u010dnost od severa nara\u0161\u010dala, zjutraj se bodo v notranjosti za\u010dele pojavljati posamezne kratkotrajne sne\u017ene plohe. Jutranje temperature bodo od -6 do 1 \u00b0C. "
                 ], 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo prete\u017eno jasno, nekaj ve\u010d obla\u010dnosti bo ob\u010dasno na severovzhodu. Zapihal bo okrepljen veter severnih smeri, ki bo izrazitej\u0161i pod Karavankami in na severovzhodu. Najvi\u0161je dnevne temperature bodo od -2 do 4, na Primorskem do 9 \u00b0C.", 
+                "para": "Jutri bo prete\u017eno jasno, nekaj ve\u010d obla\u010dnosti bo ob\u010dasno na severozahodu. Zapihal bo okrepljen veter severnih smeri, ki bo izrazitej\u0161i pod Karavankami in na severovzhodu. Najvi\u0161je dnevne temperature bodo od -2 do 4, na Primorskem do 9 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -68,7 +68,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-01-13T04:42:18+00:00", 
+        "tsUpdated": "2021-01-13T05:18:42+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -93,8 +93,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "prevCloudy_night", 
                                     "interval": "", 
-                                    "time": "300", 
-                                    "valid": "2021-01-13T04:00:00+00:00", 
+                                    "time": "360", 
+                                    "valid": "2021-01-13T05:00:00+00:00", 
                                     "vis_shortText": "5-10", 
                                     "wwsyn_icon": ""
                                 }
@@ -126,9 +126,9 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "prevCloudy_night", 
                                     "interval": "", 
-                                    "time": "300", 
-                                    "valid": "2021-01-13T04:00:00+00:00", 
-                                    "vis_shortText": ">10", 
+                                    "time": "360", 
+                                    "valid": "2021-01-13T05:00:00+00:00", 
+                                    "vis_shortText": "5-10", 
                                     "wwsyn_icon": ""
                                 }
                             ]
@@ -157,10 +157,10 @@
                             "date": "2021-01-13", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "partCloudy_night", 
+                                    "clouds_icon_wwsyn_icon": "clear_night", 
                                     "interval": "", 
-                                    "time": "300", 
-                                    "valid": "2021-01-13T04:00:00+00:00", 
+                                    "time": "360", 
+                                    "valid": "2021-01-13T05:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -192,8 +192,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "clear_night", 
                                     "interval": "", 
-                                    "time": "300", 
-                                    "valid": "2021-01-13T04:00:00+00:00", 
+                                    "time": "360", 
+                                    "valid": "2021-01-13T05:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -227,7 +227,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-01-13T04:13:04+00:00", 
+        "tsUpdated": "2021-01-13T05:13:05+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "http://www.meteo.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -252,10 +252,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "28", 
-                                    "pm10_val": "16", 
-                                    "time": "300", 
-                                    "valid": "2021-01-13T04:00:00+00:00"
+                                    "no2_val": "40", 
+                                    "pm10_val": "18", 
+                                    "time": "360", 
+                                    "valid": "2021-01-13T05:00:00+00:00"
                                 }
                             ]
                         }
@@ -285,9 +285,9 @@
                                 {
                                     "interval": "", 
                                     "no2_val": "38", 
-                                    "pm10_val": "76", 
-                                    "time": "300", 
-                                    "valid": "2021-01-13T04:00:00+00:00"
+                                    "pm10_val": "82", 
+                                    "time": "360", 
+                                    "valid": "2021-01-13T05:00:00+00:00"
                                 }
                             ]
                         }
@@ -317,9 +317,9 @@
                                 {
                                     "interval": "", 
                                     "no2_val": "32", 
-                                    "pm10_val": "47", 
-                                    "time": "300", 
-                                    "valid": "2021-01-13T04:00:00+00:00"
+                                    "pm10_val": "43", 
+                                    "time": "360", 
+                                    "valid": "2021-01-13T05:00:00+00:00"
                                 }
                             ]
                         }
@@ -348,10 +348,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "27", 
-                                    "pm10_val": "25", 
-                                    "time": "300", 
-                                    "valid": "2021-01-13T04:00:00+00:00"
+                                    "no2_val": "38", 
+                                    "pm10_val": "24", 
+                                    "time": "360", 
+                                    "valid": "2021-01-13T05:00:00+00:00"
                                 }
                             ]
                         }
@@ -378,7 +378,7 @@
                 "unit": "\u03bcg/m\u00b3"
             }
         }, 
-        "tsUpdated": "2021-01-13T04:12:01+00:00", 
+        "tsUpdated": "2021-01-13T05:12:01+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "http://www.meteo.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -401,10 +401,10 @@
                             "date": "2021-01-13", 
                             "timeline": [
                                 {
-                                    "time": "300", 
+                                    "time": "360", 
                                     "tw": "4", 
-                                    "valid": "2021-01-13T04:00:00+00:00", 
-                                    "wLev": "18"
+                                    "valid": "2021-01-13T05:00:00+00:00", 
+                                    "wLev": "17"
                                 }
                             ]
                         }
@@ -430,9 +430,9 @@
                             "date": "2021-01-13", 
                             "timeline": [
                                 {
-                                    "time": "300", 
+                                    "time": "360", 
                                     "tw": "5", 
-                                    "valid": "2021-01-13T04:00:00+00:00", 
+                                    "valid": "2021-01-13T05:00:00+00:00", 
                                     "wLev": "47"
                                 }
                             ]
@@ -459,10 +459,10 @@
                             "date": "2021-01-13", 
                             "timeline": [
                                 {
-                                    "time": "300", 
+                                    "time": "360", 
                                     "tw": "6", 
-                                    "valid": "2021-01-13T04:00:00+00:00", 
-                                    "wLev": "101"
+                                    "valid": "2021-01-13T05:00:00+00:00", 
+                                    "wLev": "100"
                                 }
                             ]
                         }
@@ -488,10 +488,10 @@
                             "date": "2021-01-13", 
                             "timeline": [
                                 {
-                                    "time": "300", 
+                                    "time": "360", 
                                     "tw": "11", 
-                                    "valid": "2021-01-13T04:00:00+00:00", 
-                                    "wLev": "236"
+                                    "valid": "2021-01-13T05:00:00+00:00", 
+                                    "wLev": "251"
                                 }
                             ]
                         }
@@ -552,7 +552,7 @@
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
                                 "validEnd": "2021-01-16T22:59:00+00:00", 
-                                "validStart": "2021-01-13T03:00:00+00:00"
+                                "validStart": "2021-01-13T04:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
