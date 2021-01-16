@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sobota, 16.1.2021 ob 9h", 
+            "pubdate": "Sobota, 16.1.2021 ob 11h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-01-16 09:25"
+            "tsValid_issued": "2021-01-16 10:32"
         }, 
         "dataType": "", 
         "features": "", 
@@ -35,7 +35,7 @@
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo v zahodni, ju\u017eni in osrednji Sloveniji prete\u017eno obla\u010dno, na vzhodu pa se bo delno zjasnilo. Zve\u010der bo na Primorskem prehodno zapihala \u0161ibka burja. Najvi\u0161je dnevne temperature bodo od -3 do 1, na Primorskem do 7 \u00b0C.", 
+                "para": "Jutri bo zmerno do prete\u017eno obla\u010dno. Zve\u010der bo na Primorskem prehodno zapihala \u0161ibka burja. Najvi\u0161je dnevne temperature bodo od -3 do 1, na Primorskem do 7 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -67,7 +67,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-01-16T08:25:11+00:00", 
+        "tsUpdated": "2021-01-16T09:32:18+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -536,15 +536,15 @@
                                 "degree": "yellow", 
                                 "parameter": "WarningTn", 
                                 "parameter_desc": "Nizka temperatura", 
-                                "validEnd": "2021-01-16T08:59:00+00:00", 
-                                "validStart": "2021-01-16T08:00:00+00:00"
+                                "validEnd": "2021-01-17T08:59:00+00:00", 
+                                "validStart": "2021-01-16T23:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
                                 "validEnd": "2021-01-20T21:59:00+00:00", 
-                                "validStart": "2021-01-16T08:00:00+00:00"
+                                "validStart": "2021-01-16T09:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
