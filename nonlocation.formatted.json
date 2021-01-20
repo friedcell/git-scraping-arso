@@ -1,16 +1,16 @@
 {
     "fcast_si_hint": {
         "articleinfo": {
-            "pubdate": "Tuesday, 19.1.2021 ob 5h", 
+            "pubdate": "Wednesday, 20.1.2021 ob 5h", 
             "title": "Vremenski namig", 
-            "tsValid_issued": "2021-01-19 05:02"
+            "tsValid_issued": "2021-01-20 05:02"
         }, 
         "section": [
             {
                 "id": "fcast_SLOVENIA_d1", 
                 "para": [
                     {
-                        "para": "Dobro jutro, danes se bo na jugozahodu poobla\u010dilo, drugod bo obla\u010dnosti manj. Zapihal bo jugozahodnik. Jutri bodo p\u2026 https://t.co/5I0YvwieQb"
+                        "para": "Dobro jutro, danes in jutri bo predvsem na zahodu rahlo de\u017eevalo ali rosilo, na vzhodu bo tudi nekaj sonca. Pihal b\u2026 https://t.co/NtEAD1aUqu"
                     }
                 ], 
                 "title": "Zadnja novica"
@@ -539,9 +539,16 @@
                             }, 
                             {
                                 "degree": "yellow", 
+                                "parameter": "WarningSnow", 
+                                "parameter_desc": "Sneg", 
+                                "validEnd": "2021-01-24T21:59:00+00:00", 
+                                "validStart": "2021-01-22T23:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
-                                "validEnd": "2021-01-23T22:59:00+00:00", 
+                                "validEnd": "2021-01-24T21:59:00+00:00", 
                                 "validStart": "2021-01-20T04:00:00+00:00"
                             }
                         ], 
@@ -560,6 +567,6 @@
         ], 
         "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-01-19T11:01:00+00:00"
+        "updated": "2021-01-20T05:44:00+00:00"
     }
 }
