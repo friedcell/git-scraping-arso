@@ -525,18 +525,27 @@
                 "name": "Slovenija", 
                 "summary": [
                     {
-                        "event": "", 
+                        "event": [
+                            {
+                                "degree": "orange", 
+                                "parameter": "WarningWind", 
+                                "parameter_desc": "Veter", 
+                                "region_map": "warning_wind_si-region_d1hlast-d3h00.png", 
+                                "validEnd": "2021-01-21T21:59:00+00:00", 
+                                "validStart": "2021-01-20T13:00:00+00:00"
+                            }
+                        ], 
                         "interval": "2 days", 
                         "type": "maxDegreeEvent"
                     }, 
                     {
                         "event": [
                             {
-                                "degree": "yellow", 
+                                "degree": "orange", 
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
-                                "validEnd": "2021-01-22T21:59:00+00:00", 
-                                "validStart": "2021-01-20T07:00:00+00:00"
+                                "validEnd": "2021-01-21T22:59:00+00:00", 
+                                "validStart": "2021-01-20T13:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
@@ -567,7 +576,7 @@
                 "text": {
                     "id": "warning_SLOVENIA", 
                     "para": [
-                        "Dodatnega opozorila ni."
+                        "Od srede popoldne do no\u010di na petek bodo sunki jugozahodnega vetra ponekod na severovzhodu Slovenije dosegli hitrost okoli 70 km/h."
                     ], 
                     "title": "Opozorilo"
                 }
