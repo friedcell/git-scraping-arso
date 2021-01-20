@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sreda, 20.1.2021 ob 6h", 
+            "pubdate": "Sreda, 20.1.2021 ob 9h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-01-20 05:49"
+            "tsValid_issued": "2021-01-20 08:48"
         }, 
         "dataType": "", 
         "features": "", 
@@ -47,12 +47,13 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
+                "para": "Jutri Nad ve\u010djim delom Evrope je obse\u017eno in globoko ciklonsko obmo\u010dje s sredi\u0161\u010dem nad Severnim morjem. Iznad Sredozemlja priteka k nam topel in vla\u017een zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
                 "para": [
                     "V petek bo obla\u010dno, padavine na zahodu se bodo okrepile in postopno \u0161irile proti vzhodu. Meja sne\u017eenja bo med 900 in 1400 m nadmorske vi\u0161ine. \u0160e bo pihal okrepljen jugozahodnik, ob morju pa jugo. ", 
-                    "V soboto bo obla\u010dno s padavinami, po ni\u017einah bo pove\u010dini de\u017eevalo."
+                    "V soboto bo obla\u010dno z ob\u010dasnimi padavinami, po ni\u017einah bo pove\u010dini de\u017eevalo."
                 ], 
                 "title": "OBETI"
             }, 
@@ -65,7 +66,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-01-20T04:49:42+00:00", 
+        "tsUpdated": "2021-01-20T07:48:53+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -539,6 +540,13 @@
                             }, 
                             {
                                 "degree": "yellow", 
+                                "parameter": "WarningRain", 
+                                "parameter_desc": "De\u017e", 
+                                "validEnd": "2021-01-22T22:59:00+00:00", 
+                                "validStart": "2021-01-21T23:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
                                 "parameter": "WarningSnow", 
                                 "parameter_desc": "Sneg", 
                                 "validEnd": "2021-01-24T21:59:00+00:00", 
@@ -549,7 +557,7 @@
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
                                 "validEnd": "2021-01-24T21:59:00+00:00", 
-                                "validStart": "2021-01-20T06:00:00+00:00"
+                                "validStart": "2021-01-20T23:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
