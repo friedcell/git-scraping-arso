@@ -525,14 +525,6 @@
                         "event": [
                             {
                                 "degree": "orange", 
-                                "parameter": "WarningWind", 
-                                "parameter_desc": "Veter", 
-                                "region_map": "warning_wind_si-region_d1hlast-d3h00.png", 
-                                "validEnd": "2021-01-21T16:59:00+00:00", 
-                                "validStart": "2021-01-21T16:00:00+00:00"
-                            }, 
-                            {
-                                "degree": "orange", 
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
                                 "region_map": "warning_avalanche_si-region_d1hlast-d3h00.png", 
@@ -546,11 +538,11 @@
                     {
                         "event": [
                             {
-                                "degree": "orange", 
+                                "degree": "yellow", 
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
-                                "validEnd": "2021-01-21T16:59:00+00:00", 
-                                "validStart": "2021-01-21T16:00:00+00:00"
+                                "validEnd": "2021-01-23T05:59:00+00:00", 
+                                "validStart": "2021-01-21T17:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
