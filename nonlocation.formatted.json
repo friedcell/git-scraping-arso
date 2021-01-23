@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sobota, 23.1.2021 ob 8h", 
+            "pubdate": "Sobota, 23.1.2021 ob 9h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-01-23 08:08"
+            "tsValid_issued": "2021-01-23 09:00"
         }, 
         "dataType": "", 
         "features": "", 
@@ -35,7 +35,7 @@
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo obla\u010dno. Dopoldne se bodo od juga spet raz\u0161irile padavine, tudi po ni\u017einah v notranjosti Slovenije bo de\u017e pre\u0161el v sneg. Popoldne bo zapihal severovzhodnik, na Primorskem ve\u010dinoma \u0161ibka burja. Temperature bodo od 0 do 5, na Primorskem do 9 \u00b0C.", 
+                "para": "Jutri bo obla\u010dno. Dopoldne se bodo na jugu spet pojavile padavine, meja sne\u017eenja bo na okoli 600 m nadmorske vi\u0161ine. Popoldne se bodo padavine pojavile v osrednji Sloveniji, ne severu bo padavin malo. Popoldne bo zapihal severovzhodnik, na Primorskem ve\u010dinoma \u0161ibka burja. Temperature bodo od 0 do 5, na Primorskem do 10 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -62,11 +62,11 @@
                 "title": "OPOZORILO"
             }, 
             {
-                "para": "Pono\u010di in jutri bo obla\u010dno s pogostimi padavinami, manj jih bo v vzhodnih krajih. Jutri se bo meja sne\u017eenja spu\u0161\u010dala, veter bo popoldne oslabel.", 
+                "para": "Danes bo obla\u010dno s padavinami, manj jih bo v vzhodnih krajih. Jutri bodo padavine na jugu in v osrednji Sloveniji, veter bo popoldne oslabel.", 
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-01-23T07:08:43+00:00", 
+        "tsUpdated": "2021-01-23T08:00:34+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -532,7 +532,7 @@
                                 "parameter_desc": "Sne\u017eni plazovi", 
                                 "region_map": "warning_avalanche_si-region_d1hlast-d3h00.png", 
                                 "validEnd": "2021-01-23T21:59:00+00:00", 
-                                "validStart": "2021-01-23T06:00:00+00:00"
+                                "validStart": "2021-01-23T07:00:00+00:00"
                             }
                         ], 
                         "interval": "2 days", 
@@ -545,14 +545,14 @@
                                 "parameter": "WarningRain", 
                                 "parameter_desc": "De\u017e", 
                                 "validEnd": "2021-01-23T22:59:00+00:00", 
-                                "validStart": "2021-01-23T06:00:00+00:00"
+                                "validStart": "2021-01-23T07:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningSnow", 
                                 "parameter_desc": "Sneg", 
                                 "validEnd": "2021-01-23T21:59:00+00:00", 
-                                "validStart": "2021-01-23T06:00:00+00:00"
+                                "validStart": "2021-01-23T07:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
@@ -566,7 +566,7 @@
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
                                 "validEnd": "2021-01-23T21:59:00+00:00", 
-                                "validStart": "2021-01-23T06:00:00+00:00"
+                                "validStart": "2021-01-23T07:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
