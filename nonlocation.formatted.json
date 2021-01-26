@@ -530,6 +530,13 @@
                         "event": [
                             {
                                 "degree": "yellow", 
+                                "parameter": "WarningWind", 
+                                "parameter_desc": "Veter", 
+                                "validEnd": "2021-01-29T17:59:00+00:00", 
+                                "validStart": "2021-01-28T18:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
                                 "parameter": "WarningTn", 
                                 "parameter_desc": "Nizka temperatura", 
                                 "validEnd": "2021-01-27T10:59:00+00:00", 
@@ -558,6 +565,6 @@
         ], 
         "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-01-26T06:14:00+00:00"
+        "updated": "2021-01-26T15:42:00+00:00"
     }
 }
