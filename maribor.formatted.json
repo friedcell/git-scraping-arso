@@ -3693,27 +3693,57 @@
                                     "clouds_icon_wwsyn_icon": "overcast_night", 
                                     "clouds_shortText": "obla\u010dno", 
                                     "clouds_shortText_wwsyn_shortText": "obla\u010dno", 
-                                    "dd_shortText": "Z", 
+                                    "dd_shortText": "JZ", 
                                     "ddff_icon": "", 
-                                    "ff_shortText": "\u0161ibek Z", 
-                                    "ff_val": "8", 
+                                    "ff_shortText": "\u0161ibek JZ", 
+                                    "ff_val": "7", 
                                     "ffmax_val": "", 
                                     "interval": "", 
                                     "msl": "999", 
                                     "pa_shortText": "pada", 
-                                    "rh": "62", 
+                                    "rh": "78", 
                                     "rh_shortText": "srednja", 
-                                    "t": "7", 
-                                    "time": "1020", 
-                                    "valid": "2021-01-29T16:00:00+00:00", 
+                                    "t": "4", 
+                                    "time": "1080", 
+                                    "valid": "2021-01-29T17:00:00+00:00", 
                                     "webcam": [
                                         {
                                             "direction": "sw", 
-                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20210129-1600_MARIBOR_VRBAN-PLA_sw.jpg"
+                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20210129-1700_MARIBOR_VRBAN-PLA_sw.jpg"
                                         }, 
                                         {
                                             "direction": "ne", 
-                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20210129-1600_MARIBOR_VRBAN-PLA_ne.jpg"
+                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20210129-1700_MARIBOR_VRBAN-PLA_ne.jpg"
+                                        }
+                                    ], 
+                                    "wwsyn_icon": "", 
+                                    "wwsyn_shortText": ""
+                                }, 
+                                {
+                                    "clouds_icon_wwsyn_icon": "", 
+                                    "clouds_shortText": "", 
+                                    "clouds_shortText_wwsyn_shortText": "", 
+                                    "dd_shortText": "", 
+                                    "ddff_icon": "", 
+                                    "ff_shortText": "", 
+                                    "ff_val": "", 
+                                    "ffmax_val": "", 
+                                    "interval": "", 
+                                    "msl": "", 
+                                    "pa_shortText": "", 
+                                    "rh": "", 
+                                    "rh_shortText": "", 
+                                    "t": "", 
+                                    "time": "1110", 
+                                    "valid": "2021-01-29T17:30:00+00:00", 
+                                    "webcam": [
+                                        {
+                                            "direction": "sw", 
+                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20210129-1730_MARIBOR_VRBAN-PLA_sw.jpg"
+                                        }, 
+                                        {
+                                            "direction": "ne", 
+                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20210129-1730_MARIBOR_VRBAN-PLA_ne.jpg"
                                         }
                                     ], 
                                     "wwsyn_icon": "", 
@@ -3808,8 +3838,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-01-29T16:18:44+00:00", 
-        "tsValid": "2021-01-29 16:00", 
+        "tsUpdated": "2021-01-29T17:19:52+00:00", 
+        "tsValid": "2021-01-29 17:00", 
         "type": "FeatureCollection"
     }
 }
