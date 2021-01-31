@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Nedelja, 31.1.2021 ob 6h", 
+            "pubdate": "Nedelja, 31.1.2021 ob 8h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-01-31 06:30"
+            "tsValid_issued": "2021-01-31 07:45"
         }, 
         "dataType": "", 
         "features": "", 
@@ -63,7 +63,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-01-31T05:30:44+00:00", 
+        "tsUpdated": "2021-01-31T06:46:10+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -539,14 +539,14 @@
                                 "degree": "yellow", 
                                 "parameter": "WarningSnow", 
                                 "parameter_desc": "Sneg", 
-                                "validEnd": "2021-01-31T22:59:00+00:00", 
+                                "validEnd": "2021-01-31T17:59:00+00:00", 
                                 "validStart": "2021-01-31T05:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
-                                "validEnd": "2021-02-01T22:59:00+00:00", 
+                                "validEnd": "2021-02-02T22:59:00+00:00", 
                                 "validStart": "2021-01-31T05:00:00+00:00"
                             }
                         ], 
@@ -565,6 +565,6 @@
         ], 
         "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-01-30T06:09:00+00:00"
+        "updated": "2021-01-31T06:23:00+00:00"
     }
 }
