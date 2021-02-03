@@ -1,16 +1,16 @@
 {
     "fcast_si_hint": {
         "articleinfo": {
-            "pubdate": "Wednesday, 3.2.2021 ob 5h", 
+            "pubdate": "Wednesday, 3.2.2021 ob 7h", 
             "title": "Vremenski namig", 
-            "tsValid_issued": "2021-02-03 05:02"
+            "tsValid_issued": "2021-02-03 07:20"
         }, 
         "section": [
             {
                 "id": "fcast_SLOVENIA_d1", 
                 "para": [
                     {
-                        "para": "Dobro jutro, danes in jutri bo na vzhodu in severu delno jasno, drugod bo prete\u017eno obla\u010dno. Predvsem na zahodu bo r\u2026 https://t.co/IFwTCy0Vf8"
+                        "para": "Sve\u017ea epizoda #ARSOpodcast o snegu in sne\u017enih plazovih \u2744\ufe0f\ud83c\udf28\ufe0f. Vabljeni k poslu\u0161anju! \ud83d\udd0a https://t.co/lWC2LljdPS https://t.co/9nvQQ2XWKy"
                     }
                 ], 
                 "title": "Zadnja novica"
@@ -19,16 +19,16 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sreda, 3.2.2021 ob 6h", 
+            "pubdate": "Sreda, 3.2.2021 ob 9h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-02-03 05:50"
+            "tsValid_issued": "2021-02-03 08:50"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Danes bo na vzhodu in severu delno jasno z nekaj jutranje megle po ni\u017einah, drugod bo prete\u017eno obla\u010dno. Predvsem v zahodnih krajih bo ob\u010dasno rahlo de\u017eevalo ali rosilo. Zapihal bo jugozahodni veter, ki bo najbolj izrazit v vi\u0161jih legah in na severovzhodu Slovenije. Najvi\u0161je dnevne temperature bodo od 5 do 10, na vzhodu do 13 \u00b0C.", 
+                "para": "Danes bo na vzhodu in severu delno jasno, drugod bo prete\u017eno obla\u010dno. Predvsem v zahodnih krajih bo ob\u010dasno rahlo de\u017eevalo ali rosilo. Zapihal bo jugozahodni veter, ki bo najbolj izrazit v vi\u0161jih legah in na severovzhodu Slovenije. Najvi\u0161je dnevne temperature bodo od 5 do 10, na vzhodu do 13 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -48,6 +48,7 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
+                "para": "Jutri Nad Evropo je ve\u010d ciklonskih obmo\u010dij, nad osrednjim Sredozemljem pa je nastalo obmo\u010dje visokega zra\u010dnega tlaka. Od jugozahoda priteka k nam razmeroma topel in vla\u017een zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
@@ -55,7 +56,7 @@
                 "title": "OBETI"
             }, 
             {
-                "para": "Dodatnega opozorila ni.", 
+                "para": "Danes popoldne, zve\u010der in v prvem delu no\u010di lahko najmo\u010dnej\u0161i sunki jugozahodnega vetra v vi\u0161jih legah in na severovzhodu Slovenije ponekod prese\u017eejo hitrost 70 km/h.", 
                 "title": "OPOZORILO"
             }, 
             {
@@ -63,7 +64,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-02-03T04:51:03+00:00", 
+        "tsUpdated": "2021-02-03T07:50:40+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -522,25 +523,34 @@
                 "name": "Slovenija", 
                 "summary": [
                     {
-                        "event": "", 
+                        "event": [
+                            {
+                                "degree": "orange", 
+                                "parameter": "WarningWind", 
+                                "parameter_desc": "Veter", 
+                                "region_map": "warning_wind_si-region_d1hlast-d3h00.png", 
+                                "validEnd": "2021-02-04T01:59:00+00:00", 
+                                "validStart": "2021-02-03T11:00:00+00:00"
+                            }
+                        ], 
                         "interval": "2 days", 
                         "type": "maxDegreeEvent"
                     }, 
                     {
                         "event": [
                             {
-                                "degree": "yellow", 
+                                "degree": "orange", 
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
                                 "validEnd": "2021-02-04T01:59:00+00:00", 
-                                "validStart": "2021-02-03T10:00:00+00:00"
+                                "validStart": "2021-02-03T11:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
                                 "validEnd": "2021-02-05T22:59:00+00:00", 
-                                "validStart": "2021-02-03T06:00:00+00:00"
+                                "validStart": "2021-02-03T07:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -550,7 +560,7 @@
                 "text": {
                     "id": "warning_SLOVENIA", 
                     "para": [
-                        "Dodatnega opozorila ni."
+                        "Danes popoldne, zve\u010der in v prvem delu no\u010di lahko najmo\u010dnej\u0161i sunki jugozahodnega vetra v vi\u0161jih legah in na severovzhodu Slovenije ponekod prese\u017eejo hitrost 70 km/h."
                     ], 
                     "title": "Opozorilo"
                 }
