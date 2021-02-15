@@ -19,24 +19,24 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Ponedeljek, 15.2.2021 ob 9h", 
+            "pubdate": "Ponedeljek, 15.2.2021 ob 11h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-02-15 09:00"
+            "tsValid_issued": "2021-02-15 10:59"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Danes bo prete\u017eno jasno, proti ve\u010deru se bo od severozahoda poobla\u010dilo. Najvi\u0161je dnevne temperature bodo od 0 do 7 \u00b0C.", 
+                "para": "Popoldne bo prete\u017eno jasno, proti ve\u010deru se bo od severozahoda poobla\u010dilo. Najvi\u0161je dnevne temperature bodo od 0 do 7 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo na zahodu pove\u010dini son\u010dno, drugod zmerno do prete\u017eno obla\u010dno, ve\u010d obla\u010dnosti bo na severovzhodu. Najni\u017eje jutranje temperature bodo od -8 do -3, ob morju okoli 0, najvi\u0161je dnevne od 4 do 8 \u00b0C.", 
+                "para": "Jutri bo na zahodu pove\u010dini son\u010dno, drugod zmerno do prete\u017eno obla\u010dno, ve\u010d obla\u010dnosti bo na severovzhodu. Najni\u017eje jutranje temperature bodo od -10 do -3, ob morju okoli 0, najvi\u0161je dnevne od 4 do 10 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Danes bo prete\u017eno jasno, zve\u010der se bo od severozahoda zmerno poobla\u010dilo.", 
+                "para": "Popoldne bo prete\u017eno jasno, zve\u010der se bo od severozahoda zmerno poobla\u010dilo.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
@@ -48,6 +48,7 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
+                "para": "Jutri Obmo\u010dje visokega zra\u010dnega tlaka nad srednjo Evropo in severozahodnim Balkanom je nekoliko oslabelo. Vremenske motnje se pomikajo proti vzhodu severno od Alp in na vreme pri nas vplivajo s pove\u010dano obla\u010dnostjo. Od zahoda k nam doteka toplej\u0161i in ob\u010dasno bolj vla\u017een zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
@@ -59,11 +60,11 @@
                 "title": "OPOZORILO"
             }, 
             {
-                "para": "Danes bo prete\u017eno jasno. Jutri bo zmerno, na vzhodu tudi prete\u017eno obla\u010dno.", 
+                "para": "Popoldne bo prete\u017eno jasno. Jutri bo zmerno, na vzhodu tudi prete\u017eno obla\u010dno.", 
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-02-15T08:00:11+00:00", 
+        "tsUpdated": "2021-02-15T10:00:05+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -533,14 +534,14 @@
                                 "parameter": "WarningTn", 
                                 "parameter_desc": "Nizka temperatura", 
                                 "validEnd": "2021-02-15T10:59:00+00:00", 
-                                "validStart": "2021-02-15T08:00:00+00:00"
+                                "validStart": "2021-02-15T09:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
                                 "validEnd": "2021-02-19T21:59:00+00:00", 
-                                "validStart": "2021-02-15T08:00:00+00:00"
+                                "validStart": "2021-02-15T09:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
