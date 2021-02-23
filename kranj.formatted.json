@@ -21,30 +21,6 @@
                             "timeline": [
                                 {
                                     "cloudBase_shortText": "", 
-                                    "clouds_icon_wwsyn_icon": "clear_lightFG_night", 
-                                    "clouds_shortText": "jasno", 
-                                    "clouds_shortText_wwsyn_shortText": "jasno", 
-                                    "dd_shortText": "Z", 
-                                    "ddff_icon": "lightW", 
-                                    "ff_shortText": "\u0161ibek Z", 
-                                    "ff_val": "4", 
-                                    "ffmax_val": "", 
-                                    "interval": "60", 
-                                    "msl": "1035", 
-                                    "pa_shortText": "raste", 
-                                    "rh": "100", 
-                                    "rh_shortText": "visoka", 
-                                    "sn_acc": "0.0", 
-                                    "t": "-1", 
-                                    "time": "360", 
-                                    "tp_acc": "0.0", 
-                                    "valid": "2021-02-23T05:00:00+00:00", 
-                                    "wwsyn_decodeText": "RA", 
-                                    "wwsyn_icon": "lightFG", 
-                                    "wwsyn_shortText": ""
-                                }, 
-                                {
-                                    "cloudBase_shortText": "", 
                                     "clouds_icon_wwsyn_icon": "clear_lightFG_day", 
                                     "clouds_shortText": "jasno", 
                                     "clouds_shortText_wwsyn_shortText": "jasno", 
@@ -152,7 +128,7 @@
                                     "interval": "60", 
                                     "msl": "1036", 
                                     "pa_shortText": "raste", 
-                                    "rh": "57", 
+                                    "rh": "56", 
                                     "rh_shortText": "srednja", 
                                     "sn_acc": "0.0", 
                                     "t": "8", 
@@ -296,7 +272,7 @@
                                     "interval": "60", 
                                     "msl": "1035", 
                                     "pa_shortText": "ustaljen", 
-                                    "rh": "41", 
+                                    "rh": "40", 
                                     "rh_shortText": "nizka", 
                                     "sn_acc": "0.0", 
                                     "t": "14", 
@@ -312,9 +288,9 @@
                                     "clouds_icon_wwsyn_icon": "clear_night", 
                                     "clouds_shortText": "jasno", 
                                     "clouds_shortText_wwsyn_shortText": "jasno", 
-                                    "dd_shortText": "S", 
-                                    "ddff_icon": "lightN", 
-                                    "ff_shortText": "\u0161ibek S", 
+                                    "dd_shortText": "SV", 
+                                    "ddff_icon": "lightNE", 
+                                    "ff_shortText": "\u0161ibek SV", 
                                     "ff_val": "1", 
                                     "ffmax_val": "", 
                                     "interval": "60", 
@@ -900,8 +876,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-02-23T04:23:00+00:00", 
-        "tsValid": "2021-02-23 04:00", 
+        "tsUpdated": "2021-02-23T05:23:03+00:00", 
+        "tsValid": "2021-02-23 05:00", 
         "type": "FeatureCollection"
     }, 
     "forecast24h": {
@@ -1341,7 +1317,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-02-23T04:24:46+00:00", 
+        "tsUpdated": "2021-02-23T05:25:25+00:00", 
         "tsValid": "2021-02-23 12:00", 
         "type": "FeatureCollection"
     }, 
@@ -2542,8 +2518,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-02-23T04:21:55+00:00", 
-        "tsValid": "2021-02-23 04:00", 
+        "tsUpdated": "2021-02-23T05:22:02+00:00", 
+        "tsValid": "2021-02-23 05:00", 
         "type": "FeatureCollection"
     }, 
     "forecast6h": {
@@ -3655,8 +3631,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-02-23T04:23:14+00:00", 
-        "tsValid": "2021-02-23 04:00", 
+        "tsUpdated": "2021-02-23T05:23:30+00:00", 
+        "tsValid": "2021-02-23 05:00", 
         "type": "FeatureCollection"
     }, 
     "observation": {
@@ -3687,16 +3663,16 @@
                                     "dd_shortText": "Z", 
                                     "ddff_icon": "", 
                                     "ff_shortText": "\u0161ibek Z", 
-                                    "ff_val": "4", 
+                                    "ff_val": "3", 
                                     "ffmax_val": "", 
                                     "interval": "", 
-                                    "msl": "1034", 
+                                    "msl": "1035", 
                                     "pa_shortText": "raste", 
                                     "rh": "100", 
                                     "rh_shortText": "visoka", 
                                     "t": "-1", 
-                                    "time": "300", 
-                                    "valid": "2021-02-23T04:00:00+00:00", 
+                                    "time": "360", 
+                                    "valid": "2021-02-23T05:00:00+00:00", 
                                     "wwsyn_icon": "lightFG", 
                                     "wwsyn_shortText": ""
                                 }
@@ -3789,8 +3765,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-02-23T04:18:19+00:00", 
-        "tsValid": "2021-02-23 04:00", 
+        "tsUpdated": "2021-02-23T05:18:53+00:00", 
+        "tsValid": "2021-02-23 05:00", 
         "type": "FeatureCollection"
     }
 }
