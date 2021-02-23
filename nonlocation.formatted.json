@@ -89,8 +89,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "clear_night", 
                                     "interval": "", 
-                                    "time": "300", 
-                                    "valid": "2021-02-23T04:00:00+00:00", 
+                                    "time": "360", 
+                                    "valid": "2021-02-23T05:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -100,6 +100,39 @@
                     "id": "CERKLJE_LETAL-SCE_", 
                     "parentId": "SI_SPODNJEPOSAVSKA_", 
                     "title": "Letali\u0161\u010de Cerklje ob Krki"
+                }, 
+                "type": "Feature"
+            }, 
+            {
+                "geometry": {
+                    "coordinates": [
+                        15.6869, 
+                        46.479999999999997
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "altitude": "264.0", 
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2021-02-23", 
+                            "timeline": [
+                                {
+                                    "clouds_icon_wwsyn_icon": "clear_night", 
+                                    "interval": "", 
+                                    "time": "360", 
+                                    "valid": "2021-02-23T05:00:00+00:00", 
+                                    "vis_shortText": ">10", 
+                                    "wwsyn_icon": ""
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "MARIBOR_SLIVNICA_", 
+                    "parentId": "SI_PODRAVSKA_", 
+                    "title": "Letali\u0161\u010de Edvarda Rusjana Maribor"
                 }, 
                 "type": "Feature"
             }, 
@@ -122,8 +155,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "clear_night", 
                                     "interval": "", 
-                                    "time": "300", 
-                                    "valid": "2021-02-23T04:00:00+00:00", 
+                                    "time": "360", 
+                                    "valid": "2021-02-23T05:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -153,10 +186,10 @@
                             "date": "2021-02-23", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "prevCloudy_night", 
+                                    "clouds_icon_wwsyn_icon": "overcast_night", 
                                     "interval": "", 
-                                    "time": "300", 
-                                    "valid": "2021-02-23T04:00:00+00:00", 
+                                    "time": "360", 
+                                    "valid": "2021-02-23T05:00:00+00:00", 
                                     "vis_shortText": "5-10", 
                                     "wwsyn_icon": ""
                                 }
@@ -190,7 +223,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-02-23T04:13:05+00:00", 
+        "tsUpdated": "2021-02-23T05:13:04+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "http://www.meteo.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -215,10 +248,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "6", 
-                                    "pm10_val": "30", 
-                                    "time": "300", 
-                                    "valid": "2021-02-23T04:00:00+00:00"
+                                    "no2_val": "29", 
+                                    "pm10_val": "31", 
+                                    "time": "360", 
+                                    "valid": "2021-02-23T05:00:00+00:00"
                                 }
                             ]
                         }
@@ -247,10 +280,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "22", 
-                                    "pm10_val": "36", 
-                                    "time": "300", 
-                                    "valid": "2021-02-23T04:00:00+00:00"
+                                    "no2_val": "28", 
+                                    "pm10_val": "51", 
+                                    "time": "360", 
+                                    "valid": "2021-02-23T05:00:00+00:00"
                                 }
                             ]
                         }
@@ -279,10 +312,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "13", 
-                                    "pm10_val": "41", 
-                                    "time": "300", 
-                                    "valid": "2021-02-23T04:00:00+00:00"
+                                    "no2_val": "20", 
+                                    "pm10_val": "39", 
+                                    "time": "360", 
+                                    "valid": "2021-02-23T05:00:00+00:00"
                                 }
                             ]
                         }
@@ -311,10 +344,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "13", 
-                                    "pm10_val": "30", 
-                                    "time": "300", 
-                                    "valid": "2021-02-23T04:00:00+00:00"
+                                    "no2_val": "14", 
+                                    "pm10_val": "32", 
+                                    "time": "360", 
+                                    "valid": "2021-02-23T05:00:00+00:00"
                                 }
                             ]
                         }
@@ -341,7 +374,7 @@
                 "unit": "\u03bcg/m\u00b3"
             }
         }, 
-        "tsUpdated": "2021-02-23T04:12:01+00:00", 
+        "tsUpdated": "2021-02-23T05:12:02+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "http://www.meteo.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -364,9 +397,9 @@
                             "date": "2021-02-23", 
                             "timeline": [
                                 {
-                                    "time": "300", 
+                                    "time": "360", 
                                     "tw": "4", 
-                                    "valid": "2021-02-23T04:00:00+00:00", 
+                                    "valid": "2021-02-23T05:00:00+00:00", 
                                     "wLev": "23"
                                 }
                             ]
@@ -393,9 +426,9 @@
                             "date": "2021-02-23", 
                             "timeline": [
                                 {
-                                    "time": "300", 
+                                    "time": "360", 
                                     "tw": "5", 
-                                    "valid": "2021-02-23T04:00:00+00:00", 
+                                    "valid": "2021-02-23T05:00:00+00:00", 
                                     "wLev": "49"
                                 }
                             ]
@@ -422,9 +455,9 @@
                             "date": "2021-02-23", 
                             "timeline": [
                                 {
-                                    "time": "300", 
+                                    "time": "360", 
                                     "tw": "8", 
-                                    "valid": "2021-02-23T04:00:00+00:00", 
+                                    "valid": "2021-02-23T05:00:00+00:00", 
                                     "wLev": "94"
                                 }
                             ]
@@ -451,10 +484,10 @@
                             "date": "2021-02-23", 
                             "timeline": [
                                 {
-                                    "time": "300", 
+                                    "time": "360", 
                                     "tw": "10", 
-                                    "valid": "2021-02-23T04:00:00+00:00", 
-                                    "wLev": "218"
+                                    "valid": "2021-02-23T05:00:00+00:00", 
+                                    "wLev": "225"
                                 }
                             ]
                         }
