@@ -527,7 +527,15 @@
                         "type": "maxDegreeEvent"
                     }, 
                     {
-                        "event": "", 
+                        "event": [
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningForestFire", 
+                                "parameter_desc": "Po\u017earna ogro\u017eenost", 
+                                "validEnd": "2021-03-05T21:59:00+00:00", 
+                                "validStart": "2021-03-01T23:00:00+00:00"
+                            }
+                        ], 
                         "interval": "5 days", 
                         "type": "maxDegreeEvent"
                     }
@@ -543,6 +551,6 @@
         ], 
         "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-03-01T06:40:00+00:00"
+        "updated": "2021-03-01T11:52:00+00:00"
     }
 }
