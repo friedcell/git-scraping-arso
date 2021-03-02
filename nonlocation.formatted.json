@@ -19,20 +19,20 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Torek, 2.3.2021 ob 7h", 
+            "pubdate": "Torek, 2.3.2021 ob 8h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-03-02 07:23"
+            "tsValid_issued": "2021-03-02 08:23"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Danes bo ve\u010dinoma jasno, burja na Primorskem bo \u010dez dan ponehala. Najvi\u0161je dnevne temperature bodo od 11 do 15, na Primorskem do 17 \u00b0C.", 
+                "para": "Danes bo jasno, burja na Primorskem bo \u010dez dan ponehala. Najvi\u0161je dnevne temperature bodo od 11 do 15, na Primorskem do 17 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo ve\u010dinoma jasno, popoldne bo na severu nekaj visoke koprenaste obla\u010dnosti. Najni\u017eje jutranje temperature bodo od -6 do -2, ob morju okoli 3, najvi\u0161je dnevne od 13 do 18 \u00b0C.", 
+                "para": "Jutri bo ve\u010dinoma jasno, popoldne bo na severu lahko nekaj visoke koprenaste obla\u010dnosti. Najni\u017eje jutranje temperature bodo od -6 do -2, ob morju okoli 2, najvi\u0161je dnevne od 13 do 18 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -47,12 +47,13 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
+                "para": "Jutri Nad ve\u010djim delom Evrope je obmo\u010dje visokega zra\u010dnega tlaka, vremenske motnje pa se zadr\u017eujejo na zahodu in severu celine. Veter je v vi\u0161inah obrnil na jugozahodno smer, k nam doteka razmeroma topel in suh zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
                 "para": [
                     "V \u010detrtek bo \u0161e ve\u010dinoma son\u010dno, predvsem v hribovitih krajih na zahodu pa se bo obla\u010dnost pove\u010dala. Zapihal bo jugozahodni veter. ", 
-                    "V petek se bo poobla\u010dilo, dopoldne bodo padavine zajele severni del Slovenije in se popoldne raz\u0161irile nad ve\u010dji del dr\u017eave. Zapihal bo severovzhodni veter, na Primorskem burja. Hladilo se bo, meja sne\u017eenja se bo zve\u010der spu\u0161\u010dala. "
+                    "V petek se bo poobla\u010dilo, dopoldne bodo padavine zajele severni del Slovenije in se popoldne raz\u0161irile nad ve\u010dji del dr\u017eave. Zapihal bo severovzhodni veter, na Primorskem \u0161ibka do zmerna burja. Hladilo se bo, meja sne\u017eenja se bo zve\u010der spu\u0161\u010dala. "
                 ], 
                 "title": "OBETI"
             }, 
@@ -65,7 +66,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-03-02T06:23:32+00:00", 
+        "tsUpdated": "2021-03-02T07:23:35+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -90,9 +91,9 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "clear_day", 
                                     "interval": "", 
-                                    "time": "420", 
-                                    "valid": "2021-03-02T06:00:00+00:00", 
-                                    "vis_shortText": "5-10", 
+                                    "time": "480", 
+                                    "valid": "2021-03-02T07:00:00+00:00", 
+                                    "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
                             ]
@@ -123,8 +124,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "clear_day", 
                                     "interval": "", 
-                                    "time": "420", 
-                                    "valid": "2021-03-02T06:00:00+00:00", 
+                                    "time": "480", 
+                                    "valid": "2021-03-02T07:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -156,8 +157,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "clear_day", 
                                     "interval": "", 
-                                    "time": "420", 
-                                    "valid": "2021-03-02T06:00:00+00:00", 
+                                    "time": "480", 
+                                    "valid": "2021-03-02T07:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -189,8 +190,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "clear_day", 
                                     "interval": "", 
-                                    "time": "420", 
-                                    "valid": "2021-03-02T06:00:00+00:00", 
+                                    "time": "480", 
+                                    "valid": "2021-03-02T07:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -224,7 +225,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-03-02T06:13:04+00:00", 
+        "tsUpdated": "2021-03-02T07:13:05+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "http://www.meteo.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -249,10 +250,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "34", 
-                                    "pm10_val": "53", 
-                                    "time": "420", 
-                                    "valid": "2021-03-02T06:00:00+00:00"
+                                    "no2_val": "43", 
+                                    "pm10_val": "61", 
+                                    "time": "480", 
+                                    "valid": "2021-03-02T07:00:00+00:00"
                                 }
                             ]
                         }
@@ -281,10 +282,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "43", 
-                                    "pm10_val": "43", 
-                                    "time": "420", 
-                                    "valid": "2021-03-02T06:00:00+00:00"
+                                    "no2_val": "45", 
+                                    "pm10_val": "39", 
+                                    "time": "480", 
+                                    "valid": "2021-03-02T07:00:00+00:00"
                                 }
                             ]
                         }
@@ -315,8 +316,8 @@
                                     "interval": "", 
                                     "no2_val": "19", 
                                     "pm10_val": "36", 
-                                    "time": "420", 
-                                    "valid": "2021-03-02T06:00:00+00:00"
+                                    "time": "480", 
+                                    "valid": "2021-03-02T07:00:00+00:00"
                                 }
                             ]
                         }
@@ -345,10 +346,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "78", 
-                                    "pm10_val": "22", 
-                                    "time": "420", 
-                                    "valid": "2021-03-02T06:00:00+00:00"
+                                    "no2_val": "86", 
+                                    "pm10_val": "38", 
+                                    "time": "480", 
+                                    "valid": "2021-03-02T07:00:00+00:00"
                                 }
                             ]
                         }
@@ -375,7 +376,7 @@
                 "unit": "\u03bcg/m\u00b3"
             }
         }, 
-        "tsUpdated": "2021-03-02T06:12:02+00:00", 
+        "tsUpdated": "2021-03-02T07:12:01+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "http://www.meteo.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -398,9 +399,9 @@
                             "date": "2021-03-02", 
                             "timeline": [
                                 {
-                                    "time": "420", 
-                                    "tw": "6", 
-                                    "valid": "2021-03-02T06:00:00+00:00", 
+                                    "time": "480", 
+                                    "tw": "5", 
+                                    "valid": "2021-03-02T07:00:00+00:00", 
                                     "wLev": "28"
                                 }
                             ]
@@ -427,9 +428,9 @@
                             "date": "2021-03-02", 
                             "timeline": [
                                 {
-                                    "time": "420", 
+                                    "time": "480", 
                                     "tw": "6", 
-                                    "valid": "2021-03-02T06:00:00+00:00", 
+                                    "valid": "2021-03-02T07:00:00+00:00", 
                                     "wLev": "48"
                                 }
                             ]
@@ -456,9 +457,9 @@
                             "date": "2021-03-02", 
                             "timeline": [
                                 {
-                                    "time": "420", 
+                                    "time": "480", 
                                     "tw": "6", 
-                                    "valid": "2021-03-02T06:00:00+00:00", 
+                                    "valid": "2021-03-02T07:00:00+00:00", 
                                     "wLev": "84"
                                 }
                             ]
@@ -485,10 +486,10 @@
                             "date": "2021-03-02", 
                             "timeline": [
                                 {
-                                    "time": "420", 
+                                    "time": "480", 
                                     "tw": "10", 
-                                    "valid": "2021-03-02T06:00:00+00:00", 
-                                    "wLev": "175"
+                                    "valid": "2021-03-02T07:00:00+00:00", 
+                                    "wLev": "194"
                                 }
                             ]
                         }
@@ -532,10 +533,17 @@
                         "event": [
                             {
                                 "degree": "yellow", 
+                                "parameter": "WarningWind", 
+                                "parameter_desc": "Veter", 
+                                "validEnd": "2021-03-06T11:59:00+00:00", 
+                                "validStart": "2021-03-05T20:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
                                 "parameter": "WarningForestFire", 
                                 "parameter_desc": "Po\u017earna ogro\u017eenost", 
-                                "validEnd": "2021-03-05T22:59:00+00:00", 
-                                "validStart": "2021-03-02T05:00:00+00:00"
+                                "validEnd": "2021-03-04T22:59:00+00:00", 
+                                "validStart": "2021-03-02T06:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -553,6 +561,6 @@
         ], 
         "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-03-01T11:52:00+00:00"
+        "updated": "2021-03-02T05:44:00+00:00"
     }
 }
