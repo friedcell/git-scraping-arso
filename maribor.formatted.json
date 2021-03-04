@@ -3657,13 +3657,13 @@
                             "sunset": "2021-03-04T17:48:00+01:00", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "overcast_night", 
-                                    "clouds_shortText": "obla\u010dno", 
-                                    "clouds_shortText_wwsyn_shortText": "obla\u010dno", 
+                                    "clouds_icon_wwsyn_icon": "prevCloudy_day", 
+                                    "clouds_shortText": "prete\u017eno obla\u010dno", 
+                                    "clouds_shortText_wwsyn_shortText": "prete\u017eno obla\u010dno", 
                                     "dd_shortText": "SZ", 
                                     "ddff_icon": "", 
                                     "ff_shortText": "\u0161ibek SZ", 
-                                    "ff_val": "7", 
+                                    "ff_val": "5", 
                                     "ffmax_val": "", 
                                     "interval": "", 
                                     "msl": "1022", 
@@ -3671,16 +3671,16 @@
                                     "rh": "60", 
                                     "rh_shortText": "srednja", 
                                     "t": "6", 
-                                    "time": "360", 
-                                    "valid": "2021-03-04T05:00:00+00:00", 
+                                    "time": "420", 
+                                    "valid": "2021-03-04T06:00:00+00:00", 
                                     "webcam": [
                                         {
                                             "direction": "sw", 
-                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20210304-0500_MARIBOR_VRBAN-PLA_sw.jpg"
+                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20210304-0600_MARIBOR_VRBAN-PLA_sw.jpg"
                                         }, 
                                         {
                                             "direction": "ne", 
-                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20210304-0500_MARIBOR_VRBAN-PLA_ne.jpg"
+                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20210304-0600_MARIBOR_VRBAN-PLA_ne.jpg"
                                         }
                                     ], 
                                     "wwsyn_icon": "", 
@@ -3775,8 +3775,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-03-04T05:19:18+00:00", 
-        "tsValid": "2021-03-04 05:00", 
+        "tsUpdated": "2021-03-04T06:20:00+00:00", 
+        "tsValid": "2021-03-04 06:00", 
         "type": "FeatureCollection"
     }
 }
