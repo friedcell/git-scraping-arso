@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Nedelja, 7.3.2021 ob 7h", 
+            "pubdate": "Nedelja, 7.3.2021 ob 8h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-03-07 06:58"
+            "tsValid_issued": "2021-03-07 07:55"
         }, 
         "dataType": "", 
         "features": "", 
@@ -45,11 +45,12 @@
             }, 
             {
                 "para": [
-                    "Nad ve\u010djim delom Evrope je obmo\u010dje visokega zra\u010dnega tlaka, ki po\u010dasi slabi. Ob \u0161ibkih zahodnih vetrovih doteka nad na\u0161e kraje potopno toplej\u0161i zrak."
+                    "Nad ve\u010djim delom Evrope je obmo\u010dje visokega zra\u010dnega tlaka, ki po\u010dasi slabi. Ob \u0161ibkih zahodnih vetrovih doteka nad na\u0161e kraje postopno toplej\u0161i zrak."
                 ], 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
+                "para": "Jutri Obmo\u010dje visokega zra\u010dnega tlaka nad srednjo Evropo po\u010dasi slabi. Z vetrom severnih smeri nad na\u0161e kraje postopno doteka nekoliko bolj vla\u017een zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
@@ -65,7 +66,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-03-07T05:58:12+00:00", 
+        "tsUpdated": "2021-03-07T06:55:59+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -532,6 +533,13 @@
                         "event": [
                             {
                                 "degree": "yellow", 
+                                "parameter": "WarningWind", 
+                                "parameter_desc": "Veter", 
+                                "validEnd": "2021-03-11T21:59:00+00:00", 
+                                "validStart": "2021-03-10T23:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
                                 "parameter": "WarningTn", 
                                 "parameter_desc": "Nizka temperatura", 
                                 "validEnd": "2021-03-07T08:59:00+00:00", 
@@ -541,7 +549,7 @@
                                 "degree": "yellow", 
                                 "parameter": "WarningForestFire", 
                                 "parameter_desc": "Po\u017earna ogro\u017eenost", 
-                                "validEnd": "2021-03-09T22:59:00+00:00", 
+                                "validEnd": "2021-03-11T21:59:00+00:00", 
                                 "validStart": "2021-03-07T05:00:00+00:00"
                             }
                         ], 
@@ -560,6 +568,6 @@
         ], 
         "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-03-06T09:04:00+00:00"
+        "updated": "2021-03-07T06:51:00+00:00"
     }
 }
