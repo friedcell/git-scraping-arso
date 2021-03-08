@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Ponedeljek, 8.3.2021 ob 7h", 
+            "pubdate": "Ponedeljek, 8.3.2021 ob 9h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-03-08 06:48"
+            "tsValid_issued": "2021-03-08 08:42"
         }, 
         "dataType": "", 
         "features": "", 
@@ -52,7 +52,7 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V sredo bo deloma son\u010dno z ob\u010dasno pove\u010dano obla\u010dnostjo. \u0160e bo pihal vzhodni veter, na Primorskem \u0161ibka do zmerna burja, ki bo popoldne slabela. V \u010detrtek se bo obla\u010dnost od zahoda pove\u010dala. Zapihal bo jugozahodni veter.", 
+                "para": "V sredo bo deloma jasno s spremenljivo obla\u010dnostjo, \u010dez dan bodo nastale posamezne plohe. \u0160e bo pihal vzhodni veter, na Primorskem \u0161ibka do zmerna burja, ki bo popoldne oslabela. V \u010detrtek se bo obla\u010dnost od zahoda pove\u010dala. Zapihal bo jugozahodni veter.", 
                 "title": "OBETI"
             }, 
             {
@@ -64,7 +64,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-03-08T05:48:31+00:00", 
+        "tsUpdated": "2021-03-08T07:42:27+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -538,9 +538,16 @@
                             }, 
                             {
                                 "degree": "yellow", 
+                                "parameter": "WarningRain", 
+                                "parameter_desc": "De\u017e", 
+                                "validEnd": "2021-03-12T21:59:00+00:00", 
+                                "validStart": "2021-03-11T23:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
                                 "parameter": "WarningForestFire", 
                                 "parameter_desc": "Po\u017earna ogro\u017eenost", 
-                                "validEnd": "2021-03-12T21:59:00+00:00", 
+                                "validEnd": "2021-03-11T22:59:00+00:00", 
                                 "validStart": "2021-03-08T06:00:00+00:00"
                             }
                         ], 
