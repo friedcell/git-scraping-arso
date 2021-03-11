@@ -532,7 +532,7 @@
                                 "degree": "yellow", 
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
-                                "validEnd": "2021-03-11T21:59:00+00:00", 
+                                "validEnd": "2021-03-12T05:59:00+00:00", 
                                 "validStart": "2021-03-11T13:00:00+00:00"
                             }, 
                             {
@@ -541,6 +541,13 @@
                                 "parameter_desc": "De\u017e", 
                                 "validEnd": "2021-03-12T21:59:00+00:00", 
                                 "validStart": "2021-03-12T12:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningSnow", 
+                                "parameter_desc": "Sneg", 
+                                "validEnd": "2021-03-14T17:59:00+00:00", 
+                                "validStart": "2021-03-14T05:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
@@ -565,6 +572,6 @@
         ], 
         "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-03-10T06:10:00+00:00"
+        "updated": "2021-03-11T06:24:00+00:00"
     }
 }
