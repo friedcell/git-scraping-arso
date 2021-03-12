@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Petek, 12.3.2021 ob 9h", 
+            "pubdate": "Petek, 12.3.2021 ob 11h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-03-12 08:53"
+            "tsValid_issued": "2021-03-12 10:53"
         }, 
         "dataType": "", 
         "features": "", 
@@ -29,13 +29,13 @@
         "section": [
             {
                 "para": [
-                    "Danes bo prete\u017eno obla\u010dno z ob\u010dasnimi padavinami, ki bodo pogostej\u0161e popoldne in zve\u010der. Meja sne\u017eenja bo med 1100 in 1500 metri, zve\u010der se bo pri\u010dela spu\u0161\u010dati. V ve\u010djem delu Slovenije bo \u0161e pihal jugozahodnik, ob morju jugo. Najvi\u0161je dnevne temperature bodo od 7 do 14 \u00b0C.\n", 
-                    "Pozno zve\u010der bo za kraj\u0161i \u010das zapihal severovzhodni veter, na Primorskem burja. Padavine bodo v drugi polovici no\u010di povsod ponehale, od severozahoda se bo pri\u010delo jasniti. Zjutraj bo po nekaterih ni\u017einah megla. Jutranje temperature bodo od -3 do 4, ob morju okoli 6 \u00b0C."
+                    "Danes bo prete\u017eno obla\u010dno, dopoldne bodo manj\u0161e padavine predvsem na zahodu Slovenije, popoldne pa se bodo za\u010dele pojavljati tudi drugod. Meja sne\u017eenja bo med 1100 in 1500 metri. V ve\u010djem delu Slovenije bo \u0161e pihal jugozahodnik, ob morju jugo. Najvi\u0161je dnevne temperature bodo od 7 do 14 \u00b0C.\n", 
+                    "Zve\u010der se bodo padavine okrepile in raz\u0161irile nad vso Slovenijo, mo\u017ena bo tudi kak\u0161na nevihta, meja sne\u017eenja se bo spu\u0161\u010dala. Za kraj\u0161i \u010das bo zapihal severovzhodni veter, na Primorskem burja. Padavine bodo v drugi polovici no\u010di povsod ponehale, od severozahoda se bo pri\u010delo jasniti. Zjutraj bo po nekaterih ni\u017einah megla. Jutranje temperature bodo od -3 do 4, ob morju okoli 6 \u00b0C."
                 ], 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo pove\u010dini son\u010dno, popoldne se bo obla\u010dnost ponekod na severnem Primorskem in Notranjskem spet pove\u010dala. Zapihal bo jugozahodni veter, ob morju jugo. Najvi\u0161je dnevne temperature bodo od 8 do 15 \u00b0C.", 
+                "para": "Jutri bo pove\u010dini son\u010dno, popoldne se bo obla\u010dnost ponekod na severnem Primorskem in Notranjskem spet pove\u010dala. Zapihal bo jugozahodni veter. Najvi\u0161je dnevne temperature bodo od 8 do 15 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -66,7 +66,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-03-12T07:54:01+00:00", 
+        "tsUpdated": "2021-03-12T09:54:02+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -558,6 +558,13 @@
                                 "parameter_desc": "Nevihte", 
                                 "validEnd": "2021-03-12T21:59:00+00:00", 
                                 "validStart": "2021-03-12T14:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningAvalanche", 
+                                "parameter_desc": "Sne\u017eni plazovi", 
+                                "validEnd": "2021-03-15T22:59:00+00:00", 
+                                "validStart": "2021-03-13T23:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -575,6 +582,6 @@
         ], 
         "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-03-12T07:18:00+00:00"
+        "updated": "2021-03-12T09:35:00+00:00"
     }
 }
