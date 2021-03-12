@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Petek, 12.3.2021 ob 7h", 
+            "pubdate": "Petek, 12.3.2021 ob 9h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-03-12 06:51"
+            "tsValid_issued": "2021-03-12 08:53"
         }, 
         "dataType": "", 
         "features": "", 
@@ -66,7 +66,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-03-12T05:51:32+00:00", 
+        "tsUpdated": "2021-03-12T07:54:01+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -533,17 +533,31 @@
                         "event": [
                             {
                                 "degree": "yellow", 
+                                "parameter": "WarningWind", 
+                                "parameter_desc": "Veter", 
+                                "validEnd": "2021-03-14T03:59:00+00:00", 
+                                "validStart": "2021-03-13T20:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
                                 "parameter": "WarningRain", 
                                 "parameter_desc": "De\u017e", 
-                                "validEnd": "2021-03-12T21:59:00+00:00", 
-                                "validStart": "2021-03-12T12:00:00+00:00"
+                                "validEnd": "2021-03-12T22:59:00+00:00", 
+                                "validStart": "2021-03-12T14:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningSnow", 
                                 "parameter_desc": "Sneg", 
                                 "validEnd": "2021-03-14T17:59:00+00:00", 
-                                "validStart": "2021-03-14T05:00:00+00:00"
+                                "validStart": "2021-03-14T06:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningTS", 
+                                "parameter_desc": "Nevihte", 
+                                "validEnd": "2021-03-12T21:59:00+00:00", 
+                                "validStart": "2021-03-12T14:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -561,6 +575,6 @@
         ], 
         "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-03-11T06:24:00+00:00"
+        "updated": "2021-03-12T07:18:00+00:00"
     }
 }
