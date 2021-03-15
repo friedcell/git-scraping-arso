@@ -19,40 +19,42 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Nedelja, 14.3.2021 ob 18h", 
+            "pubdate": "Ponedeljek, 15.3.2021 ob 6h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-03-14 17:37"
+            "tsValid_issued": "2021-03-15 05:52"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Pono\u010di se bo postopno zjasnilo, veter bo oslabel. Najni\u017eje jutranje temperature bodo od -7 do 0, ob morju okoli 3 \u00b0C.", 
+                "para": "Danes bo sprva precej jasno z meglo in nizko obla\u010dnostjo po ni\u017einah. Sredi dneva in popoldne bo ve\u010d spremenljive obla\u010dnosti, mo\u017ene bodo posamezne kratkotrajne plohe. Najvi\u0161je dnevne temperature bodo od 6 do 12 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "V ponedeljek bo sprva precej jasno, zjutraj bo po nekaterih kotlinah megla. Sredi dneva in popoldne bo ve\u010d spremenljive obla\u010dnosti, mo\u017ene bodo tudi posamezne kratkotrajne plohe, lahko sne\u017ene. Najvi\u0161je dnevne temperature bodo od 7 do 12, na Primorskem do okoli 14 \u00b0C.", 
+                "para": "Jutri bo delno jasno z ob\u010dasno pove\u010dano obla\u010dnostjo, pihal bo severni veter. Jutranje temperature bodo od -6 do 1, ob morju okoli 3, najvi\u0161je dnevne od 6 do 11, na Primorskem do 14 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Pono\u010di se bo postopno zjasnilo. V Kvarnerju bo \u0161e pihala \u0161ibka do zmerna burja.", 
+                "para": "Danes bo sprva precej jasno z nekaj megle. \u010cez dan bo nastajala kopasta obla\u010dnost in nad kopnim popoldne posamezne plohe.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
-                "para": "V ponedeljek bo sprva precej jasno, nato bo nastajala spremenljiva kopasta obla\u010dnost in nad kopnim popoldne posamezne kratkotrajne plohe.", 
+                "para": "Jutri bo delno jasno z ob\u010dasno pove\u010dano obla\u010dnostjo, predvsem v Alpah in v krajih vzhodno od nas bo nastalo nekaj ploh. Pihal bo severni veter.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
-                "para": "Hladna fronta se pomika \u010dez vzhodne Alpe, severni Jadran in severozahodni Balkan proti jugovzhodu. Za njo se nad Alpami krepi obmo\u010dje visokega zra\u010dnega tlaka. K nam od severa doteka hladnej\u0161i zrak.", 
+                "para": "Ciklonsko obmo\u010dje se je iznad na\u0161ih krajev umaknilo nad osrednji in vzhodni Balkan. S severnimi vetrovi priteka k nam v vi\u0161inah dokaj hladen zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V ponedeljek Ciklonsko obmo\u010dje se je iznad na\u0161ih krajev umaknilo nad Balkan, nad zahodno Evropo pa se krepi obmo\u010dje visokega zra\u010dnega tlaka. S severnimi vetrovi k nam priteka dokaj hladen zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V torek in sredo bo delno jasno z ob\u010dasno pove\u010dano obla\u010dnostjo. Popoldne lahko nastane kak\u0161na ploha. V torek bo pihal severni veter. V \u010detrtek se bo poobla\u010dilo, ponekod na zahodu bodo ob\u010dasne padavine.", 
+                "para": [
+                    "V sredo bo spremenljivo obla\u010dno, popoldne lahko nastane kak\u0161na ploha. ", 
+                    "V \u010detrtek se bo poobla\u010dilo, tu in tam bodo mo\u017ene rahle padavine."
+                ], 
                 "title": "OBETI"
             }, 
             {
@@ -60,11 +62,11 @@
                 "title": "OPOZORILO"
             }, 
             {
-                "para": "Pono\u010di se bo postopno zjasnilo, veter bo oslabel. V ponedeljek bo deloma son\u010dno s kak\u0161no popoldansko ploho.", 
+                "para": "Danes in jutri bo deloma son\u010dno s kak\u0161no popoldansko ploho. Jutri bo pihal severni veter.", 
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-03-14T16:37:19+00:00", 
+        "tsUpdated": "2021-03-15T04:52:53+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -534,7 +536,7 @@
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
                                 "validEnd": "2021-03-15T22:59:00+00:00", 
-                                "validStart": "2021-03-15T03:00:00+00:00"
+                                "validStart": "2021-03-15T04:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
