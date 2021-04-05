@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Ponedeljek, 5.4.2021 ob 6h", 
+            "pubdate": "Ponedeljek, 5.4.2021 ob 9h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-04-05 06:28"
+            "tsValid_issued": "2021-04-05 08:54"
         }, 
         "dataType": "", 
         "features": "", 
@@ -35,7 +35,7 @@
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri dopoldne bo sne\u017eilo, na Primorskem pa ve\u010dinoma de\u017eevalo. Popoldne bodo padavine ponehale, oblaki se bodo trgali, nastalo bo nekaj sne\u017enih ploh. Na Primorskem bo zjutraj pihala zmerna do mo\u010dna burja, ki bo \u010dez dan slabela. Najni\u017eje jutranje temperature bodo od -3 do 1, na Primorskem do 4, najvi\u0161je dnevne od 0 do 6, na Primorskem do 8 \u00b0C.", 
+                "para": "Jutri dopoldne bo sne\u017eilo, na Primorskem pa ve\u010dinoma de\u017eevalo. Popoldne bodo padavine ponehale, oblaki se bodo trgali, nastalo bo nekaj sne\u017enih ploh. Na Primorskem bo zjutraj pihala zmerna do mo\u010dna burja, ki bo \u010dez dan slabela. Najni\u017eje jutranje temperature bodo od -3 do 1, na Primorskem do 4, najvi\u0161je dnevne od 0 do 6, na Primorskem okoli 8 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -54,19 +54,19 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V sredo bo spremenljivo do prete\u017eno obla\u010dno, nastale bodo krajevne sne\u017ene plohe. Burja bo oslabela. V \u010detrtek bo son\u010dno vreme z mrzlim jutrom. Oba dneva bo zjutraj nevarnost pozebe.", 
+                "para": "V sredo bo spremenljivo do prete\u017eno obla\u010dno, nastajale bodo krajevne sne\u017ene plohe. V \u010detrtek bo son\u010dno vreme z mrzlim jutrom. Oba dneva bo zjutraj nevarnost pozebe.", 
                 "title": "OBETI"
             }, 
             {
-                "para": "Dodatnega opozorila ni.", 
+                "para": "V torek zjutraj in dopoldne bodo marsikje razmere povsem zimske. Na prehodu med Notranjsko in Primorsko bo veter prena\u0161al sneg in gradil zamete.", 
                 "title": "OPOZORILO"
             }, 
             {
-                "para": "Danes bo son\u010dno, popoldne bo obla\u010dnost nara\u0161\u010dala. Pono\u010di bo de\u017eevalo, jutri dopoldne pa sne\u017eilo, pihala bo mo\u010dna burja. Popoldne se bo jasnilo.", 
+                "para": "Danes bo son\u010dno, popoldne bo obla\u010dnost nara\u0161\u010dala. Jutri zjutraj in dopoldne bo sne\u017eilo, pihala bo mo\u010dna burja. Popoldne se bo jasnilo.", 
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-04-05T04:29:01+00:00", 
+        "tsUpdated": "2021-04-05T06:54:39+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -525,7 +525,16 @@
                 "name": "Slovenija", 
                 "summary": [
                     {
-                        "event": "", 
+                        "event": [
+                            {
+                                "degree": "orange", 
+                                "parameter": "WarningSnow", 
+                                "parameter_desc": "Sneg", 
+                                "region_map": "warning_snow_si-region_d1hlast-d3h00.png", 
+                                "validEnd": "2021-04-06T12:59:00+00:00", 
+                                "validStart": "2021-04-06T03:00:00+00:00"
+                            }
+                        ], 
                         "interval": "2 days", 
                         "type": "maxDegreeEvent"
                     }, 
@@ -539,18 +548,18 @@
                                 "validStart": "2021-04-05T11:00:00+00:00"
                             }, 
                             {
-                                "degree": "yellow", 
+                                "degree": "orange", 
                                 "parameter": "WarningSnow", 
                                 "parameter_desc": "Sneg", 
-                                "validEnd": "2021-04-06T13:59:00+00:00", 
-                                "validStart": "2021-04-05T23:00:00+00:00"
+                                "validEnd": "2021-04-06T12:59:00+00:00", 
+                                "validStart": "2021-04-06T03:00:00+00:00"
                             }, 
                             {
-                                "degree": "yellow", 
+                                "degree": "orange", 
                                 "parameter": "WarningTn", 
                                 "parameter_desc": "Nizka temperatura", 
-                                "validEnd": "2021-04-05T08:59:00+00:00", 
-                                "validStart": "2021-04-05T05:00:00+00:00"
+                                "validEnd": "2021-04-07T08:59:00+00:00", 
+                                "validStart": "2021-04-06T23:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -568,6 +577,6 @@
         ], 
         "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-04-04T07:05:00+00:00"
+        "updated": "2021-04-05T06:35:00+00:00"
     }
 }
