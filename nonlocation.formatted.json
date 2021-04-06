@@ -19,24 +19,23 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Torek, 6.4.2021 ob 13h", 
+            "pubdate": "Torek, 6.4.2021 ob 16h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-04-06 12:47"
+            "tsValid_issued": "2021-04-06 15:58"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Popoldne se bodo padavine umikale proti jugu, kjer bo sne\u017eenje ponehalo pozno popoldne. Oblaki se bodo trgali, nastalo bo nekaj sne\u017enih ploh. Burja na Primorskem bo po\u010dasi slabela. Temperature bodo od -1 do 6, na Primorskem do 9 \u00b0C.", 
+                "para": "Pono\u010di se bo zjasnilo, burja na Primorskem bo zve\u010der ponehala. Zjutraj bo ponekod po kotlinah megla. Najni\u017eje jutranje temperature bodo od -8 do -3, ob morju okoli 0, v alpskih dolinah ter v mrazi\u0161\u010dih Notranjske in Ko\u010devske okoli -12 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo delno jasno s spremenljivo obla\u010dnostjo, nastajale bodo kratkotrajne, predvsem sne\u017ene plohe. Popoldne bo prehodno zapihal severozahodnik. Najni\u017eje jutranje temperature bodo od -8 do -3, v alpskih dolinah in na planotah Notranjske do okoli -12, ob morju okoli 0, najvi\u0161je dnevne od 4 do 9, na Primorskem do okoli 11 \u00b0C.", 
+                "para": "Jutri bo delno jasno s spremenljivo obla\u010dnostjo, zjutraj bo ponekod po kotlinah megla. Sredi dneva in popoldne bodo nastajale kratkotrajne, predvsem sne\u017ene plohe. Popoldne bo prehodno zapihal severozahodni veter. Najvi\u0161je dnevne temperature bodo od 4 do 9, na Primorskem do okoli 11 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Popoldne se bodo padavine umikale nad Hrva\u0161ko, od severozahoda se bo delno zjasnilo. Nastajale bodo sne\u017ene plohe. Pihal bo severovzhodni veter, v Kvarnerju mo\u010dna burja.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
@@ -44,7 +43,7 @@
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
-                "para": "Ciklon s hladno fronto se pomika nad osrednji Balkan, nad Alpami in srednjo Evropo se krepi obmo\u010dje visokega zra\u010dnega tlaka. Od severa k nam doteka zelo hladen in postopno bolj suh zrak.", 
+                "para": "Ciklon s hladno fronto se pomika nad osrednji Balkan in srednji Jadran, srednjo Evropo se od zahoda \u0161iri obmo\u010dje visokega zra\u010dnega tlaka. Od severa k nam doteka mrzel in postopno bolj suh zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
@@ -60,11 +59,11 @@
                 "title": "OPOZORILO"
             }, 
             {
-                "para": "Popoldne se bodo padavine umaknile proti jugu, jasnilo se bo. Jutri bo spremenljivo obla\u010dno z mrzlim jutrom in kratkotrajnimi plohami.", 
+                "para": "Pono\u010di se bo zjasnilo. Jutri bo spremenljivo obla\u010dno z mrzlim jutrom in kratkotrajnimi popoldanskimi plohami.", 
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-04-06T10:47:42+00:00", 
+        "tsUpdated": "2021-04-06T13:59:04+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -526,14 +525,6 @@
                         "event": [
                             {
                                 "degree": "orange", 
-                                "parameter": "WarningSnow", 
-                                "parameter_desc": "Sneg", 
-                                "region_map": "warning_snow_si-region_d1hlast-d3h00.png", 
-                                "validEnd": "2021-04-06T12:59:00+00:00", 
-                                "validStart": "2021-04-06T12:00:00+00:00"
-                            }, 
-                            {
-                                "degree": "orange", 
                                 "parameter": "WarningTn", 
                                 "parameter_desc": "Nizka temperatura", 
                                 "region_map": "warning_Tn_si-region_d1hlast-d3h00.png", 
@@ -551,14 +542,14 @@
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
                                 "validEnd": "2021-04-06T14:59:00+00:00", 
-                                "validStart": "2021-04-06T12:00:00+00:00"
+                                "validStart": "2021-04-06T13:00:00+00:00"
                             }, 
                             {
-                                "degree": "orange", 
+                                "degree": "yellow", 
                                 "parameter": "WarningSnow", 
                                 "parameter_desc": "Sneg", 
-                                "validEnd": "2021-04-06T12:59:00+00:00", 
-                                "validStart": "2021-04-06T12:00:00+00:00"
+                                "validEnd": "2021-04-06T13:59:00+00:00", 
+                                "validStart": "2021-04-06T13:00:00+00:00"
                             }, 
                             {
                                 "degree": "orange", 
