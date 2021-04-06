@@ -3705,34 +3705,34 @@
                             "sunset": "2021-04-06T19:31:00+02:00", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "overcast_lightRASN_night", 
+                                    "clouds_icon_wwsyn_icon": "overcast_modSN_night", 
                                     "clouds_shortText": "obla\u010dno", 
-                                    "clouds_shortText_wwsyn_shortText": "de\u017e s snegom", 
+                                    "clouds_shortText_wwsyn_shortText": "sne\u017ei", 
                                     "dd_shortText": "SV", 
                                     "ddff_icon": "lightNE", 
                                     "ff_shortText": "\u0161ibek SV", 
                                     "ff_val": "13", 
                                     "ffmax_val": "", 
                                     "interval": "", 
-                                    "msl": "1007", 
+                                    "msl": "1008", 
                                     "pa_shortText": "raste", 
-                                    "rh": "89", 
+                                    "rh": "97", 
                                     "rh_shortText": "visoka", 
-                                    "t": "1", 
-                                    "time": "300", 
-                                    "valid": "2021-04-06T03:00:00+00:00", 
+                                    "t": "0", 
+                                    "time": "360", 
+                                    "valid": "2021-04-06T04:00:00+00:00", 
                                     "webcam": [
                                         {
                                             "direction": "nw", 
-                                            "image": "MURSK-SOB_dir/siwc_20210406-0300_MURSK-SOB_nw.jpg"
+                                            "image": "MURSK-SOB_dir/siwc_20210406-0400_MURSK-SOB_nw.jpg"
                                         }, 
                                         {
                                             "direction": "sw", 
-                                            "image": "MURSK-SOB_dir/siwc_20210406-0300_MURSK-SOB_sw.jpg"
+                                            "image": "MURSK-SOB_dir/siwc_20210406-0400_MURSK-SOB_sw.jpg"
                                         }
                                     ], 
-                                    "wwsyn_icon": "lightRASN", 
-                                    "wwsyn_shortText": "de\u017e s snegom"
+                                    "wwsyn_icon": "modSN", 
+                                    "wwsyn_shortText": "sne\u017ei"
                                 }
                             ]
                         }
@@ -3823,8 +3823,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-04-06T03:19:50+00:00", 
-        "tsValid": "2021-04-06 03:00", 
+        "tsUpdated": "2021-04-06T04:19:40+00:00", 
+        "tsValid": "2021-04-06 04:00", 
         "type": "FeatureCollection"
     }
 }
