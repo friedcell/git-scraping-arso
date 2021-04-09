@@ -547,7 +547,14 @@
                                 "parameter": "WarningTn", 
                                 "parameter_desc": "Nizka temperatura", 
                                 "validEnd": "2021-04-09T10:59:00+00:00", 
-                                "validStart": "2021-04-09T06:00:00+00:00"
+                                "validStart": "2021-04-09T07:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningAvalanche", 
+                                "parameter_desc": "Sne\u017eni plazovi", 
+                                "validEnd": "2021-04-13T21:59:00+00:00", 
+                                "validStart": "2021-04-11T23:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -565,6 +572,6 @@
         ], 
         "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-04-09T05:44:00+00:00"
+        "updated": "2021-04-09T07:42:00+00:00"
     }
 }
