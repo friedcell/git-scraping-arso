@@ -526,7 +526,16 @@
                 "name": "Slovenija", 
                 "summary": [
                     {
-                        "event": "", 
+                        "event": [
+                            {
+                                "degree": "orange", 
+                                "parameter": "WarningSnow", 
+                                "parameter_desc": "Sneg", 
+                                "region_map": "warning_snow_si-region_d1hlast-d3h00.png", 
+                                "validEnd": "2021-04-13T11:59:00+00:00", 
+                                "validStart": "2021-04-13T01:00:00+00:00"
+                            }
+                        ], 
                         "interval": "2 days", 
                         "type": "maxDegreeEvent"
                     }, 
@@ -536,8 +545,8 @@
                                 "degree": "yellow", 
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
-                                "validEnd": "2021-04-12T14:59:00+00:00", 
-                                "validStart": "2021-04-12T06:00:00+00:00"
+                                "validEnd": "2021-04-13T19:59:00+00:00", 
+                                "validStart": "2021-04-12T23:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
@@ -547,11 +556,11 @@
                                 "validStart": "2021-04-12T14:00:00+00:00"
                             }, 
                             {
-                                "degree": "yellow", 
+                                "degree": "orange", 
                                 "parameter": "WarningSnow", 
                                 "parameter_desc": "Sneg", 
-                                "validEnd": "2021-04-13T22:59:00+00:00", 
-                                "validStart": "2021-04-12T23:00:00+00:00"
+                                "validEnd": "2021-04-13T11:59:00+00:00", 
+                                "validStart": "2021-04-13T01:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
@@ -575,7 +584,7 @@
                 "text": {
                     "id": "warning_SLOVENIA", 
                     "para": [
-                        "Dodatnega opozorila ni."
+                        "V drugi polovici no\u010di na torek in v torek dopoldne bo na prehodu med Notranjsko in Primorsko veter prena\u0161al sneg. "
                     ], 
                     "title": "Opozorilo"
                 }
@@ -583,6 +592,6 @@
         ], 
         "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-04-12T03:38:00+00:00"
+        "updated": "2021-04-12T07:16:00+00:00"
     }
 }
