@@ -19,52 +19,54 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Torek, 13.4.2021 ob 18h", 
+            "pubdate": "Sreda, 14.4.2021 ob 6h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-04-13 17:39"
+            "tsValid_issued": "2021-04-14 06:00"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Zve\u010der bodo padavine ponehale tudi na severovzhodu in pono\u010di se bo v zahodnih in deloma osrednjih krajih zjasnilo, drugod bo ostalo prete\u017eno obla\u010dno. Na \u0160tajerskem in v Prekmurju ter ponekod na Gorenjskem bo pihal severni veter. Najni\u017eje jutranje temperature bodo od -2 do 2, v alpskih dolinah in v mrazi\u0161\u010dih Notranjske do okoli -6 \u00b0C.", 
+                "para": "Danes bo v zahodnih krajih precej jasno, drugod zmerno do prete\u017eno obla\u010dno. Ponekod bo pihal severni veter. Najvi\u0161je dnevne temperature bodo od 6 do 11, na Primorskem do 14 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "V sredo bo v zahodnih krajih delno jasno, drugod spremenljivo do prete\u017eno obla\u010dno, ve\u010d obla\u010dnosti bo na vzhodu. Popoldne ni izklju\u010dena kak\u0161na manj\u0161a ploha. Ponekod bo pihal severni veter. Najvi\u0161je dnevne temperature bodo od 6 do 11, na Primorskem do okoli 13 \u00b0C.", 
+                "para": "Jutri bo sprva delno jasno, sredi dneva in popoldne pa spremenljivo obla\u010dno s kak\u0161no kratkotrajno ploho. Predvsem v Prekmurju in deloma na \u0160tajerskem bo pihal severni veter. Najni\u017eje jutranje temperature bodo od -4 do 1, v mrazi\u0161\u010dih Notranjske ter v nekaterih alpskih dolinah okoli -8, ob morju okoli 3, najvi\u0161je dnevne od 7 do 13 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Zve\u010der bodo padavine postopno ponehale tudi v krajih vzhodno od nas. V Italiji in ob Jadranu se bo za\u010delo jasniti.", 
+                "para": "Danes bo deloma jasno, ve\u010d obla\u010dnosti bo v krajih vzhodno od nas.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
-                "para": "V sredo bo deloma jasno s spremenljivo obla\u010dnostjo in kak\u0161no manj\u0161o ploho. Ve\u010d obla\u010dnosti bo v krajih vzhodno od nas.", 
+                "para": "Jutri bo dopoldne precej jasno, \u010dez dan pa bo nastajala spremenljivo obla\u010dnost in tudi nekaj manj\u0161ih ploh.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
-                "para": "Ciklon z vremensko fronto se je pomaknil proti jugovzhodu. Od severa doteka nad na\u0161e kraje hladnej\u0161i in vla\u017een zrak.", 
+                "para": "Nad zahodno in srednjo Evropo je obmo\u010dje visokega zra\u010dnega tlaka, nad osrednjim in vzhodnim Balkanom pa je ciklonsko obmo\u010dje. Od severa priteka k nam hladen in nekoliko bolj suh zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V sredo Nad zahodno in srednjo Evropo ter nad severnim Sredozemljem je obmo\u010dje visokega zra\u010dnega tlaka. Od severa k nam priteka hladen in nekoliko bolj suh zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V \u010detrtek bo sprva delno jasno, \u010dez dan pa spremenljivo obla\u010dno s posameznimi manj\u0161imi plohami. Ponekod bo pihal severni veter. Tudi v petek bo dopoldne son\u010dno, popoldne pa bo ve\u010d spremenljive obla\u010dnosti. Oba dneva bo zjutraj temperatura marsikje pod ni\u010dlo. V soboto bo obla\u010dno in ve\u010dinoma suho.", 
+                "para": [
+                    "V petek bo sprva precej jasno z mrzlim jutrom, popoldne pa v notranjosti zmerno obla\u010dno.", 
+                    "V soboto bo prete\u017eno obla\u010dno in ve\u010dinoma suho, jutro bo toplej\u0161e."
+                ], 
                 "title": "OBETI"
             }, 
             {
-                "para": "Dodatnega opozorila ni.", 
+                "para": "V \u010detrtek in petek bo v zati\u0161nih legah osrednje Slovenije nevarnost jutranje pozebe.", 
                 "title": "OPOZORILO"
             }, 
             {
-                "para": "Zve\u010der bodo padavine ponehale, pono\u010di se bo na zahodu delno zjasnilo. Jutri bo spremenljivo obla\u010dno, ve\u010d sonca bo na Primorskem.", 
+                "para": "Danes bo na zahodu precej jasno, drugod bolj obla\u010dno. Jutri bo sprva delno jasno, nato spremenljivo obla\u010dno s kak\u0161no ploho.", 
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-04-13T15:39:30+00:00", 
+        "tsUpdated": "2021-04-14T04:00:28+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -541,14 +543,14 @@
                                 "parameter": "WarningTn", 
                                 "parameter_desc": "Nizka temperatura", 
                                 "validEnd": "2021-04-15T07:59:00+00:00", 
-                                "validStart": "2021-04-14T02:00:00+00:00"
+                                "validStart": "2021-04-14T03:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
                                 "validEnd": "2021-04-15T22:59:00+00:00", 
-                                "validStart": "2021-04-14T02:00:00+00:00"
+                                "validStart": "2021-04-14T03:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
