@@ -1,16 +1,16 @@
 {
     "fcast_si_hint": {
         "articleinfo": {
-            "pubdate": "Wednesday, 14.4.2021 ob 8h", 
+            "pubdate": "Thursday, 15.4.2021 ob 4h", 
             "title": "Vremenski namig", 
-            "tsValid_issued": "2021-04-14 08:09"
+            "tsValid_issued": "2021-04-15 04:02"
         }, 
         "section": [
             {
                 "id": "fcast_SLOVENIA_d1", 
                 "para": [
                     {
-                        "para": "V \u010detrtek in petek spet pri\u010dakujemo jasni in mrzli jutri. V ve\u010djem delu Slovenije bo temperatura padla pod ni\u010dlo. https://t.co/DahJtupDI0"
+                        "para": "Dobro jutro, danes bo sprva precej jasno, nato spremenljivo obla\u010dno s kak\u0161no ploho. Jutri bo ve\u010dinoma son\u010dno z mrzl\u2026 https://t.co/Tattna6UZ4"
                     }
                 ], 
                 "title": "Zadnja novica"
@@ -540,6 +540,13 @@
                     {
                         "event": [
                             {
+                                "degree": "yellow", 
+                                "parameter": "WarningWind", 
+                                "parameter_desc": "Veter", 
+                                "validEnd": "2021-04-17T15:59:00+00:00", 
+                                "validStart": "2021-04-17T04:00:00+00:00"
+                            }, 
+                            {
                                 "degree": "orange", 
                                 "parameter": "WarningTn", 
                                 "parameter_desc": "Nizka temperatura", 
@@ -561,7 +568,7 @@
                 "text": {
                     "id": "warning_SLOVENIA", 
                     "para": [
-                        "V \u010detrtek in petek bo predvsem v zati\u0161nih legah osrednje Slovenije nevarnost jutranje pozebe."
+                        "Danes in jutri je \u0161e nevarnost jutranje pozebe."
                     ], 
                     "title": "Opozorilo"
                 }
@@ -569,6 +576,6 @@
         ], 
         "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-04-14T05:13:00+00:00"
+        "updated": "2021-04-15T04:53:00+00:00"
     }
 }
