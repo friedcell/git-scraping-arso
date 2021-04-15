@@ -1,10 +1,1 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>502 Proxy Error</title>
-</head><body>
-<h1>Proxy Error</h1>
-<p>The proxy server received an invalid
-response from an upstream server.<br />
-The proxy server could not handle the request <em><a href="/api/1.0/water_quality/">GET&nbsp;/api/1.0/water_quality/</a></em>.<p>
-Reason: <strong>Error reading from remote server</strong></p></p>
-</body></html>
+{"params":{"temperatura":{"name":"temperatura","unit":"°C","desc":"Temperatura"},"skladnost":{"name":"skladnost","unit":"","desc":"Skladnost"}},"type":"FeatureCollection","features":[{"properties":{"days":[{"date":"2020-09-11","timeline":[{"temperatura":19,"valid":"2020-09-11T13:59:43Z","skladnost":1}]}],"title":"morje, Debeli rtič"}},{"properties":{"days":[{"date":"2020-09-11","timeline":[{"temperatura":19,"valid":"2020-09-11T13:59:43Z","skladnost":1}]}],"title":"morje, RKS MZL Debeli rtič"}},{"properties":{"days":[{"date":"2020-09-11","timeline":[{"temperatura":19,"valid":"2020-09-11T13:59:43Z","skladnost":1}]}],"title":"morje, Bele skale"}},{"properties":{"days":[{"date":"2020-09-11","timeline":[{"temperatura":19,"valid":"2020-09-11T13:59:43Z","skladnost":1}]}],"title":"Bohinj, Fužinarski zaliv"}}]}
