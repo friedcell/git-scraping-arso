@@ -19,10 +19,10 @@
                         "timeline": [
                             {
                                 "interval": "720", 
-                                "snow": "355", 
-                                "snowNew_val": "2", 
-                                "time": "480", 
-                                "valid": "2021-04-23T06:00:00+00:00"
+                                "snow": "350", 
+                                "snowNew_val": "0", 
+                                "time": "1200", 
+                                "valid": "2021-04-23T18:00:00+00:00"
                             }
                         ]
                     }
@@ -38,13 +38,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    15.6821, 
-                    46.479700000000001
+                    14.472799999999999, 
+                    46.217500000000001
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "altitude": "264", 
+                "altitude": "364", 
                 "country": "SI", 
                 "days": [
                     {
@@ -55,30 +55,30 @@
                                 "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "480", 
-                                "valid": "2021-04-23T06:00:00+00:00"
+                                "time": "1200", 
+                                "valid": "2021-04-23T18:00:00+00:00"
                             }
                         ]
                     }
                 ], 
-                "id": "METEO-1023_", 
-                "parentId": "SI_PODRAVSKA_", 
-                "title": "Letali\u0161\u010de Edvarda Rusjana Maribor", 
+                "id": "METEO-1493_", 
+                "parentId": "SI_GORENJSKA_", 
+                "title": "Letali\u0161\u010de Jo\u017eeta Pu\u010dnika Ljubljana", 
                 "type": "WMOSTATION"
             }, 
-            "snowSensorData": false, 
+            "snowSensorData": true, 
             "type": "Feature"
         }, 
         {
             "geometry": {
                 "coordinates": [
-                    13.712899999999999, 
-                    46.497100000000003
+                    14.5124, 
+                    46.0655
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "altitude": "864", 
+                "altitude": "299", 
                 "country": "SI", 
                 "days": [
                     {
@@ -86,53 +86,19 @@
                         "date": "2021-04-23", 
                         "timeline": [
                             {
-                                "interval": "1440", 
-                                "snow": "0", 
+                                "interval": "720", 
+                                "snow": "1", 
                                 "snowNew_val": "0", 
-                                "time": "480", 
-                                "valid": "2021-04-23T06:00:00+00:00"
+                                "time": "1200", 
+                                "valid": "2021-04-23T18:00:00+00:00"
                             }
                         ]
                     }
                 ], 
-                "id": "METEO-1031_", 
-                "parentId": "SI_ZGORNJESAVSKA_", 
-                "title": "Rate\u010de", 
-                "type": "WMOSTATION"
-            }, 
-            "snowSensorData": false, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    13.839600000000001, 
-                    46.259399999999999
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "altitude": "1515", 
-                "country": "SI", 
-                "days": [
-                    {
-                        "UTCoffset": "+02:00", 
-                        "date": "2021-04-23", 
-                        "timeline": [
-                            {
-                                "interval": "1440", 
-                                "snow": "240", 
-                                "snowNew_val": "0", 
-                                "time": "480", 
-                                "valid": "2021-04-23T06:00:00+00:00"
-                            }
-                        ]
-                    }
-                ], 
-                "id": "METEO-1481_", 
-                "parentId": "SI_ZGORNJESAVSKA_", 
-                "title": "Vogel", 
-                "type": "WMOSTATION"
+                "id": "METEO-1495_", 
+                "parentId": "SI_OSREDNJESLOVENSKA_", 
+                "title": "Ljubljana", 
+                "type": "SI_RNSTATION_B"
             }, 
             "snowSensorData": true, 
             "type": "Feature"
@@ -153,7 +119,7 @@
             "unit": "cm"
         }
     }, 
-    "tsUpdated": "2021-04-23T06:15:01+00:00", 
+    "tsUpdated": "2021-04-23T18:15:01+00:00", 
     "type": "FeatureCollection", 
     "webcamUrl": "http://www.meteo.si/uploads/probase/www/observ/webcam/"
 }
