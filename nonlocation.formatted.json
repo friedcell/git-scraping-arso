@@ -533,7 +533,15 @@
                         "type": "maxDegreeEvent"
                     }, 
                     {
-                        "event": "", 
+                        "event": [
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningWind", 
+                                "parameter_desc": "Veter", 
+                                "validEnd": "2021-04-29T21:59:00+00:00", 
+                                "validStart": "2021-04-29T09:00:00+00:00"
+                            }
+                        ], 
                         "interval": "5 days", 
                         "type": "maxDegreeEvent"
                     }
@@ -549,6 +557,6 @@
         ], 
         "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-04-24T06:02:00+00:00"
+        "updated": "2021-04-25T05:21:00+00:00"
     }
 }
