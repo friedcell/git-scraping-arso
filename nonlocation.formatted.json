@@ -19,16 +19,16 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Torek, 27.4.2021 ob 9h", 
+            "pubdate": "Torek, 27.4.2021 ob 10h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-04-27 09:27"
+            "tsValid_issued": "2021-04-27 09:37"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Danes bo obla\u010dno, ob\u010dasno rahlo bo de\u017eevalo. Pove\u010dini suho bo v zahodni Sloveniji. Ponekod bo pihal vzhodni veter. Najvi\u0161je dnevne temperature bodo od 7 do 11, na Primorskem do 15 \u00b0C.", 
+                "para": "Danes bo obla\u010dno, ob\u010dasno rahlo bo de\u017eevalo. V zahodni Sloveniji bo pove\u010dini suho. Ponekod bo pihal vzhodni veter. Najvi\u0161je dnevne temperature bodo od 7 do 11, na Primorskem do 15 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -51,7 +51,10 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V \u010detrtek in petek bo na vzhodu pove\u010dini son\u010dno, drugod bo prete\u017eno obla\u010dno. Na Primorskem in Notranjskem ter ponekod v osrednji Sloveniji bo ob\u010dasno de\u017eevalo. Pihal bo jugozahodni veter, topleje bo.", 
+                "para": [
+                    "V \u010detrtek bo na vzhodu pove\u010dini son\u010dno, drugod bo prete\u017eno obla\u010dno. Na Primorskem in Notranjskem ter ponekod v osrednji in ju\u017eni Sloveniji bo ob\u010dasno de\u017eevalo. Pihal bo jugozahodni veter, topleje bo.", 
+                    "V petek bo spremenljivo do prete\u017eno obla\u010dno, ob\u010dasno bodo padavine, deloma plohe in predvsem na vzhodu tudi posamezne nevihte. \u0160e bo pihal jugozahodni veter."
+                ], 
                 "title": "OBETI"
             }, 
             {
@@ -63,7 +66,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-04-27T07:27:38+00:00", 
+        "tsUpdated": "2021-04-27T07:37:43+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -539,8 +542,8 @@
                                 "degree": "yellow", 
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
-                                "validEnd": "2021-05-01T17:59:00+00:00", 
-                                "validStart": "2021-05-01T13:00:00+00:00"
+                                "validEnd": "2021-04-30T19:59:00+00:00", 
+                                "validStart": "2021-04-30T12:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -558,6 +561,6 @@
         ], 
         "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-04-27T05:04:00+00:00"
+        "updated": "2021-04-27T07:34:00+00:00"
     }
 }
