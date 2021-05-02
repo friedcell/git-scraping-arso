@@ -19,19 +19,16 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Nedelja, 2.5.2021 ob 14h", 
+            "pubdate": "Nedelja, 2.5.2021 ob 16h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-05-02 14:15"
+            "tsValid_issued": "2021-05-02 15:43"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": [
-                    "Popoldne bo spremenljivo do prete\u017eno obla\u010dno, pojavljale se bodo krajevne padavine. Veter bo iz jugozahodne obra\u010dal na severno smer. Najvi\u0161je dnevne temperature bodo od 14 do 20, na severozahodu okoli 9 \u00b0C. \n", 
-                    "Zve\u010der bodo padavine zajele vso dr\u017eavo. Meja sne\u017eenja se bo pono\u010di v notranjosti Slovenije spustila do nadmorske vi\u0161ine okoli 1000 m. Na Primorskem bo prehodno zapihala burja. Najni\u017eje jutranje temperature bodo od 4 do 9, v alpskih dolinah okoli 1 \u00b0C. "
-                ], 
+                "para": "Zve\u010der bodo padavine zajele ve\u010dji del dr\u017eave. Meja sne\u017eenja se bo pono\u010di v notranjosti Slovenije spustila do nadmorske vi\u0161ine okoli 1000 m. Na Primorskem bo prehodno zapihala burja. Najni\u017eje jutranje temperature bodo od 4 do 9, v alpskih dolinah okoli 1 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -39,7 +36,7 @@
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Popoldne bo v krajih zahodno in severno od nas obla\u010dno s padavinami, drugod bo do ve\u010dera \u0161e ve\u010dinoma suho vreme. Zve\u010der se bodo padavine raz\u0161irile nad vse sosednje pokrajine.", 
+                "para": "Zve\u010der se bodo padavine raz\u0161irile nad vse sosednje pokrajine.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
@@ -55,7 +52,7 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V torek bo deloma son\u010dno z dokaj sve\u017eim jutrom. V sredo dopoldne bo delno jasno, popoldne pa spremenljivo obla\u010dno s plohami in nevihtami. Oba dneva bo pihal jugozahodni veter.", 
+                "para": "V torek bo deloma son\u010dno z dokaj sve\u017eim jutrom. V sredo dopoldne bo delno jasno, popoldne pa spremenljivo obla\u010dno, predvsem v zahodni Sloveniji bodo nastajale plohe in posamezne nevihte. Oba dneva bo pihal jugozahodni veter.", 
                 "title": "OBETI"
             }, 
             {
@@ -63,11 +60,11 @@
                 "title": "OPOZORILO"
             }, 
             {
-                "para": "Popoldne bo ve\u010dinoma obla\u010dno s krajevnimi padavinami, vetrovno bo. Pono\u010di bo de\u017e zajel vso dr\u017eavo in jutri zjutraj ponehal, \u010dez dan se bo jasnilo.", 
+                "para": "Pono\u010di bo de\u017e zajel vso dr\u017eavo in jutri dopoldne, najkasneje na jugovzhodu, ponehal. \u010cez dan se bo jasnilo.", 
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-05-02T12:15:55+00:00", 
+        "tsUpdated": "2021-05-02T13:43:48+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -537,21 +534,21 @@
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
                                 "validEnd": "2021-05-02T17:59:00+00:00", 
-                                "validStart": "2021-05-02T12:00:00+00:00"
+                                "validStart": "2021-05-02T13:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningRain", 
                                 "parameter_desc": "De\u017e", 
                                 "validEnd": "2021-05-02T21:59:00+00:00", 
-                                "validStart": "2021-05-02T12:00:00+00:00"
+                                "validStart": "2021-05-02T13:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
                                 "validEnd": "2021-05-03T01:59:00+00:00", 
-                                "validStart": "2021-05-02T12:00:00+00:00"
+                                "validStart": "2021-05-02T13:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
