@@ -534,6 +534,27 @@
                                 "parameter_desc": "Veter", 
                                 "validEnd": "2021-05-04T19:59:00+00:00", 
                                 "validStart": "2021-05-04T10:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningRain", 
+                                "parameter_desc": "De\u017e", 
+                                "validEnd": "2021-05-07T16:59:00+00:00", 
+                                "validStart": "2021-05-07T02:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningTS", 
+                                "parameter_desc": "Nevihte", 
+                                "validEnd": "2021-05-05T20:59:00+00:00", 
+                                "validStart": "2021-05-05T15:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningAvalanche", 
+                                "parameter_desc": "Sne\u017eni plazovi", 
+                                "validEnd": "2021-05-04T22:59:00+00:00", 
+                                "validStart": "2021-05-03T04:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -551,6 +572,6 @@
         ], 
         "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-05-02T05:41:00+00:00"
+        "updated": "2021-05-03T05:32:00+00:00"
     }
 }
