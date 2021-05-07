@@ -91,12 +91,12 @@
                             "date": "2021-05-08", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "prevCloudy_night", 
+                                    "clouds_icon_wwsyn_icon": "overcast_modFG_night", 
                                     "interval": "", 
-                                    "time": "0", 
-                                    "valid": "2021-05-07T22:00:00+00:00", 
-                                    "vis_shortText": ">10", 
-                                    "wwsyn_icon": ""
+                                    "time": "60", 
+                                    "valid": "2021-05-07T23:00:00+00:00", 
+                                    "vis_shortText": "1-5", 
+                                    "wwsyn_icon": "modFG"
                                 }
                             ]
                         }
@@ -124,12 +124,12 @@
                             "date": "2021-05-08", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "prevCloudy_modRA_night", 
+                                    "clouds_icon_wwsyn_icon": "overcast_modFG_night", 
                                     "interval": "", 
-                                    "time": "0", 
-                                    "valid": "2021-05-07T22:00:00+00:00", 
-                                    "vis_shortText": "1-5", 
-                                    "wwsyn_icon": "modRA"
+                                    "time": "60", 
+                                    "valid": "2021-05-07T23:00:00+00:00", 
+                                    "vis_shortText": "<1", 
+                                    "wwsyn_icon": "modFG"
                                 }
                             ]
                         }
@@ -157,10 +157,10 @@
                             "date": "2021-05-08", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "prevCloudy_night", 
+                                    "clouds_icon_wwsyn_icon": "partCloudy_night", 
                                     "interval": "", 
-                                    "time": "0", 
-                                    "valid": "2021-05-07T22:00:00+00:00", 
+                                    "time": "60", 
+                                    "valid": "2021-05-07T23:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -192,8 +192,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "clear_night", 
                                     "interval": "", 
-                                    "time": "0", 
-                                    "valid": "2021-05-07T22:00:00+00:00", 
+                                    "time": "60", 
+                                    "valid": "2021-05-07T23:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -227,7 +227,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-05-07T22:13:03+00:00", 
+        "tsUpdated": "2021-05-07T23:13:03+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "http://www.meteo.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -253,9 +253,9 @@
                                 {
                                     "interval": "", 
                                     "no2_val": "3", 
-                                    "o3_val": "79", 
-                                    "time": "0", 
-                                    "valid": "2021-05-07T22:00:00+00:00"
+                                    "o3_val": "77", 
+                                    "time": "60", 
+                                    "valid": "2021-05-07T23:00:00+00:00"
                                 }
                             ]
                         }
@@ -284,10 +284,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "35", 
-                                    "o3_val": "18", 
-                                    "time": "0", 
-                                    "valid": "2021-05-07T22:00:00+00:00"
+                                    "no2_val": "21", 
+                                    "o3_val": "29", 
+                                    "time": "60", 
+                                    "valid": "2021-05-07T23:00:00+00:00"
                                 }
                             ]
                         }
@@ -317,9 +317,9 @@
                                 {
                                     "interval": "", 
                                     "no2_val": "10", 
-                                    "o3_val": "45", 
-                                    "time": "0", 
-                                    "valid": "2021-05-07T22:00:00+00:00"
+                                    "o3_val": "49", 
+                                    "time": "60", 
+                                    "valid": "2021-05-07T23:00:00+00:00"
                                 }
                             ]
                         }
@@ -348,10 +348,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "9", 
-                                    "o3_val": "58", 
-                                    "time": "0", 
-                                    "valid": "2021-05-07T22:00:00+00:00"
+                                    "no2_val": "1", 
+                                    "o3_val": "79", 
+                                    "time": "60", 
+                                    "valid": "2021-05-07T23:00:00+00:00"
                                 }
                             ]
                         }
@@ -378,7 +378,7 @@
                 "unit": "\u03bcg/m\u00b3"
             }
         }, 
-        "tsUpdated": "2021-05-07T22:12:01+00:00", 
+        "tsUpdated": "2021-05-07T23:12:02+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "http://www.meteo.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -398,13 +398,13 @@
                     "days": [
                         {
                             "UTCoffset": "+02:00", 
-                            "date": "2021-05-07", 
+                            "date": "2021-05-08", 
                             "timeline": [
                                 {
-                                    "time": "1380", 
+                                    "time": "60", 
                                     "tw": "8", 
-                                    "valid": "2021-05-07T21:00:00+00:00", 
-                                    "wLev": "77"
+                                    "valid": "2021-05-07T23:00:00+00:00", 
+                                    "wLev": "78"
                                 }
                             ]
                         }
@@ -427,12 +427,12 @@
                     "days": [
                         {
                             "UTCoffset": "+02:00", 
-                            "date": "2021-05-07", 
+                            "date": "2021-05-08", 
                             "timeline": [
                                 {
-                                    "time": "1380", 
+                                    "time": "60", 
                                     "tw": "12", 
-                                    "valid": "2021-05-07T21:00:00+00:00", 
+                                    "valid": "2021-05-07T23:00:00+00:00", 
                                     "wLev": "50"
                                 }
                             ]
@@ -456,13 +456,13 @@
                     "days": [
                         {
                             "UTCoffset": "+02:00", 
-                            "date": "2021-05-07", 
+                            "date": "2021-05-08", 
                             "timeline": [
                                 {
-                                    "time": "1380", 
+                                    "time": "60", 
                                     "tw": "11", 
-                                    "valid": "2021-05-07T21:00:00+00:00", 
-                                    "wLev": "116"
+                                    "valid": "2021-05-07T23:00:00+00:00", 
+                                    "wLev": "136"
                                 }
                             ]
                         }
@@ -485,13 +485,13 @@
                     "days": [
                         {
                             "UTCoffset": "+02:00", 
-                            "date": "2021-05-07", 
+                            "date": "2021-05-08", 
                             "timeline": [
                                 {
-                                    "time": "1380", 
-                                    "tw": "16", 
-                                    "valid": "2021-05-07T21:00:00+00:00", 
-                                    "wLev": "238"
+                                    "time": "60", 
+                                    "tw": "", 
+                                    "valid": "2021-05-07T23:00:00+00:00", 
+                                    "wLev": ""
                                 }
                             ]
                         }
@@ -538,14 +538,7 @@
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
                                 "validEnd": "2021-05-08T05:59:00+00:00", 
-                                "validStart": "2021-05-07T21:00:00+00:00"
-                            }, 
-                            {
-                                "degree": "yellow", 
-                                "parameter": "WarningTS", 
-                                "parameter_desc": "Nevihte", 
-                                "validEnd": "2021-05-07T21:59:00+00:00", 
-                                "validStart": "2021-05-07T21:00:00+00:00"
+                                "validStart": "2021-05-07T22:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
