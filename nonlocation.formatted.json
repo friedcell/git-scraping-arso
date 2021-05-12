@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sreda, 12.5.2021 ob 16h", 
+            "pubdate": "Sreda, 12.5.2021 ob 18h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-05-12 16:05"
+            "tsValid_issued": "2021-05-12 17:32"
         }, 
         "dataType": "", 
         "features": "", 
@@ -32,7 +32,7 @@
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo spremenljivo do prete\u017eno obla\u010dno. Nastajale bodo krajevne plohe, izjemoma lahko tudi kak\u0161na nevihta. Najvi\u0161je dnevne temperature bodo od 14 do 19 \u00b0C.", 
+                "para": "V \u010detrtek bo spremenljivo do prete\u017eno obla\u010dno. Nastajale bodo krajevne plohe, izjemoma lahko tudi kak\u0161na nevihta. Najvi\u0161je dnevne temperature bodo od 14 do 19 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -47,11 +47,14 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "Jutri Nad srednjo Evropo, severnim Balkanom in severnim Sredozemljem je plitvo ciklonsko obmo\u010dje. V vi\u0161inah se nad nami zadr\u017euje razmeroma hladen in vla\u017een zrak.", 
+                "para": "V \u010detrtek Nad srednjo Evropo, severnim Balkanom in severnim Sredozemljem je plitvo ciklonsko obmo\u010dje. V vi\u0161inah se nad nami zadr\u017euje razmeroma hladen in vla\u017een zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V petek in soboto se bo nadaljevalo nestanovitno vreme z ob\u010dasnimi krajevnimi padavinami, predvsem plohami in posameznimi nevihtami.", 
+                "para": [
+                    "V petek in soboto se bo nadaljevalo nestanovitno vreme z ob\u010dasnimi krajevnimi padavinami, predvsem plohami in posameznimi nevihtami.", 
+                    "V nedeljo bo dopoldne pove\u010dini son\u010dno, popoldne pa bo nastalo nekaj ploh in neviht."
+                ], 
                 "title": "OBETI"
             }, 
             {
@@ -63,7 +66,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-05-12T14:05:13+00:00", 
+        "tsUpdated": "2021-05-12T15:32:34+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -533,7 +536,7 @@
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
                                 "validEnd": "2021-05-12T18:59:00+00:00", 
-                                "validStart": "2021-05-12T14:00:00+00:00"
+                                "validStart": "2021-05-12T15:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
