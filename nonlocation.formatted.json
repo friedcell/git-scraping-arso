@@ -19,20 +19,20 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sreda, 12.5.2021 ob 18h", 
+            "pubdate": "\u010cetrtek, 13.5.2021 ob 8h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-05-12 17:32"
+            "tsValid_issued": "2021-05-13 07:53"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Pono\u010di bo prete\u017eno obla\u010dno, tu in tam bo \u0161e nastala kak\u0161na ploha. Jutranje temperature bodo od 7 do 12, ob morju okoli 14 \u00b0C.", 
+                "para": "Danes bo spremenljivo do prete\u017eno obla\u010dno. Sprva bodo predvsem v ju\u017eni Sloveniji pogoste krajevne padavine, ki bodo dopoldne prehodno ponehale. Sredi dneva in popoldne bodo tudi drugod nastajale krajevne plohe in tudi kak\u0161na nevihta. Najvi\u0161je dnevne temperature bodo od 14 do 19 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "V \u010detrtek bo spremenljivo do prete\u017eno obla\u010dno. Nastajale bodo krajevne plohe, izjemoma lahko tudi kak\u0161na nevihta. Najvi\u0161je dnevne temperature bodo od 14 do 19 \u00b0C.", 
+                "para": "Jutri bo prete\u017eno obla\u010dno. Nastajale bodo krajevne plohe in posamezne nevihte. Jutranje temperature bodo od 6 do 13, najvi\u0161je dnevne od 13 do 19 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -43,18 +43,14 @@
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
-                "para": "Nad srednjo Evropo, Alpami in severnim Sredozemljem je plitvo ciklonsko obmo\u010dje. V vi\u0161inah se nad nami zadr\u017euje razmeroma hladen in vla\u017een zrak.", 
+                "para": "Nad srednjo Evropo, severnim Balkanom in severnim Sredozemljem je plitvo ciklonsko obmo\u010dje. V vi\u0161inah se nad nami zadr\u017euje razmeroma hladen in vla\u017een zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V \u010detrtek Nad srednjo Evropo, severnim Balkanom in severnim Sredozemljem je plitvo ciklonsko obmo\u010dje. V vi\u0161inah se nad nami zadr\u017euje razmeroma hladen in vla\u017een zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": [
-                    "V petek in soboto se bo nadaljevalo nestanovitno vreme z ob\u010dasnimi krajevnimi padavinami, predvsem plohami in posameznimi nevihtami.", 
-                    "V nedeljo bo dopoldne pove\u010dini son\u010dno, popoldne pa bo nastalo nekaj ploh in neviht."
-                ], 
+                "para": "V soboto in nedeljo bo \u0161e nestanovitno vreme s pogostimi plohami in posameznimi nevihtami.", 
                 "title": "OBETI"
             }, 
             {
@@ -62,11 +58,11 @@
                 "title": "OPOZORILO"
             }, 
             {
-                "para": "Pono\u010di in jutri bo prete\u017eno obla\u010dno z ob\u010dasnimi krajevnimi plohami.", 
+                "para": "Danes in jutri bo prete\u017eno obla\u010dno z ob\u010dasnimi krajevnimi plohami in kak\u0161no nevihto.", 
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-05-12T15:32:34+00:00", 
+        "tsUpdated": "2021-05-13T05:54:08+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -535,8 +531,8 @@
                                 "degree": "yellow", 
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
-                                "validEnd": "2021-05-14T21:59:00+00:00", 
-                                "validStart": "2021-05-14T03:00:00+00:00"
+                                "validEnd": "2021-05-13T18:59:00+00:00", 
+                                "validStart": "2021-05-13T10:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -554,6 +550,6 @@
         ], 
         "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-05-12T12:31:00+00:00"
+        "updated": "2021-05-13T05:36:00+00:00"
     }
 }
