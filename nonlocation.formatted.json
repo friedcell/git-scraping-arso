@@ -86,11 +86,11 @@
                             "date": "2021-05-17", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "overcast_modRA_night", 
+                                    "clouds_icon_wwsyn_icon": "prevCloudy_modRA_night", 
                                     "interval": "", 
-                                    "time": "240", 
-                                    "valid": "2021-05-17T02:00:00+00:00", 
-                                    "vis_shortText": ">10", 
+                                    "time": "300", 
+                                    "valid": "2021-05-17T03:00:00+00:00", 
+                                    "vis_shortText": "5-10", 
                                     "wwsyn_icon": "modRA"
                                 }
                             ]
@@ -121,8 +121,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "overcast_lightRA_night", 
                                     "interval": "", 
-                                    "time": "240", 
-                                    "valid": "2021-05-17T02:00:00+00:00", 
+                                    "time": "300", 
+                                    "valid": "2021-05-17T03:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": "lightRA"
                                 }
@@ -152,12 +152,12 @@
                             "date": "2021-05-17", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "overcast_lightRA_night", 
+                                    "clouds_icon_wwsyn_icon": "", 
                                     "interval": "", 
-                                    "time": "240", 
-                                    "valid": "2021-05-17T02:00:00+00:00", 
-                                    "vis_shortText": "5-10", 
-                                    "wwsyn_icon": "lightRA"
+                                    "time": "300", 
+                                    "valid": "2021-05-17T03:00:00+00:00", 
+                                    "vis_shortText": "", 
+                                    "wwsyn_icon": ""
                                 }
                             ]
                         }
@@ -185,12 +185,12 @@
                             "date": "2021-05-17", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "overcast_modRA_night", 
+                                    "clouds_icon_wwsyn_icon": "overcast_night", 
                                     "interval": "", 
-                                    "time": "240", 
-                                    "valid": "2021-05-17T02:00:00+00:00", 
+                                    "time": "300", 
+                                    "valid": "2021-05-17T03:00:00+00:00", 
                                     "vis_shortText": ">10", 
-                                    "wwsyn_icon": "modRA"
+                                    "wwsyn_icon": ""
                                 }
                             ]
                         }
@@ -222,7 +222,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-05-17T02:13:03+00:00", 
+        "tsUpdated": "2021-05-17T03:13:05+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -248,9 +248,9 @@
                                 {
                                     "interval": "", 
                                     "no2_val": "2", 
-                                    "o3_val": "71", 
-                                    "time": "240", 
-                                    "valid": "2021-05-17T02:00:00+00:00"
+                                    "o3_val": "68", 
+                                    "time": "300", 
+                                    "valid": "2021-05-17T03:00:00+00:00"
                                 }
                             ]
                         }
@@ -279,10 +279,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "6", 
-                                    "o3_val": "39", 
-                                    "time": "240", 
-                                    "valid": "2021-05-17T02:00:00+00:00"
+                                    "no2_val": "9", 
+                                    "o3_val": "37", 
+                                    "time": "300", 
+                                    "valid": "2021-05-17T03:00:00+00:00"
                                 }
                             ]
                         }
@@ -311,10 +311,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "2", 
-                                    "o3_val": "47", 
-                                    "time": "240", 
-                                    "valid": "2021-05-17T02:00:00+00:00"
+                                    "no2_val": "8", 
+                                    "o3_val": "43", 
+                                    "time": "300", 
+                                    "valid": "2021-05-17T03:00:00+00:00"
                                 }
                             ]
                         }
@@ -344,9 +344,9 @@
                                 {
                                     "interval": "", 
                                     "no2_val": "2", 
-                                    "o3_val": "", 
-                                    "time": "240", 
-                                    "valid": "2021-05-17T02:00:00+00:00"
+                                    "o3_val": "68", 
+                                    "time": "300", 
+                                    "valid": "2021-05-17T03:00:00+00:00"
                                 }
                             ]
                         }
@@ -373,7 +373,7 @@
                 "unit": "\u03bcg/m\u00b3"
             }
         }, 
-        "tsUpdated": "2021-05-17T02:12:01+00:00", 
+        "tsUpdated": "2021-05-17T03:12:01+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -396,10 +396,10 @@
                             "date": "2021-05-17", 
                             "timeline": [
                                 {
-                                    "time": "240", 
-                                    "tw": "10", 
-                                    "valid": "2021-05-17T02:00:00+00:00", 
-                                    "wLev": "84"
+                                    "time": "300", 
+                                    "tw": "12", 
+                                    "valid": "2021-05-17T03:00:00+00:00", 
+                                    "wLev": "90"
                                 }
                             ]
                         }
@@ -425,10 +425,10 @@
                             "date": "2021-05-17", 
                             "timeline": [
                                 {
-                                    "time": "240", 
+                                    "time": "300", 
                                     "tw": "15", 
-                                    "valid": "2021-05-17T02:00:00+00:00", 
-                                    "wLev": "51"
+                                    "valid": "2021-05-17T03:00:00+00:00", 
+                                    "wLev": "52"
                                 }
                             ]
                         }
@@ -454,10 +454,10 @@
                             "date": "2021-05-17", 
                             "timeline": [
                                 {
-                                    "time": "240", 
+                                    "time": "300", 
                                     "tw": "10", 
-                                    "valid": "2021-05-17T02:00:00+00:00", 
-                                    "wLev": "109"
+                                    "valid": "2021-05-17T03:00:00+00:00", 
+                                    "wLev": "110"
                                 }
                             ]
                         }
@@ -483,10 +483,10 @@
                             "date": "2021-05-17", 
                             "timeline": [
                                 {
-                                    "time": "240", 
+                                    "time": "300", 
                                     "tw": "18", 
-                                    "valid": "2021-05-17T02:00:00+00:00", 
-                                    "wLev": "222"
+                                    "valid": "2021-05-17T03:00:00+00:00", 
+                                    "wLev": "209"
                                 }
                             ]
                         }
