@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sreda, 19.5.2021 ob 6h", 
+            "pubdate": "Sreda, 19.5.2021 ob 9h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-05-19 06:12"
+            "tsValid_issued": "2021-05-19 08:56"
         }, 
         "dataType": "", 
         "features": "", 
@@ -29,7 +29,7 @@
         "section": [
             {
                 "para": [
-                    "Danes bo sprva obla\u010dno in de\u017eevno, meja sne\u017eenja bo na nadmorski vi\u0161ini okoli 1300 m. De\u017e bo popoldne ponehal, od zahoda se bo pri\u010delo jasniti, nastale bodo \u0161e krajevne plohe, na zahodu lahko tudi kak\u0161na nevihta. Dopoldne bo na Primorskem \u0161e pihala \u0161ibka do zmerna burja, ponekod v notranjosti severni veter. Najvi\u0161je dnevne temperature bodo od 10 do 14, na Primorskem do 17 \u00b0C.\n", 
+                    "Danes bo sprva obla\u010dno in de\u017eevno, meja sne\u017eenja bo na nadmorski vi\u0161ini okoli 1300 m. De\u017e bo popoldne ve\u010dinoma ponehal, od zahoda se bo pri\u010delo jasniti, nastale bodo \u0161e krajevne plohe, na zahodu lahko tudi kak\u0161na nevihta. Dopoldne bo na Primorskem \u0161e pihala \u0161ibka do zmerna burja, ponekod v notranjosti severni veter. Najvi\u0161je dnevne temperature bodo od 10 do 14, na Primorskem do 17 \u00b0C.\n", 
                     "Pono\u010di in zjutraj bo zmerno obla\u010dno, ve\u010d obla\u010dnosti bo na vzhodu, kjer bo pihal tudi severni veter. Po nekaterih ni\u017einah bo nastala megla. Najni\u017eje jutranje temperature bodo od 4 do 10, v alpskih dolinah okoli 2 \u00b0C."
                 ], 
                 "title": "NAPOVED ZA SLOVENIJO"
@@ -66,7 +66,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-05-19T04:12:27+00:00", 
+        "tsUpdated": "2021-05-19T06:56:36+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -516,7 +516,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -533,9 +533,16 @@
                         "event": [
                             {
                                 "degree": "yellow", 
+                                "parameter": "WarningWind", 
+                                "parameter_desc": "Veter", 
+                                "validEnd": "2021-05-21T21:59:00+00:00", 
+                                "validStart": "2021-05-21T13:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
                                 "parameter": "WarningRain", 
                                 "parameter_desc": "De\u017e", 
-                                "validEnd": "2021-05-19T14:59:00+00:00", 
+                                "validEnd": "2021-05-19T15:59:00+00:00", 
                                 "validStart": "2021-05-19T05:00:00+00:00"
                             }, 
                             {
@@ -543,6 +550,13 @@
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
                                 "validEnd": "2021-05-19T06:59:00+00:00", 
+                                "validStart": "2021-05-19T05:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningAvalanche", 
+                                "parameter_desc": "Sne\u017eni plazovi", 
+                                "validEnd": "2021-05-19T22:59:00+00:00", 
                                 "validStart": "2021-05-19T05:00:00+00:00"
                             }
                         ], 
@@ -559,8 +573,8 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-05-18T05:58:00+00:00"
+        "updated": "2021-05-19T06:34:00+00:00"
     }
 }
