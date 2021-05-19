@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sreda, 19.5.2021 ob 16h", 
+            "pubdate": "Sreda, 19.5.2021 ob 18h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-05-19 15:57"
+            "tsValid_issued": "2021-05-19 17:32"
         }, 
         "dataType": "", 
         "features": "", 
@@ -32,7 +32,7 @@
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo dopoldne pove\u010dini son\u010dno, na vzhodu ob\u010dasno zmerno obla\u010dno. Popoldne bo delno jasno s spremenljivo obla\u010dnostjo, nastalo bo nekaj kratkotrajnih ploh ali neviht. Najvi\u0161je dnevne temperature bodo od 16 do 20 \u00b0C.", 
+                "para": "V \u010detrtek bo dopoldne pove\u010dini son\u010dno, na vzhodu ob\u010dasno zmerno obla\u010dno. Popoldne bo delno jasno s spremenljivo obla\u010dnostjo, nastalo bo nekaj kratkotrajnih ploh ali neviht. Najvi\u0161je dnevne temperature bodo od 16 do 20 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -40,19 +40,19 @@
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
-                "para": "Jutri bo delno jasno s spremenljivo obla\u010dnostjo, popoldne bodo krajevne plohe ali nevihte.", 
+                "para": "V \u010detrtek bo delno jasno s spremenljivo obla\u010dnostjo, popoldne bodo krajevne plohe ali nevihte.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
-                "para": "Ciklonsko sredi\u0161\u010de se pomika vzdol\u017e Jadrana proti jugu, vremenska fronta zapu\u0161\u010da Slovenijo in se pomika nad Balkan. Z vetrovi severnih smeri doteka nad na\u0161e kraje hladen in vla\u017een zrak.", 
+                "para": "Ciklonsko sredi\u0161\u010de se pomika vzdol\u017e Jadrana proti jugu, vremenska fronta zapu\u0161\u010da Slovenijo in se pomika nad Balkan. Z vetrovi severnih smeri doteka nad na\u0161e kraje hladen in bolj suh zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "Jutri Nad Alpami je \u0161ibko obmo\u010dje visokega zra\u010dnega tlaka, ki se postopno \u0161iri tudi nad na\u0161e kraje. Z vetrovi severnih smeri nad na\u0161e kraje doteka toplej\u0161i in bolj suh zrak.", 
+                "para": "V \u010detrtek Nad Alpami je \u0161ibko obmo\u010dje visokega zra\u010dnega tlaka, ki se postopno \u0161iri tudi nad na\u0161e kraje. Z vetrovi severnih smeri nad na\u0161e kraje doteka toplej\u0161i in bolj suh zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V petek bo ve\u010dinoma son\u010dno, ob\u010dasno bo ve\u010d koprenaste obla\u010dnosti. Jutro bo sve\u017ee in po nekaterih ni\u017einah megleno. V soboto bo zmerno do prete\u017eno obla\u010dno, zlasti na zahodu bo ob\u010dasno rahlo de\u017eevalo. Oba dneva bo pihal jugozahodni veter.", 
+                "para": "V petek bo ve\u010dinoma son\u010dno, ob\u010dasno bo ve\u010d koprenaste obla\u010dnosti. Jutro bo sve\u017ee in po nekaterih ni\u017einah megleno. V soboto bo zmerno do prete\u017eno obla\u010dno, zlasti na zahodu bo ob\u010dasno rahlo de\u017eevalo. Oba dneva bo pihal jugozahodni veter. V nedeljo bo ve\u010dinoma obla\u010dno z ob\u010dasnim de\u017ejem.", 
                 "title": "OBETI"
             }, 
             {
@@ -64,7 +64,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-05-19T13:58:08+00:00", 
+        "tsUpdated": "2021-05-19T15:32:52+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -514,7 +514,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -547,8 +547,8 @@
                                 "degree": "yellow", 
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
-                                "validEnd": "2021-05-19T19:59:00+00:00", 
-                                "validStart": "2021-05-19T15:00:00+00:00"
+                                "validEnd": "2021-05-20T18:59:00+00:00", 
+                                "validStart": "2021-05-20T11:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
@@ -571,8 +571,8 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-05-19T06:34:00+00:00"
+        "updated": "2021-05-19T15:29:00+00:00"
     }
 }
