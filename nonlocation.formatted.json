@@ -19,39 +19,42 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sreda, 26.5.2021 ob 18h", 
+            "pubdate": "\u010cetrtek, 27.5.2021 ob 6h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-05-26 17:38"
+            "tsValid_issued": "2021-05-27 05:33"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Pono\u010di in zjutraj bo delno jasno. Jutranje temperature bodo od 5 do 10 \u00b0C.", 
+                "para": [
+                    "Danes bo dokaj son\u010dno. Popoldne se bodo predvsem v severnih krajih za\u010dele pojavljati krajevne plohe in posamezne nevihte, zve\u010der pa se bodo padavine raz\u0161irile nad ve\u010dji del dr\u017eave. Prehodno bo zapihal severovzhodni veter, na Primorskem \u0161ibka do zmerna burja. Najvi\u0161je dnevne temperature bodo od 17 do 23 \u00b0C.\n", 
+                    "Pono\u010di bodo padavine ponehale, jasnilo se bo, po nekaterih ni\u017einah bo do jutra nastala megla. Jutranje temperature bodo od 7 do 11, na severozahodu okoli 4 \u00b0C."
+                ], 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "V \u010detrtek bo dokaj son\u010dno. Popoldne se bodo predvsem v severnih krajih za\u010dele pojavljati krajevne plohe in posamezne nevihte, zve\u010der pa se bodo padavine raz\u0161irile nad ve\u010dji del dr\u017eave. Prehodno bo zapihal severovzhodni veter, na Primorskem \u0161ibka do zmerna burja. Najvi\u0161je dnevne temperature bodo od 17 do 23 \u00b0C.", 
+                "para": "Jutri bo na Primorskem jasno, drugod ob\u010dasno zmerno obla\u010dno. Najvi\u0161je dnevne temperature bodo od 18 do 22 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
+                "para": "Danes bo ve\u010dinoma son\u010dno. Popoldne in zve\u010der bodo predvsem v krajih severno in zahodno od nas krajevne plohe in nevihte.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
-                "para": "V \u010detrtek bo ve\u010dinoma son\u010dno. Popoldne in zve\u010der bodo predvsem v krajih severno in zahodno od nas krajevne plohe in nevihte.", 
+                "para": "Jutri bo ob severnem Jadranu jasno, drugod delno jasno z ob\u010dasno pove\u010dano obla\u010dnostjo.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
-                "para": "Iznad jugozahodne Evrope se je nad Alpe raz\u0161irilo obmo\u010dje visokega zra\u010dnega tlaka. V vi\u0161inah k nam priteka nekoliko toplej\u0161i in bolj suh zrak.", 
+                "para": "Alpe je dosegla nova vremenska fronta, ki bo zve\u010der pre\u0161la tudi na\u0161e kraje. Pred njo z vetrovi ju\u017enih smeri k nam doteka razmeroma topel in postopno bolj vla\u017een zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V \u010detrtek Alpe je dosegla nova vremenska fronta, ki bo zve\u010der pre\u0161la tudi na\u0161e kraje. Pred njo z vetrovi ju\u017enih smeri k nam doteka razmeroma topel in postopno bolj vla\u017een zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "Do petkovega jutra bodo padavine ponehale, po nekaterih ni\u017einah bo nastala megla. \u010cez dan bo na Primorskem jasno, drugod ob\u010dasno zmerno obla\u010dno. V soboto bo delno jasno s spremenljivo obla\u010dnostjo, mo\u017ene bodo krajevne plohe. V no\u010di na nedeljo bodo padavine prehodno zajele ve\u010dji del Slovenije. Tudi v nedeljo \u0161e ka\u017ee na spremenljivo vreme z ob\u010dasnim de\u017ejem.", 
+                "para": "V soboto bo delno jasno s spremenljivo obla\u010dnostjo, predvsem popoldne bodo mo\u017ene krajevne plohe. V no\u010di na nedeljo bodo padavine prehodno zajele ve\u010dji del Slovenije. Tudi v nedeljo \u0161e ka\u017ee na spremenljivo vreme z ob\u010dasnim de\u017ejem.", 
                 "title": "OBETI"
             }, 
             {
@@ -59,11 +62,11 @@
                 "title": "OPOZORILO"
             }, 
             {
-                "para": "Pono\u010di bo delno jasno. Jutri bo dokaj son\u010dno, popoldne bodo zlasti na severu plohe ali nevihte, zve\u010der pa bodo padavine zajele ve\u010dji del Slovenije.", 
+                "para": "Danes bo dokaj son\u010dno, proti ve\u010deru bodo padavine od severa zajele ve\u010dji del dr\u017eave in pono\u010di ponehale. Jutri bo precej son\u010dno.", 
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-05-26T15:39:06+00:00", 
+        "tsUpdated": "2021-05-27T03:34:03+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -513,7 +516,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -549,8 +552,8 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-05-26T05:20:00+00:00"
+        "updated": "2021-05-27T03:48:00+00:00"
     }
 }
