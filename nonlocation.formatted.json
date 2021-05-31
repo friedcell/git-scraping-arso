@@ -1,16 +1,16 @@
 {
     "fcast_si_hint": {
         "articleinfo": {
-            "pubdate": "Sunday, 30.5.2021 ob 4h", 
+            "pubdate": "Monday, 31.5.2021 ob 4h", 
             "title": "Vremenski namig", 
-            "tsValid_issued": "2021-05-30 04:04"
+            "tsValid_issued": "2021-05-31 04:03"
         }, 
         "section": [
             {
                 "id": "fcast_SLOVENIA_d1", 
                 "para": [
                     {
-                        "para": "Dobro jutro, danes in jutri bo dokaj son\u010dno, popoldne je mo\u017ena kak\u0161na  ploha. Zjutraj bo ponekod megleno. https://t.co/wE7KRNTNbk"
+                        "para": "Dobro jutro, danes in jutri bo dokaj son\u010dno, danes popoldne bo \u0161e mo\u017ena kak\u0161na kratkotrajna ploha. https://t.co/eZx1ohPy7b"
                     }
                 ], 
                 "title": "Zadnja novica"
@@ -512,7 +512,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -526,7 +526,15 @@
                         "type": "maxDegreeEvent"
                     }, 
                     {
-                        "event": "", 
+                        "event": [
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningTS", 
+                                "parameter_desc": "Nevihte", 
+                                "validEnd": "2021-06-03T15:59:00+00:00", 
+                                "validStart": "2021-06-03T11:00:00+00:00"
+                            }
+                        ], 
                         "interval": "5 days", 
                         "type": "maxDegreeEvent"
                     }
@@ -540,8 +548,8 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-05-30T07:58:00+00:00"
+        "updated": "2021-05-31T04:37:00+00:00"
     }
 }
