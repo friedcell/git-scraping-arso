@@ -19,20 +19,22 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Nedelja, 6.6.2021 ob 13h", 
+            "pubdate": "Nedelja, 6.6.2021 ob 16h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-06-06 13:01"
+            "tsValid_issued": "2021-06-06 15:39"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Popoldne bo spremenljivo do prete\u017eno obla\u010dno. Ob\u010dasno bodo krajevne padavine, predvsem plohe in nevihte, mo\u017eni bodo krajevno mo\u010dnej\u0161i nalivi. Najvi\u0161je dnevne temperature bodo od 20 do 25 \u00b0C.", 
+                "para": [
+                    "Pono\u010di bo prete\u017eno obla\u010dno. \u0160e se bodo pojavljale krajevne padavine, deloma plohe in nevihte. Najni\u017eje jutranje temperature bodo od 12 do 17 \u00b0C. "
+                ], 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo spremenljivo do prete\u017eno obla\u010dno, \u0161e bodo nastajale krajevne plohe, predvsem v zahodni polovici Slovenije tudi kak\u0161na nevihta. Najni\u017eje jutranje temperature bodo od 12 do 17, najvi\u0161je dnevne od 20 do 26 \u00b0C.", 
+                "para": "Jutri bo spremenljivo do prete\u017eno obla\u010dno, \u0161e bodo nastajale krajevne plohe, predvsem v zahodni polovici Slovenije tudi kak\u0161na nevihta. Najvi\u0161je dnevne temperature bodo od 20 do 26 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -63,7 +65,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-06-06T11:01:26+00:00", 
+        "tsUpdated": "2021-06-06T13:39:26+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -533,7 +535,7 @@
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
                                 "validEnd": "2021-06-07T22:59:00+00:00", 
-                                "validStart": "2021-06-06T12:00:00+00:00"
+                                "validStart": "2021-06-06T13:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
