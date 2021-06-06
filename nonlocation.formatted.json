@@ -19,39 +19,38 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sobota, 5.6.2021 ob 18h", 
+            "pubdate": "Nedelja, 6.6.2021 ob 6h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-06-05 17:36"
+            "tsValid_issued": "2021-06-06 05:43"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Pono\u010di bo obla\u010dnost od zahoda nara\u0161\u010dala, predvsem na Primorskem bo nastalo nekaj ploh in neviht. Jutranje temperature bodo od 11 do 17 \u00b0C.", 
+                "para": "Danes bo spremenljivo do prete\u017eno obla\u010dno. Ob\u010dasno bodo krajevne padavine, predvsem plohe in nevihte, ki bodo pogostej\u0161e popoldne in zve\u010der, mo\u017eni bodo krajevno mo\u010dnej\u0161i nalivi. Najvi\u0161je dnevne temperature bodo od 20 do 25 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "V nedeljo bo spremenljivo do prete\u017eno obla\u010dno. Ob\u010dasno bodo krajevne padavine, predvsem plohe in nevihte, ki bodo pogostej\u0161e popoldne in zve\u010der, mo\u017eni bodo krajevno mo\u010dnej\u0161i nalivi. Najvi\u0161je dnevne temperature bodo od 20 do 25 \u00b0C.", 
+                "para": "Jutri bo spremenljivo do prete\u017eno obla\u010dno, \u0161e bodo nastajale krajevne plohe, predvsem v ju\u017eni polovici Slovenije tudi kak\u0161na nevihta. Najni\u017eje jutranje temperature bodo od 12 do 17, najvi\u0161je dnevne od 20 do 26 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
+            }, 
+            {
+                "para": "Spremenljivo do prete\u017eno obla\u010dno bo s pogostimi plohami in nevihtami.", 
+                "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
-                "para": "V nedeljo bo spremenljivo do prete\u017eno obla\u010dno s pogostimi plohami in nevihtami.", 
-                "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
-            }, 
-            {
-                "para": "Obmo\u010dje visokega zra\u010dnega tlaka nad vzhodno in srednjo Evropo slabi. V vi\u0161inah k nam \u0161e doteka dokaj topel, a postopno nekoliko bolj vla\u017een zrak.", 
+                "para": "Nad osrednjo in jugovzhodno Evropo je obmo\u010dje razmeroma enakomernega zra\u010dnega tlaka. Na vreme pri nas bo vplivalo manj\u0161e vi\u0161insko jedro hladnega zraka. K nam bo pritekal vla\u017een in nekoliko hladnej\u0161i zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V nedeljo Nad osrednjo in jugovzhodno Evropo je obmo\u010dje razmeroma enakomernega zra\u010dnega tlaka. Na vreme pri nas bo vplivalo manj\u0161e jedro hladnega zraka v vi\u0161inah. K nam bo pritekal vla\u017een in nekoliko hladnej\u0161i zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V ponedeljek bo \u0161e nestanovitno s krajevnimi plohami. V torek in sredo pa bo precej son\u010dno, popoldne bodo zlasti v hribovitem svetu zahodne in severne Slovenije plohe in nevihte.", 
+                "para": "V torek in sredo bo precej son\u010dno, popoldne bodo zlasti v hribovitem svetu zahodne in severne Slovenije plohe in nevihte.", 
                 "title": "OBETI"
             }, 
             {
@@ -59,11 +58,11 @@
                 "title": "OPOZORILO"
             }, 
             {
-                "para": "Pono\u010di se bo poobla\u010dilo, zlasti na Primorskem bo nekaj ploh in neviht. Jutri bo nestanovitno s plohami in nevihtami, ki bodo pogostej\u0161e popoldne in zve\u010der.", 
+                "para": "Danes in jutri bo vreme nestanovitno z ob\u010dasnimi padavinami, predvsem plohami in nevihtami.", 
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-06-05T15:36:49+00:00", 
+        "tsUpdated": "2021-06-06T03:43:18+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -513,7 +512,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -530,9 +529,16 @@
                         "event": [
                             {
                                 "degree": "yellow", 
+                                "parameter": "WarningWind", 
+                                "parameter_desc": "Veter", 
+                                "validEnd": "2021-06-10T21:59:00+00:00", 
+                                "validStart": "2021-06-09T23:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
-                                "validEnd": "2021-06-07T17:59:00+00:00", 
+                                "validEnd": "2021-06-07T22:59:00+00:00", 
                                 "validStart": "2021-06-06T02:00:00+00:00"
                             }
                         ], 
@@ -549,8 +555,8 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-06-05T06:06:00+00:00"
+        "updated": "2021-06-06T03:47:00+00:00"
     }
 }
