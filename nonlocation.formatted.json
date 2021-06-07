@@ -88,9 +88,9 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "overcast_day", 
                                     "interval": "", 
-                                    "time": "540", 
-                                    "valid": "2021-06-07T07:00:00+00:00", 
-                                    "vis_shortText": "5-10", 
+                                    "time": "600", 
+                                    "valid": "2021-06-07T08:00:00+00:00", 
+                                    "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
                             ]
@@ -121,8 +121,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "prevCloudy_day", 
                                     "interval": "", 
-                                    "time": "540", 
-                                    "valid": "2021-06-07T07:00:00+00:00", 
+                                    "time": "600", 
+                                    "valid": "2021-06-07T08:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -154,8 +154,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "prevCloudy_day", 
                                     "interval": "", 
-                                    "time": "540", 
-                                    "valid": "2021-06-07T07:00:00+00:00", 
+                                    "time": "600", 
+                                    "valid": "2021-06-07T08:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -187,8 +187,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "prevCloudy_day", 
                                     "interval": "", 
-                                    "time": "540", 
-                                    "valid": "2021-06-07T07:00:00+00:00", 
+                                    "time": "600", 
+                                    "valid": "2021-06-07T08:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -222,7 +222,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-06-07T07:13:03+00:00", 
+        "tsUpdated": "2021-06-07T08:13:07+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -247,10 +247,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "17", 
-                                    "o3_val": "57", 
-                                    "time": "540", 
-                                    "valid": "2021-06-07T07:00:00+00:00"
+                                    "no2_val": "11", 
+                                    "o3_val": "68", 
+                                    "time": "600", 
+                                    "valid": "2021-06-07T08:00:00+00:00"
                                 }
                             ]
                         }
@@ -279,10 +279,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "29", 
-                                    "o3_val": "15", 
-                                    "time": "540", 
-                                    "valid": "2021-06-07T07:00:00+00:00"
+                                    "no2_val": "20", 
+                                    "o3_val": "36", 
+                                    "time": "600", 
+                                    "valid": "2021-06-07T08:00:00+00:00"
                                 }
                             ]
                         }
@@ -311,10 +311,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "", 
-                                    "o3_val": "53", 
-                                    "time": "540", 
-                                    "valid": "2021-06-07T07:00:00+00:00"
+                                    "no2_val": "2", 
+                                    "o3_val": "70", 
+                                    "time": "600", 
+                                    "valid": "2021-06-07T08:00:00+00:00"
                                 }
                             ]
                         }
@@ -344,9 +344,9 @@
                                 {
                                     "interval": "", 
                                     "no2_val": "", 
-                                    "o3_val": "16", 
-                                    "time": "540", 
-                                    "valid": "2021-06-07T07:00:00+00:00"
+                                    "o3_val": "", 
+                                    "time": "600", 
+                                    "valid": "2021-06-07T08:00:00+00:00"
                                 }
                             ]
                         }
@@ -373,130 +373,13 @@
                 "unit": "\u03bcg/m\u00b3"
             }
         }, 
-        "tsUpdated": "2021-06-07T07:12:02+00:00", 
+        "tsUpdated": "2021-06-07T08:12:02+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
     "observation_si_water": {
         "dataType": "observationAms", 
-        "features": [
-            {
-                "geometry": {
-                    "coordinates": [
-                        13.865, 
-                        46.279000000000003
-                    ], 
-                    "type": "Point"
-                }, 
-                "properties": {
-                    "country": "SI", 
-                    "days": [
-                        {
-                            "UTCoffset": "+02:00", 
-                            "date": "2021-06-07", 
-                            "timeline": [
-                                {
-                                    "time": "540", 
-                                    "tw": "", 
-                                    "valid": "2021-06-07T07:00:00+00:00", 
-                                    "wLev": ""
-                                }
-                            ]
-                        }
-                    ], 
-                    "id": "HYDRO-3280", 
-                    "title": "Bohinjsko jezero"
-                }, 
-                "type": "Feature"
-            }, 
-            {
-                "geometry": {
-                    "coordinates": [
-                        14.099, 
-                        46.359999999999999
-                    ], 
-                    "type": "Point"
-                }, 
-                "properties": {
-                    "country": "SI", 
-                    "days": [
-                        {
-                            "UTCoffset": "+02:00", 
-                            "date": "2021-06-07", 
-                            "timeline": [
-                                {
-                                    "time": "540", 
-                                    "tw": "19", 
-                                    "valid": "2021-06-07T07:00:00+00:00", 
-                                    "wLev": "48"
-                                }
-                            ]
-                        }
-                    ], 
-                    "id": "HYDRO-3350", 
-                    "title": "Blejsko jezero"
-                }, 
-                "type": "Feature"
-            }, 
-            {
-                "geometry": {
-                    "coordinates": [
-                        15.076000000000001, 
-                        45.484999999999999
-                    ], 
-                    "type": "Point"
-                }, 
-                "properties": {
-                    "country": "SI", 
-                    "days": [
-                        {
-                            "UTCoffset": "+02:00", 
-                            "date": "2021-06-07", 
-                            "timeline": [
-                                {
-                                    "time": "540", 
-                                    "tw": "14", 
-                                    "valid": "2021-06-07T07:00:00+00:00", 
-                                    "wLev": "85"
-                                }
-                            ]
-                        }
-                    ], 
-                    "id": "HYDRO-4828", 
-                    "title": "Kolpa"
-                }, 
-                "type": "Feature"
-            }, 
-            {
-                "geometry": {
-                    "coordinates": [
-                        13.724, 
-                        45.548000000000002
-                    ], 
-                    "type": "Point"
-                }, 
-                "properties": {
-                    "country": "SI", 
-                    "days": [
-                        {
-                            "UTCoffset": "+02:00", 
-                            "date": "2021-06-07", 
-                            "timeline": [
-                                {
-                                    "time": "540", 
-                                    "tw": "21", 
-                                    "valid": "2021-06-07T07:00:00+00:00", 
-                                    "wLev": "236"
-                                }
-                            ]
-                        }
-                    ], 
-                    "id": "HYDRO-9350", 
-                    "title": "Jadransko morje"
-                }, 
-                "type": "Feature"
-            }
-        ], 
+        "features": [], 
         "icon_format": "png", 
         "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/weather/", 
         "language": "sl", 
@@ -533,7 +416,7 @@
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
                                 "validEnd": "2021-06-07T22:59:00+00:00", 
-                                "validStart": "2021-06-07T06:00:00+00:00"
+                                "validStart": "2021-06-07T07:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
