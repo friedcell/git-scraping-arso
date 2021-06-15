@@ -1,16 +1,16 @@
 {
     "fcast_si_hint": {
         "articleinfo": {
-            "pubdate": "Monday, 14.6.2021 ob 13h", 
+            "pubdate": "Tuesday, 15.6.2021 ob 4h", 
             "title": "Vremenski namig", 
-            "tsValid_issued": "2021-06-14 13:53"
+            "tsValid_issued": "2021-06-15 04:02"
         }, 
         "section": [
             {
                 "id": "fcast_SLOVENIA_d1", 
                 "para": [
                     {
-                        "para": "Torkovo jutro bo \u0161e sve\u017ee, nato pa bo temperatura le \u0161e nara\u0161\u010dala. V drugi polovici tedna bomo presegli 30 stopinj.\u2026 https://t.co/9YeFShMdWy"
+                        "para": "Dobro jutro, danes in jutri bo prete\u017eno jasno, jutri popoldne bo na severozahodu mo\u017ena kak\u0161na nevihta. https://t.co/EQnU24IfJd"
                     }
                 ], 
                 "title": "Zadnja novica"
@@ -534,6 +534,13 @@
                                 "parameter_desc": "Nevihte", 
                                 "validEnd": "2021-06-16T18:59:00+00:00", 
                                 "validStart": "2021-06-16T12:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningTx", 
+                                "parameter_desc": "Visoka temperatura", 
+                                "validEnd": "2021-06-19T17:59:00+00:00", 
+                                "validStart": "2021-06-19T11:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -551,6 +558,6 @@
         ], 
         "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-06-14T05:44:00+00:00"
+        "updated": "2021-06-15T04:57:00+00:00"
     }
 }
