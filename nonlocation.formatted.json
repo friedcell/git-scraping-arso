@@ -1,16 +1,16 @@
 {
     "fcast_si_hint": {
         "articleinfo": {
-            "pubdate": "Wednesday, 23.6.2021 ob 4h", 
+            "pubdate": "Wednesday, 23.6.2021 ob 5h", 
             "title": "Vremenski namig", 
-            "tsValid_issued": "2021-06-23 04:02"
+            "tsValid_issued": "2021-06-23 05:36"
         }, 
         "section": [
             {
                 "id": "fcast_SLOVENIA_d1", 
                 "para": [
                     {
-                        "para": "Dobro jutro, danes in jutri bo son\u010dno in vro\u010de, danes zve\u010der bodo predvsem na zahodu in severu krajevne  nevihte. https://t.co/eAkIrgO3H0"
+                        "para": "Sve\u017ea epizoda #ARSOpodcast o poletju in poletni vro\u010dini. Vabljeni k poslu\u0161anju! \ud83d\udd0ahttps://t.co/6IH0Y3pF06 https://t.co/Gh1reNpSa1"
                     }
                 ], 
                 "title": "Zadnja novica"
@@ -518,7 +518,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -555,6 +555,13 @@
                                 "parameter_desc": "Visoka temperatura", 
                                 "validEnd": "2021-06-23T20:59:00+00:00", 
                                 "validStart": "2021-06-23T09:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningForestFire", 
+                                "parameter_desc": "Po\u017earna ogro\u017eenost", 
+                                "validEnd": "2021-06-27T21:59:00+00:00", 
+                                "validStart": "2021-06-23T04:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -570,8 +577,8 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-06-22T05:31:00+00:00"
+        "updated": "2021-06-23T05:37:00+00:00"
     }
 }
