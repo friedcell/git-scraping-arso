@@ -528,16 +528,7 @@
                 "name": "Slovenija", 
                 "summary": [
                     {
-                        "event": [
-                            {
-                                "degree": "orange", 
-                                "parameter": "WarningTx", 
-                                "parameter_desc": "Visoka temperatura", 
-                                "region_map": "warning_Tx_si-region_d1hlast-d3h00.png", 
-                                "validEnd": "2021-06-25T19:59:00+00:00", 
-                                "validStart": "2021-06-25T09:00:00+00:00"
-                            }
-                        ], 
+                        "event": "", 
                         "interval": "2 days", 
                         "type": "maxDegreeEvent"
                     }, 
@@ -558,10 +549,10 @@
                                 "validStart": "2021-06-25T12:00:00+00:00"
                             }, 
                             {
-                                "degree": "orange", 
+                                "degree": "yellow", 
                                 "parameter": "WarningTx", 
                                 "parameter_desc": "Visoka temperatura", 
-                                "validEnd": "2021-06-25T19:59:00+00:00", 
+                                "validEnd": "2021-06-25T20:59:00+00:00", 
                                 "validStart": "2021-06-25T09:00:00+00:00"
                             }, 
                             {
@@ -569,7 +560,7 @@
                                 "parameter": "WarningForestFire", 
                                 "parameter_desc": "Po\u017earna ogro\u017eenost", 
                                 "validEnd": "2021-06-28T22:59:00+00:00", 
-                                "validStart": "2021-06-25T04:00:00+00:00"
+                                "validStart": "2021-06-25T05:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -587,6 +578,6 @@
         ], 
         "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-06-24T05:31:00+00:00"
+        "updated": "2021-06-25T05:28:00+00:00"
     }
 }
