@@ -533,6 +533,13 @@
                         "event": [
                             {
                                 "degree": "yellow", 
+                                "parameter": "WarningWind", 
+                                "parameter_desc": "Veter", 
+                                "validEnd": "2021-07-01T13:59:00+00:00", 
+                                "validStart": "2021-07-01T11:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
                                 "validEnd": "2021-06-30T21:59:00+00:00", 
@@ -543,14 +550,14 @@
                                 "parameter": "WarningTx", 
                                 "parameter_desc": "Visoka temperatura", 
                                 "validEnd": "2021-06-30T19:59:00+00:00", 
-                                "validStart": "2021-06-30T10:00:00+00:00"
+                                "validStart": "2021-06-30T11:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningForestFire", 
                                 "parameter_desc": "Po\u017earna ogro\u017eenost", 
                                 "validEnd": "2021-07-01T22:59:00+00:00", 
-                                "validStart": "2021-06-30T10:00:00+00:00"
+                                "validStart": "2021-06-30T11:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -568,6 +575,6 @@
         ], 
         "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-06-30T06:05:00+00:00"
+        "updated": "2021-06-30T11:48:00+00:00"
     }
 }
