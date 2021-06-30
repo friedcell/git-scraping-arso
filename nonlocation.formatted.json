@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sreda, 30.6.2021 ob 15h", 
+            "pubdate": "Sreda, 30.6.2021 ob 16h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-06-30 15:08"
+            "tsValid_issued": "2021-06-30 15:34"
         }, 
         "dataType": "", 
         "features": "", 
@@ -38,7 +38,7 @@
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Danes bo \u0161e son\u010dno in vro\u010de. Popoldne bodo v Alpah za\u010dele nastajati nevihte, ki se bodo zve\u010der \u0161irile proti vzhodu in jugu.", 
+                "para": "Popoldne bo \u0161e son\u010dno in vro\u010de. V Alpah bodo nastajale nevihte, ki se bodo zve\u010der \u0161irile proti vzhodu in jugu.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
@@ -66,7 +66,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-06-30T13:08:34+00:00", 
+        "tsUpdated": "2021-06-30T13:34:35+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -550,14 +550,14 @@
                                 "parameter": "WarningTx", 
                                 "parameter_desc": "Visoka temperatura", 
                                 "validEnd": "2021-06-30T19:59:00+00:00", 
-                                "validStart": "2021-06-30T12:00:00+00:00"
+                                "validStart": "2021-06-30T13:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningForestFire", 
                                 "parameter_desc": "Po\u017earna ogro\u017eenost", 
                                 "validEnd": "2021-07-01T22:59:00+00:00", 
-                                "validStart": "2021-06-30T12:00:00+00:00"
+                                "validStart": "2021-06-30T13:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
