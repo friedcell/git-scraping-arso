@@ -516,7 +516,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -532,7 +532,7 @@
                                 "parameter_desc": "Nevihte", 
                                 "region_map": "warning_TS_si-region_d1hlast-d3h00.png", 
                                 "validEnd": "2021-07-01T19:59:00+00:00", 
-                                "validStart": "2021-07-01T09:00:00+00:00"
+                                "validStart": "2021-07-01T10:00:00+00:00"
                             }
                         ], 
                         "interval": "2 days", 
@@ -552,14 +552,14 @@
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
                                 "validEnd": "2021-07-01T19:59:00+00:00", 
-                                "validStart": "2021-07-01T09:00:00+00:00"
+                                "validStart": "2021-07-01T10:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningForestFire", 
                                 "parameter_desc": "Po\u017earna ogro\u017eenost", 
                                 "validEnd": "2021-07-01T22:59:00+00:00", 
-                                "validStart": "2021-07-01T09:00:00+00:00"
+                                "validStart": "2021-07-01T10:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -569,13 +569,13 @@
                 "text": {
                     "id": "warning_SLOVENIA", 
                     "para": [
-                        "Dodatnega opozorila ni."
+                        "Danes sredi dneva in popoldne bodo predvsem v ju\u017eni polovici Slovenije nastajala krajevna neurja z nalivi, sunki vetra in to\u010do. "
                     ], 
                     "title": "Opozorilo"
                 }
             }
         ], 
-        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
         "updated": "2021-07-01T10:04:00+00:00"
     }
