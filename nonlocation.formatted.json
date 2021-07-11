@@ -19,16 +19,16 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Nedelja, 11.7.2021 ob 12h", 
+            "pubdate": "Nedelja, 11.7.2021 ob 15h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-07-11 11:36"
+            "tsValid_issued": "2021-07-11 14:53"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Popoldne bo dokaj son\u010dno z mo\u017enostjo ploh in neviht. Pihal bo veter vzhodnih smeri, na Primorskem \u0161ibka burja. Najvi\u0161je dnevne temperature bodo od 25 do 29, na Primorskem do 32 \u00b0C.", 
+                "para": "Popoldne bo dokaj son\u010dno, nastajale bodo plohe in posamezne nevihte. Pihal bo veter vzhodnih smeri, na Primorskem \u0161ibka burja. Najvi\u0161je dnevne temperature bodo od 25 do 29, na Primorskem do 34 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -36,7 +36,7 @@
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Danes bo ob severnem Jadranu prete\u017eno jasno z majhno mo\u017enostjo neviht. Drugod bo spremenljivo obla\u010dno, predvsem sredi dneva in popoldne bodo nastajale plohe in nevihte.", 
+                "para": "Popoldne bo son\u010dno z mo\u017enostjo ploh in neviht, najmanj verjetne bodo ob severnem Jadranu.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
@@ -64,7 +64,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-07-11T09:36:34+00:00", 
+        "tsUpdated": "2021-07-11T12:54:09+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -514,7 +514,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -540,7 +540,7 @@
                                 "degree": "yellow", 
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
-                                "validEnd": "2021-07-11T17:59:00+00:00", 
+                                "validEnd": "2021-07-11T19:59:00+00:00", 
                                 "validStart": "2021-07-11T11:00:00+00:00"
                             }, 
                             {
@@ -564,8 +564,8 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-07-11T06:24:00+00:00"
+        "updated": "2021-07-11T12:47:00+00:00"
     }
 }
