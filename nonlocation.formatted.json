@@ -517,7 +517,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -569,6 +569,13 @@
                                 "parameter_desc": "Visoka temperatura", 
                                 "validEnd": "2021-07-13T19:59:00+00:00", 
                                 "validStart": "2021-07-13T11:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningCoastal", 
+                                "parameter_desc": "Obalni dogodek", 
+                                "validEnd": "2021-07-13T23:59:00+00:00", 
+                                "validStart": "2021-07-13T19:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -584,7 +591,7 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
         "updated": "2021-07-13T05:25:00+00:00"
     }
