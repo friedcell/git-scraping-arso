@@ -516,7 +516,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -526,6 +526,14 @@
                 "summary": [
                     {
                         "event": [
+                            {
+                                "degree": "orange", 
+                                "parameter": "WarningTS", 
+                                "parameter_desc": "Nevihte", 
+                                "region_map": "warning_TS_si-region_d1hlast-d3h00.png", 
+                                "validEnd": "2021-07-14T00:59:00+00:00", 
+                                "validStart": "2021-07-13T18:00:00+00:00"
+                            }, 
                             {
                                 "degree": "orange", 
                                 "parameter": "WarningTx", 
@@ -548,11 +556,11 @@
                                 "validStart": "2021-07-13T14:00:00+00:00"
                             }, 
                             {
-                                "degree": "yellow", 
+                                "degree": "orange", 
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
-                                "validEnd": "2021-07-14T17:59:00+00:00", 
-                                "validStart": "2021-07-13T15:00:00+00:00"
+                                "validEnd": "2021-07-14T00:59:00+00:00", 
+                                "validStart": "2021-07-13T18:00:00+00:00"
                             }, 
                             {
                                 "degree": "orange", 
@@ -575,8 +583,8 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-07-12T05:19:00+00:00"
+        "updated": "2021-07-13T05:25:00+00:00"
     }
 }
