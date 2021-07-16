@@ -517,7 +517,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -526,7 +526,16 @@
                 "name": "Slovenija", 
                 "summary": [
                     {
-                        "event": "", 
+                        "event": [
+                            {
+                                "degree": "orange", 
+                                "parameter": "WarningRain", 
+                                "parameter_desc": "De\u017e", 
+                                "region_map": "warning_rain_si-region_d1hlast-d3h00.png", 
+                                "validEnd": "2021-07-17T21:59:00+00:00", 
+                                "validStart": "2021-07-17T00:00:00+00:00"
+                            }
+                        ], 
                         "interval": "2 days", 
                         "type": "maxDegreeEvent"
                     }, 
@@ -540,11 +549,11 @@
                                 "validStart": "2021-07-16T20:00:00+00:00"
                             }, 
                             {
-                                "degree": "yellow", 
+                                "degree": "orange", 
                                 "parameter": "WarningRain", 
                                 "parameter_desc": "De\u017e", 
-                                "validEnd": "2021-07-18T21:59:00+00:00", 
-                                "validStart": "2021-07-16T23:00:00+00:00"
+                                "validEnd": "2021-07-17T21:59:00+00:00", 
+                                "validStart": "2021-07-17T00:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
@@ -567,7 +576,7 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
         "updated": "2021-07-16T11:45:00+00:00"
     }
