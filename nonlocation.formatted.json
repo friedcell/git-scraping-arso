@@ -19,32 +19,32 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Petek, 23.7.2021 ob 14h", 
+            "pubdate": "Petek, 23.7.2021 ob 17h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-07-23 14:17"
+            "tsValid_issued": "2021-07-23 16:39"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Popoldne bo na Primorskem prete\u017eno jasno, drugod spremenljivo obla\u010dno. V notranjosti Slovenije bodo nastajale kratkotrajne krajevne plohe in nevihte, na severovzhodu lahko tudi kak\u0161na mo\u010dnej\u0161a. Proti ve\u010deru se bo od zahoda jasnilo. Najvi\u0161je dnevne temperature bodo od 24 do 28, na Primorskem okoli 30 \u00b0C.", 
+                "para": "Zve\u010der se bo ozra\u010dje na severovzhodu Slovenije umirilo, pono\u010di se bo postopno povsod razjasnilo. Najni\u017eje jutranje temperature bodo od 13 do 17, ob morju okoli 20 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo son\u010dno, popoldne bo ponekod zapihal jugozahodni veter. Najni\u017eje jutranje temperature bodo od 13 do 17, na Primorskem okoli 20, najvi\u0161je dnevne od 27 do 31 \u00b0C.", 
+                "para": "Jutri bo son\u010dno, popoldne bo ponekod zapihal jugozahodni veter. Najvi\u0161je dnevne temperature bodo od 27 do 31 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Danes bo spremenljivo obla\u010dno, predvsem v krajih severno od nas bodo nastajale plohe in nevihte. Popoldne se bo od zahoda postopno jasnilo.", 
+                "para": "Zve\u010der bodo plohe in nevihte povsod ponehale, pono\u010di se bo od zahoda postopno zjasnilo.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
-                "para": "Jutri bo povsod prevladovalo son\u010dno poletno vreme.", 
+                "para": "Jutri bo prevladovalo son\u010dno poletno vreme.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
-                "para": "Prek srednje Evrope se proti vzhodu pomika vi\u0161insko jedro hladnega zraka, ki bo danes prehodno nekoliko vplivalo tudi na vreme pri nas. S \u0161ibkimi vetrovi vzhodnih smeri k nam pri tleh priteka razmeroma vla\u017een zrak.", 
+                "para": "Prek vzhodnih Alp se proti jugovzhodu pomika vi\u0161insko jedro hladnega zraka. Njegov vpliv na vreme pri nas bo zve\u010der hitro oslabel.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
@@ -52,19 +52,22 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V nedeljo in ponedeljek bo ve\u010dinoma son\u010dno in vro\u010de, verjetnost neviht bo majhna. Pihal bo jugozahodni veter, ob morju jugo.", 
+                "para": [
+                    "V nedeljo in ponedeljek bo ve\u010dinoma son\u010dno in vro\u010de. Verjetnost neviht bo majhna in omejena predvsem na gorati svet severozahodne Slovenije. Pihal bo jugozahodni veter, ob morju jugo.", 
+                    "V torek bo ve\u010d obla\u010dnosti, predvsem v zahodni in osrednji Sloveniji bodo nastajale plohe in nevihte."
+                ], 
                 "title": "OBETI"
             }, 
             {
-                "para": "Danes popoldne je na Koro\u0161kem, \u0160tajerskem in v Prekmurju mo\u017een razvoj mo\u010dnej\u0161ih krajevnih neviht. Ozra\u010dje se bo umirilo v ve\u010dernih urah.", 
+                "para": "Dodatnega opozorila ni.", 
                 "title": "OPOZORILO"
             }, 
             {
-                "para": "Danes bo spremenljivo obla\u010dno, mo\u017ene so krajevne plohe in nevihte. Jutri bo son\u010dno in vro\u010de.", 
+                "para": "Pono\u010di se bo postopno povsod razjasnilo. Jutri bo son\u010dno in vro\u010de.", 
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-07-23T12:17:20+00:00", 
+        "tsUpdated": "2021-07-23T14:39:41+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -514,7 +517,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -523,26 +526,17 @@
                 "name": "Slovenija", 
                 "summary": [
                     {
-                        "event": [
-                            {
-                                "degree": "orange", 
-                                "parameter": "WarningTS", 
-                                "parameter_desc": "Nevihte", 
-                                "region_map": "warning_TS_si-region_d1hlast-d3h00.png", 
-                                "validEnd": "2021-07-23T18:59:00+00:00", 
-                                "validStart": "2021-07-23T13:00:00+00:00"
-                            }
-                        ], 
+                        "event": "", 
                         "interval": "2 days", 
                         "type": "maxDegreeEvent"
                     }, 
                     {
                         "event": [
                             {
-                                "degree": "orange", 
+                                "degree": "yellow", 
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
-                                "validEnd": "2021-07-23T18:59:00+00:00", 
+                                "validEnd": "2021-07-23T16:59:00+00:00", 
                                 "validStart": "2021-07-23T13:00:00+00:00"
                             }, 
                             {
@@ -560,13 +554,13 @@
                 "text": {
                     "id": "warning_SLOVENIA", 
                     "para": [
-                        "Danes popoldne je na Koro\u0161kem, \u0160tajerskem in v Prekmurju mo\u017een razvoj mo\u010dnej\u0161ih krajevnih neviht. Ozra\u010dje se bo umirilo v ve\u010dernih urah."
+                        "Dodatnega opozorila ni."
                     ], 
                     "title": "Opozorilo"
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
         "updated": "2021-07-23T04:46:00+00:00"
     }
