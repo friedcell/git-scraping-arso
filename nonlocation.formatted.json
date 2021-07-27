@@ -19,20 +19,23 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Torek, 27.7.2021 ob 11h", 
+            "pubdate": "Torek, 27.7.2021 ob 13h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-07-27 10:57"
+            "tsValid_issued": "2021-07-27 12:58"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Danes bo na vzhodu delno jasno, drugod spremenljivo obla\u010dno. Zlasti v zahodni in osrednji Sloveniji se bodo ob\u010dasno pojavljale krajevne plohe in nevihte. Ponekod bo pihal jugozahodni veter. Najvi\u0161je dnevne temperature bodo od 24 do 29, na vzhodu do 32 \u00b0C.", 
+                "para": [
+                    "Popoldne bo spremenljivo obla\u010dno. Zlasti v zahodni in osrednji Sloveniji se bodo ob\u010dasno pojavljale krajevne plohe in nevihte. Ponekod bo pihal jugozahodni veter. Najvi\u0161je dnevne temperature bodo od 24 do 29, na vzhodu do 32 \u00b0C.\n", 
+                    "Pono\u010di bodo krajevne padavine povsod ponehale, delno se bo zjasnilo."
+                ], 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo ve\u010dinoma son\u010dno z nekaj koprenaste obla\u010dnosti. V ve\u010dernem \u010dasu lahko na zahodu nastane kak\u0161na kratkotrajna ploha ali nevihta. Ponekod bo \u0161e pihal jugozahodni veter. Jutranje temperature od 14 do 19, ob morju okoli 21, najvi\u0161je dnevne od 27 do 33 \u00b0C.", 
+                "para": "Jutri bo ve\u010dinoma son\u010dno z nekaj koprenaste obla\u010dnosti. V ve\u010dernem \u010dasu lahko na zahodu nastane kak\u0161na kratkotrajna ploha ali nevihta. Ponekod bo \u0161e pihal jugozahodni veter. Jutranje temperature bodo od 14 do 21, najvi\u0161je dnevne od 27 do 33 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -66,7 +69,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-07-27T08:58:08+00:00", 
+        "tsUpdated": "2021-07-27T10:58:32+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -91,8 +94,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "prevCloudy_day", 
                                     "interval": "", 
-                                    "time": "720", 
-                                    "valid": "2021-07-27T10:00:00+00:00", 
+                                    "time": "780", 
+                                    "valid": "2021-07-27T11:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -124,8 +127,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "prevCloudy_day", 
                                     "interval": "", 
-                                    "time": "720", 
-                                    "valid": "2021-07-27T10:00:00+00:00", 
+                                    "time": "780", 
+                                    "valid": "2021-07-27T11:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -155,10 +158,10 @@
                             "date": "2021-07-27", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "overcast_day", 
+                                    "clouds_icon_wwsyn_icon": "prevCloudy_day", 
                                     "interval": "", 
-                                    "time": "720", 
-                                    "valid": "2021-07-27T10:00:00+00:00", 
+                                    "time": "780", 
+                                    "valid": "2021-07-27T11:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -190,8 +193,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "prevCloudy_day", 
                                     "interval": "", 
-                                    "time": "720", 
-                                    "valid": "2021-07-27T10:00:00+00:00", 
+                                    "time": "780", 
+                                    "valid": "2021-07-27T11:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -225,7 +228,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-07-27T10:13:09+00:00", 
+        "tsUpdated": "2021-07-27T11:13:11+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -250,10 +253,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "7", 
-                                    "o3_val": "90", 
-                                    "time": "720", 
-                                    "valid": "2021-07-27T10:00:00+00:00"
+                                    "no2_val": "5", 
+                                    "o3_val": "", 
+                                    "time": "780", 
+                                    "valid": "2021-07-27T11:00:00+00:00"
                                 }
                             ]
                         }
@@ -282,10 +285,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "22", 
-                                    "o3_val": "62", 
-                                    "time": "720", 
-                                    "valid": "2021-07-27T10:00:00+00:00"
+                                    "no2_val": "19", 
+                                    "o3_val": "64", 
+                                    "time": "780", 
+                                    "valid": "2021-07-27T11:00:00+00:00"
                                 }
                             ]
                         }
@@ -314,10 +317,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "4", 
-                                    "o3_val": "92", 
-                                    "time": "720", 
-                                    "valid": "2021-07-27T10:00:00+00:00"
+                                    "no2_val": "7", 
+                                    "o3_val": "83", 
+                                    "time": "780", 
+                                    "valid": "2021-07-27T11:00:00+00:00"
                                 }
                             ]
                         }
@@ -346,10 +349,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "23", 
-                                    "o3_val": "63", 
-                                    "time": "720", 
-                                    "valid": "2021-07-27T10:00:00+00:00"
+                                    "no2_val": "25", 
+                                    "o3_val": "61", 
+                                    "time": "780", 
+                                    "valid": "2021-07-27T11:00:00+00:00"
                                 }
                             ]
                         }
@@ -376,7 +379,7 @@
                 "unit": "\u03bcg/m\u00b3"
             }
         }, 
-        "tsUpdated": "2021-07-27T10:12:01+00:00", 
+        "tsUpdated": "2021-07-27T11:12:02+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -399,9 +402,9 @@
                             "date": "2021-07-27", 
                             "timeline": [
                                 {
-                                    "time": "720", 
-                                    "tw": "19", 
-                                    "valid": "2021-07-27T10:00:00+00:00", 
+                                    "time": "780", 
+                                    "tw": "20", 
+                                    "valid": "2021-07-27T11:00:00+00:00", 
                                     "wLev": "23"
                                 }
                             ]
@@ -428,9 +431,9 @@
                             "date": "2021-07-27", 
                             "timeline": [
                                 {
-                                    "time": "720", 
+                                    "time": "780", 
                                     "tw": "24", 
-                                    "valid": "2021-07-27T10:00:00+00:00", 
+                                    "valid": "2021-07-27T11:00:00+00:00", 
                                     "wLev": "46"
                                 }
                             ]
@@ -457,9 +460,9 @@
                             "date": "2021-07-27", 
                             "timeline": [
                                 {
-                                    "time": "720", 
+                                    "time": "780", 
                                     "tw": "22", 
-                                    "valid": "2021-07-27T10:00:00+00:00", 
+                                    "valid": "2021-07-27T11:00:00+00:00", 
                                     "wLev": "25"
                                 }
                             ]
@@ -486,10 +489,10 @@
                             "date": "2021-07-27", 
                             "timeline": [
                                 {
-                                    "time": "720", 
+                                    "time": "780", 
                                     "tw": "26", 
-                                    "valid": "2021-07-27T10:00:00+00:00", 
-                                    "wLev": "268"
+                                    "valid": "2021-07-27T11:00:00+00:00", 
+                                    "wLev": "279"
                                 }
                             ]
                         }
@@ -543,7 +546,7 @@
                                 "parameter": "WarningTx", 
                                 "parameter_desc": "Visoka temperatura", 
                                 "validEnd": "2021-07-27T22:59:00+00:00", 
-                                "validStart": "2021-07-27T09:00:00+00:00"
+                                "validStart": "2021-07-27T10:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
