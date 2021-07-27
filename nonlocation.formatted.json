@@ -1,16 +1,16 @@
 {
     "fcast_si_hint": {
         "articleinfo": {
-            "pubdate": "Monday, 26.7.2021 ob 9h", 
+            "pubdate": "Tuesday, 27.7.2021 ob 4h", 
             "title": "Vremenski namig", 
-            "tsValid_issued": "2021-07-26 09:41"
+            "tsValid_issued": "2021-07-27 04:02"
         }, 
         "section": [
             {
                 "id": "fcast_SLOVENIA_d1", 
                 "para": [
                     {
-                        "para": "\u26c8 Danes pozno popoldne, zve\u010der in v prvem delu no\u010di na torek bodo predvsem v zahodni polovici Slovenije mo\u017ena kraje\u2026 https://t.co/DVPlEzoimx"
+                        "para": "Dobro jutro, danes bo na vzhodu delno jasno, drugod spremenljivo obla\u010dno s krajevnimi plohami in nevihtami. Jutri b\u2026 https://t.co/blJ7P3lwTF"
                     }
                 ], 
                 "title": "Zadnja novica"
@@ -516,7 +516,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -531,13 +531,6 @@
                     }, 
                     {
                         "event": [
-                            {
-                                "degree": "yellow", 
-                                "parameter": "WarningWind", 
-                                "parameter_desc": "Veter", 
-                                "validEnd": "2021-07-28T16:59:00+00:00", 
-                                "validStart": "2021-07-28T11:00:00+00:00"
-                            }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningTS", 
@@ -566,8 +559,8 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-07-26T05:05:00+00:00"
+        "updated": "2021-07-27T04:42:00+00:00"
     }
 }
