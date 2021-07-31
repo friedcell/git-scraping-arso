@@ -1,16 +1,16 @@
 {
     "fcast_si_hint": {
         "articleinfo": {
-            "pubdate": "Saturday, 31.7.2021 ob 4h", 
+            "pubdate": "Saturday, 31.7.2021 ob 7h", 
             "title": "Vremenski namig", 
-            "tsValid_issued": "2021-07-31 04:02"
+            "tsValid_issued": "2021-07-31 07:38"
         }, 
         "section": [
             {
                 "id": "fcast_SLOVENIA_d1", 
                 "para": [
                     {
-                        "para": "Dobro jutro, danes bo delno jasno, na severu bodo plohe in nevihte. Jutri bo prete\u017eno obla\u010dno s pogostimi plohami i\u2026 https://t.co/MDApUZd8rW"
+                        "para": "Mo\u010dnej\u0161a nevihta na \u0161ir\u0161em obmo\u010dju Julijskih Alp.\u26a0\ufe0f Skupek nevihtnih celic se po\u010dasi pomika proti vzhodu. Tudi v na\u2026 https://t.co/D0eo6qsbhU"
                     }
                 ], 
                 "title": "Zadnja novica"
@@ -516,7 +516,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -525,7 +525,16 @@
                 "name": "Slovenija", 
                 "summary": [
                     {
-                        "event": "", 
+                        "event": [
+                            {
+                                "degree": "orange", 
+                                "parameter": "WarningTS", 
+                                "parameter_desc": "Nevihte", 
+                                "region_map": "warning_TS_si-region_d1hlast-d3h00.png", 
+                                "validEnd": "2021-07-31T08:59:00+00:00", 
+                                "validStart": "2021-07-31T06:00:00+00:00"
+                            }
+                        ], 
                         "interval": "2 days", 
                         "type": "maxDegreeEvent"
                     }, 
@@ -539,11 +548,11 @@
                                 "validStart": "2021-08-01T08:00:00+00:00"
                             }, 
                             {
-                                "degree": "yellow", 
+                                "degree": "orange", 
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
-                                "validEnd": "2021-07-31T21:59:00+00:00", 
-                                "validStart": "2021-07-31T08:00:00+00:00"
+                                "validEnd": "2021-07-31T08:59:00+00:00", 
+                                "validStart": "2021-07-31T06:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
@@ -566,7 +575,7 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
         "updated": "2021-07-31T05:36:00+00:00"
     }
