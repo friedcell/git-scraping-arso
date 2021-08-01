@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Nedelja, 1.8.2021 ob 7h", 
+            "pubdate": "Nedelja, 1.8.2021 ob 9h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-08-01 07:17"
+            "tsValid_issued": "2021-08-01 08:54"
         }, 
         "dataType": "", 
         "features": "", 
@@ -63,7 +63,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-08-01T05:17:59+00:00", 
+        "tsUpdated": "2021-08-01T06:54:52+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -529,7 +529,7 @@
                                 "parameter_desc": "Nevihte", 
                                 "region_map": "warning_TS_si-region_d1hlast-d3h00.png", 
                                 "validEnd": "2021-08-01T22:59:00+00:00", 
-                                "validStart": "2021-08-01T05:00:00+00:00"
+                                "validStart": "2021-08-01T06:00:00+00:00"
                             }
                         ], 
                         "interval": "2 days", 
@@ -549,14 +549,14 @@
                                 "parameter": "WarningRain", 
                                 "parameter_desc": "De\u017e", 
                                 "validEnd": "2021-08-01T22:59:00+00:00", 
-                                "validStart": "2021-08-01T05:00:00+00:00"
+                                "validStart": "2021-08-01T06:00:00+00:00"
                             }, 
                             {
                                 "degree": "orange", 
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
                                 "validEnd": "2021-08-01T22:59:00+00:00", 
-                                "validStart": "2021-08-01T05:00:00+00:00"
+                                "validStart": "2021-08-01T06:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -574,6 +574,6 @@
         ], 
         "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-07-31T05:36:00+00:00"
+        "updated": "2021-08-01T06:05:00+00:00"
     }
 }
