@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "\u010cetrtek, 5.8.2021 ob 11h", 
+            "pubdate": "\u010cetrtek, 5.8.2021 ob 13h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-08-05 11:24"
+            "tsValid_issued": "2021-08-05 12:52"
         }, 
         "dataType": "", 
         "features": "", 
@@ -64,7 +64,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-08-05T09:25:09+00:00", 
+        "tsUpdated": "2021-08-05T10:52:20+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -514,7 +514,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -529,7 +529,7 @@
                                 "parameter": "WarningRain", 
                                 "parameter_desc": "De\u017e", 
                                 "region_map": "warning_rain_si-region_d1hlast-d3h00.png", 
-                                "validEnd": "2021-08-05T12:59:00+00:00", 
+                                "validEnd": "2021-08-05T10:59:00+00:00", 
                                 "validStart": "2021-08-05T09:00:00+00:00"
                             }
                         ], 
@@ -549,7 +549,7 @@
                                 "degree": "orange", 
                                 "parameter": "WarningRain", 
                                 "parameter_desc": "De\u017e", 
-                                "validEnd": "2021-08-05T12:59:00+00:00", 
+                                "validEnd": "2021-08-05T10:59:00+00:00", 
                                 "validStart": "2021-08-05T09:00:00+00:00"
                             }, 
                             {
@@ -573,8 +573,8 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-08-05T07:15:00+00:00"
+        "updated": "2021-08-05T10:49:00+00:00"
     }
 }
