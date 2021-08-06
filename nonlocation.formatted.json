@@ -1,16 +1,16 @@
 {
     "fcast_si_hint": {
         "articleinfo": {
-            "pubdate": "Friday, 6.8.2021 ob 6h", 
+            "pubdate": "Friday, 6.8.2021 ob 8h", 
             "title": "Vremenski namig", 
-            "tsValid_issued": "2021-08-06 06:00"
+            "tsValid_issued": "2021-08-06 08:37"
         }, 
         "section": [
             {
                 "id": "fcast_SLOVENIA_d1", 
                 "para": [
                     {
-                        "para": "\u27a1\ufe0f Povr\u0161inska su\u0161a \ud83c\udf31\nPomurje, Gorenjska in Gori\u0161ka: \ud83d\udfe1(zmerna su\u0161a)\nOstalo: \ud83d\udfe2\n\n\u27a1\ufe0f Vodnatost rek \ud83c\udfde\ufe0f\nCela Slovenija: \ud83d\udfe2\u2026 https://t.co/vAx3R4ztQ7"
+                        "para": "V Tr\u017ea\u0161kem zalivu je nastala mo\u010dna nevihta, ki se po\u010dasi premika proti obali Istre, vendar kot ka\u017ee, bo nevihtna ce\u2026 https://t.co/eJpSnwvJ6L"
                     }
                 ], 
                 "title": "Zadnja novica"
@@ -75,6 +75,39 @@
             {
                 "geometry": {
                     "coordinates": [
+                        15.525, 
+                        45.893599999999999
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "altitude": "154.0", 
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+02:00", 
+                            "date": "2021-08-06", 
+                            "timeline": [
+                                {
+                                    "clouds_icon_wwsyn_icon": "clear_day", 
+                                    "interval": "", 
+                                    "time": "600", 
+                                    "valid": "2021-08-06T08:00:00+00:00", 
+                                    "vis_shortText": ">10", 
+                                    "wwsyn_icon": ""
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "CERKLJE_LETAL-SCE_", 
+                    "parentId": "SI_SPODNJEPOSAVSKA_", 
+                    "title": "Letali\u0161\u010de Cerklje ob Krki"
+                }, 
+                "type": "Feature"
+            }, 
+            {
+                "geometry": {
+                    "coordinates": [
                         15.6869, 
                         46.479999999999997
                     ], 
@@ -89,10 +122,10 @@
                             "date": "2021-08-06", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "clear_day", 
+                                    "clouds_icon_wwsyn_icon": "partCloudy_day", 
                                     "interval": "", 
-                                    "time": "540", 
-                                    "valid": "2021-08-06T07:00:00+00:00", 
+                                    "time": "600", 
+                                    "valid": "2021-08-06T08:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -122,10 +155,10 @@
                             "date": "2021-08-06", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "prevCloudy_day", 
+                                    "clouds_icon_wwsyn_icon": "clear_day", 
                                     "interval": "", 
-                                    "time": "540", 
-                                    "valid": "2021-08-06T07:00:00+00:00", 
+                                    "time": "600", 
+                                    "valid": "2021-08-06T08:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -155,12 +188,12 @@
                             "date": "2021-08-06", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "prevCloudy_day", 
+                                    "clouds_icon_wwsyn_icon": "prevCloudy_modTSRA_day", 
                                     "interval": "", 
-                                    "time": "540", 
-                                    "valid": "2021-08-06T07:00:00+00:00", 
+                                    "time": "600", 
+                                    "valid": "2021-08-06T08:00:00+00:00", 
                                     "vis_shortText": ">10", 
-                                    "wwsyn_icon": ""
+                                    "wwsyn_icon": "modTSRA"
                                 }
                             ]
                         }
@@ -192,7 +225,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-08-06T07:13:07+00:00", 
+        "tsUpdated": "2021-08-06T08:13:15+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -217,10 +250,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "16", 
+                                    "no2_val": "19", 
                                     "o3_val": "60", 
-                                    "time": "540", 
-                                    "valid": "2021-08-06T07:00:00+00:00"
+                                    "time": "600", 
+                                    "valid": "2021-08-06T08:00:00+00:00"
                                 }
                             ]
                         }
@@ -249,10 +282,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "10", 
-                                    "o3_val": "16", 
-                                    "time": "540", 
-                                    "valid": "2021-08-06T07:00:00+00:00"
+                                    "no2_val": "11", 
+                                    "o3_val": "23", 
+                                    "time": "600", 
+                                    "valid": "2021-08-06T08:00:00+00:00"
                                 }
                             ]
                         }
@@ -282,9 +315,9 @@
                                 {
                                     "interval": "", 
                                     "no2_val": "5", 
-                                    "o3_val": "22", 
-                                    "time": "540", 
-                                    "valid": "2021-08-06T07:00:00+00:00"
+                                    "o3_val": "30", 
+                                    "time": "600", 
+                                    "valid": "2021-08-06T08:00:00+00:00"
                                 }
                             ]
                         }
@@ -313,10 +346,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "16", 
-                                    "o3_val": "41", 
-                                    "time": "540", 
-                                    "valid": "2021-08-06T07:00:00+00:00"
+                                    "no2_val": "20", 
+                                    "o3_val": "43", 
+                                    "time": "600", 
+                                    "valid": "2021-08-06T08:00:00+00:00"
                                 }
                             ]
                         }
@@ -343,7 +376,7 @@
                 "unit": "\u03bcg/m\u00b3"
             }
         }, 
-        "tsUpdated": "2021-08-06T07:12:02+00:00", 
+        "tsUpdated": "2021-08-06T08:12:01+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -366,9 +399,9 @@
                             "date": "2021-08-06", 
                             "timeline": [
                                 {
-                                    "time": "540", 
+                                    "time": "600", 
                                     "tw": "18", 
-                                    "valid": "2021-08-06T07:00:00+00:00", 
+                                    "valid": "2021-08-06T08:00:00+00:00", 
                                     "wLev": "41"
                                 }
                             ]
@@ -395,10 +428,10 @@
                             "date": "2021-08-06", 
                             "timeline": [
                                 {
-                                    "time": "540", 
+                                    "time": "600", 
                                     "tw": "23", 
-                                    "valid": "2021-08-06T07:00:00+00:00", 
-                                    "wLev": "46"
+                                    "valid": "2021-08-06T08:00:00+00:00", 
+                                    "wLev": "47"
                                 }
                             ]
                         }
@@ -424,9 +457,9 @@
                             "date": "2021-08-06", 
                             "timeline": [
                                 {
-                                    "time": "540", 
+                                    "time": "600", 
                                     "tw": "21", 
-                                    "valid": "2021-08-06T07:00:00+00:00", 
+                                    "valid": "2021-08-06T08:00:00+00:00", 
                                     "wLev": "25"
                                 }
                             ]
@@ -453,10 +486,10 @@
                             "date": "2021-08-06", 
                             "timeline": [
                                 {
-                                    "time": "540", 
+                                    "time": "600", 
                                     "tw": "26", 
-                                    "valid": "2021-08-06T07:00:00+00:00", 
-                                    "wLev": "249"
+                                    "valid": "2021-08-06T08:00:00+00:00", 
+                                    "wLev": "253"
                                 }
                             ]
                         }
