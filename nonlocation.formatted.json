@@ -19,16 +19,16 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Nedelja, 15.8.2021 ob 16h", 
+            "pubdate": "Nedelja, 15.8.2021 ob 17h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-08-15 15:55"
+            "tsValid_issued": "2021-08-15 16:40"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Zve\u010der lahko na severu in severovzhodu dr\u017eave \u0161e nastane kak\u0161na nevihta, nato se bo ozra\u010dje umirilo. Pono\u010di in zjutraj bo prete\u017eno jasno. Jutranje temperature bodo od 14 do 20 \u00b0C.", 
+                "para": "Zve\u010der lahko predvsem na severovzhodu dr\u017eave \u0161e nastane kak\u0161na nevihta, tudi mo\u010dnej\u0161a, nato se bo ozra\u010dje umirilo. Pono\u010di in zjutraj bo prete\u017eno jasno. Jutranje temperature bodo od 14 do 20 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -55,7 +55,10 @@
                 "title": "OBETI"
             }, 
             {
-                "para": "Jutri bo po ni\u017einah sredi dneva in popoldne \u0161e velika toplotna obremenitev.", 
+                "para": [
+                    "Popoldne in zve\u010der so predvsem na severovzhodu Slovenije mo\u017ene mo\u010dnej\u0161e nevihte z mo\u010dnimi sunki vetra, nalivi in to\u010do.", 
+                    "Jutri bo po ni\u017einah sredi dneva in popoldne \u0161e velika toplotna obremenitev. "
+                ], 
                 "title": "OPOZORILO"
             }, 
             {
@@ -63,7 +66,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-08-15T13:55:31+00:00", 
+        "tsUpdated": "2021-08-15T14:41:03+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -513,7 +516,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -523,6 +526,14 @@
                 "summary": [
                     {
                         "event": [
+                            {
+                                "degree": "orange", 
+                                "parameter": "WarningTS", 
+                                "parameter_desc": "Nevihte", 
+                                "region_map": "warning_TS_si-region_d1hlast-d3h00.png", 
+                                "validEnd": "2021-08-15T20:59:00+00:00", 
+                                "validStart": "2021-08-15T14:00:00+00:00"
+                            }, 
                             {
                                 "degree": "orange", 
                                 "parameter": "WarningTx", 
@@ -538,10 +549,10 @@
                     {
                         "event": [
                             {
-                                "degree": "yellow", 
+                                "degree": "orange", 
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
-                                "validEnd": "2021-08-15T21:59:00+00:00", 
+                                "validEnd": "2021-08-15T20:59:00+00:00", 
                                 "validStart": "2021-08-15T14:00:00+00:00"
                             }, 
                             {
@@ -559,14 +570,15 @@
                 "text": {
                     "id": "warning_SLOVENIA", 
                     "para": [
+                        "Danes popoldne in zve\u010der so predvsem na severovzhodu Slovenije mo\u017ene mo\u010dnej\u0161e nevihte z mo\u010dnimi sunki vetra, nalivi in to\u010do.", 
                         "Jutri bo po ni\u017einah sredi dneva in popoldne \u0161e velika toplotna obremenitev. "
                     ], 
                     "title": "Opozorilo"
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-08-15T04:53:00+00:00"
+        "updated": "2021-08-15T14:32:00+00:00"
     }
 }
