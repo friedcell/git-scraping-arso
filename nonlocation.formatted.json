@@ -519,7 +519,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -531,10 +531,26 @@
                         "event": [
                             {
                                 "degree": "orange", 
+                                "parameter": "WarningWind", 
+                                "parameter_desc": "Veter", 
+                                "region_map": "warning_wind_si-region_d1hlast-d3h00.png", 
+                                "validEnd": "2021-08-17T05:59:00+00:00", 
+                                "validStart": "2021-08-16T19:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "orange", 
+                                "parameter": "WarningTS", 
+                                "parameter_desc": "Nevihte", 
+                                "region_map": "warning_TS_si-region_d1hlast-d3h00.png", 
+                                "validEnd": "2021-08-17T05:59:00+00:00", 
+                                "validStart": "2021-08-16T18:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "orange", 
                                 "parameter": "WarningTx", 
                                 "parameter_desc": "Visoka temperatura", 
                                 "region_map": "warning_Tx_si-region_d1hlast-d3h00.png", 
-                                "validEnd": "2021-08-16T20:59:00+00:00", 
+                                "validEnd": "2021-08-16T19:59:00+00:00", 
                                 "validStart": "2021-08-16T09:00:00+00:00"
                             }
                         ], 
@@ -544,17 +560,31 @@
                     {
                         "event": [
                             {
+                                "degree": "orange", 
+                                "parameter": "WarningWind", 
+                                "parameter_desc": "Veter", 
+                                "validEnd": "2021-08-17T05:59:00+00:00", 
+                                "validStart": "2021-08-16T19:00:00+00:00"
+                            }, 
+                            {
                                 "degree": "yellow", 
+                                "parameter": "WarningRain", 
+                                "parameter_desc": "De\u017e", 
+                                "validEnd": "2021-08-17T00:59:00+00:00", 
+                                "validStart": "2021-08-16T18:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "orange", 
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
-                                "validEnd": "2021-08-17T04:59:00+00:00", 
-                                "validStart": "2021-08-16T14:00:00+00:00"
+                                "validEnd": "2021-08-17T05:59:00+00:00", 
+                                "validStart": "2021-08-16T18:00:00+00:00"
                             }, 
                             {
                                 "degree": "orange", 
                                 "parameter": "WarningTx", 
                                 "parameter_desc": "Visoka temperatura", 
-                                "validEnd": "2021-08-16T20:59:00+00:00", 
+                                "validEnd": "2021-08-16T19:59:00+00:00", 
                                 "validStart": "2021-08-16T09:00:00+00:00"
                             }
                         ], 
@@ -565,14 +595,15 @@
                 "text": {
                     "id": "warning_SLOVENIA", 
                     "para": [
-                        "Danes bo po ni\u017einah sredi dneva in popoldne \u0161e velika toplotna obremenitev. "
+                        "Danes bo po ni\u017einah sredi dneva in popoldne \u0161e velika toplotna obremenitev. ", 
+                        "Danes zve\u010der in v prvem delu no\u010di bodo mo\u017ene mo\u010dne nevihte s sunki vetra in krajevno tudi to\u010do. "
                     ], 
                     "title": "Opozorilo"
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-08-15T14:32:00+00:00"
+        "updated": "2021-08-16T07:17:00+00:00"
     }
 }
