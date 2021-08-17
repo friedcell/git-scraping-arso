@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Torek, 17.8.2021 ob 6h", 
+            "pubdate": "Torek, 17.8.2021 ob 9h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-08-17 05:47"
+            "tsValid_issued": "2021-08-17 08:53"
         }, 
         "dataType": "", 
         "features": "", 
@@ -51,6 +51,7 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
+                "para": "Jutri Nad severno Evropo je ciklonsko obmo\u010dje, nad jugozahodnim delom Evrope pa obmo\u010dje visokega zra\u010dnega tlaka. Od severovzhoda v spodnjih plasteh ozra\u010dja k nam \u0161e priteka razmeroma hladen zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
@@ -66,7 +67,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-08-17T03:48:04+00:00", 
+        "tsUpdated": "2021-08-17T06:54:06+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -516,7 +517,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -531,6 +532,13 @@
                     }, 
                     {
                         "event": [
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningWind", 
+                                "parameter_desc": "Veter", 
+                                "validEnd": "2021-08-17T22:59:00+00:00", 
+                                "validStart": "2021-08-17T05:00:00+00:00"
+                            }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningTS", 
@@ -552,7 +560,7 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
         "updated": "2021-08-17T05:00:00+00:00"
     }
