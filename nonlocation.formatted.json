@@ -242,14 +242,14 @@
                     "days": [
                         {
                             "UTCoffset": "+02:00", 
-                            "date": "2021-08-18", 
+                            "date": "2021-08-19", 
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "16", 
-                                    "o3_val": "80", 
-                                    "time": "1140", 
-                                    "valid": "2021-08-18T17:00:00+00:00"
+                                    "no2_val": "8", 
+                                    "o3_val": "", 
+                                    "time": "480", 
+                                    "valid": "2021-08-19T06:00:00+00:00"
                                 }
                             ]
                         }
@@ -257,38 +257,6 @@
                     "id": "E30_", 
                     "parentId": "", 
                     "title": "Koper"
-                }, 
-                "type": "Feature"
-            }, 
-            {
-                "geometry": {
-                    "coordinates": [
-                        14.5124, 
-                        46.0655
-                    ], 
-                    "type": "Point"
-                }, 
-                "properties": {
-                    "altitude": "299.0", 
-                    "country": "SI", 
-                    "days": [
-                        {
-                            "UTCoffset": "+02:00", 
-                            "date": "2021-08-18", 
-                            "timeline": [
-                                {
-                                    "interval": "", 
-                                    "no2_val": "7", 
-                                    "o3_val": "92", 
-                                    "time": "1140", 
-                                    "valid": "2021-08-18T17:00:00+00:00"
-                                }
-                            ]
-                        }
-                    ], 
-                    "id": "METEO-1495_", 
-                    "parentId": "SI_OSREDNJESLOVENSKA_", 
-                    "title": "Ljubljana"
                 }, 
                 "type": "Feature"
             }, 
@@ -306,14 +274,14 @@
                     "days": [
                         {
                             "UTCoffset": "+02:00", 
-                            "date": "2021-08-18", 
+                            "date": "2021-08-19", 
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "2", 
-                                    "o3_val": "87", 
-                                    "time": "1140", 
-                                    "valid": "2021-08-18T17:00:00+00:00"
+                                    "no2_val": "11", 
+                                    "o3_val": "12", 
+                                    "time": "480", 
+                                    "valid": "2021-08-19T06:00:00+00:00"
                                 }
                             ]
                         }
@@ -338,14 +306,14 @@
                     "days": [
                         {
                             "UTCoffset": "+02:00", 
-                            "date": "2021-08-18", 
+                            "date": "2021-08-19", 
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "19", 
-                                    "o3_val": "90", 
-                                    "time": "1140", 
-                                    "valid": "2021-08-18T17:00:00+00:00"
+                                    "no2_val": "65", 
+                                    "o3_val": "", 
+                                    "time": "480", 
+                                    "valid": "2021-08-19T06:00:00+00:00"
                                 }
                             ]
                         }
@@ -372,7 +340,7 @@
                 "unit": "\u03bcg/m\u00b3"
             }
         }, 
-        "tsUpdated": "2021-08-18T17:12:01+00:00", 
+        "tsUpdated": "2021-08-19T06:31:12+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
