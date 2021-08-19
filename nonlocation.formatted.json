@@ -19,20 +19,20 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "\u010cetrtek, 19.8.2021 ob 16h", 
+            "pubdate": "\u010cetrtek, 19.8.2021 ob 17h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-08-19 15:32"
+            "tsValid_issued": "2021-08-19 17:10"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Popoldne bo prete\u017eno jasno, nekaj ve\u010d obla\u010dnosti bo predvsem v severnih krajih. Ponekod bo pihal \u0161ibak ju\u017eni do jugovzhodni veter. Najvi\u0161je dnevne temperature bodo od 23 do 26, na Primorskem do okoli 29 \u00b0C.", 
+                "para": "Pono\u010di bo prete\u017eno jasno. Najni\u017eje jutranje temperature bodo od 10 do 15, v mrazi\u0161\u010dih Notranjske okoli 5, ob morju 17 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo prete\u017eno jasno, ponekod v severnih krajih pa ob\u010dasno zmerno obla\u010dno. Pihal bo \u0161ibak jugovzhodnik. Najni\u017eje jutranje temperature bodo od 10 do 15, v mrazi\u0161\u010dih Notranjske okoli 5, ob morju 17, najvi\u0161je dnevne od 24 do 27, na Primorskem do okoli 30 \u00b0C.", 
+                "para": "Jutri bo prete\u017eno jasno, ponekod v severnih krajih pa ob\u010dasno zmerno obla\u010dno. Pihal bo \u0161ibak jugovzhodnik. Najvi\u0161je dnevne temperature bodo od 24 do 27, na Primorskem do okoli 30 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -51,7 +51,7 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V soboto in nedeljo bo precej jasno z najvi\u0161jimi dnevnimi temperaturami do okoli 30 stopinj, jutra pa bodo ostala bolj sve\u017ea. V soboto popoldne bo na severu mo\u017ena kak\u0161na vro\u010dinska nevihta.", 
+                "para": "V soboto in nedeljo bo precej jasno z najvi\u0161jimi dnevnimi temperaturami do okoli 30 stopinj, jutra pa bodo ostala bolj sve\u017ea. V soboto popoldne bo na severu mo\u017ena kak\u0161na vro\u010dinska nevihta. V ponedeljek poslab\u0161anje vremena z ohladitvijo.", 
                 "title": "OBETI"
             }, 
             {
@@ -59,11 +59,11 @@
                 "title": "OPOZORILO"
             }, 
             {
-                "para": "Danes in jutri bo precej jasno.", 
+                "para": "Pono\u010di in jutri bo precej jasno.", 
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-08-19T13:32:34+00:00", 
+        "tsUpdated": "2021-08-19T15:10:41+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -88,8 +88,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "clear_day", 
                                     "interval": "", 
-                                    "time": "960", 
-                                    "valid": "2021-08-19T14:00:00+00:00", 
+                                    "time": "1020", 
+                                    "valid": "2021-08-19T15:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -119,10 +119,10 @@
                             "date": "2021-08-19", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "partCloudy_day", 
+                                    "clouds_icon_wwsyn_icon": "clear_day", 
                                     "interval": "", 
-                                    "time": "960", 
-                                    "valid": "2021-08-19T14:00:00+00:00", 
+                                    "time": "1020", 
+                                    "valid": "2021-08-19T15:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -154,8 +154,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "clear_day", 
                                     "interval": "", 
-                                    "time": "960", 
-                                    "valid": "2021-08-19T14:00:00+00:00", 
+                                    "time": "1020", 
+                                    "valid": "2021-08-19T15:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -187,8 +187,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "clear_day", 
                                     "interval": "", 
-                                    "time": "960", 
-                                    "valid": "2021-08-19T14:00:00+00:00", 
+                                    "time": "1020", 
+                                    "valid": "2021-08-19T15:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -222,7 +222,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-08-19T14:13:06+00:00", 
+        "tsUpdated": "2021-08-19T15:13:07+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -248,9 +248,9 @@
                                 {
                                     "interval": "", 
                                     "no2_val": "4", 
-                                    "o3_val": "102", 
-                                    "time": "960", 
-                                    "valid": "2021-08-19T14:00:00+00:00"
+                                    "o3_val": "109", 
+                                    "time": "1020", 
+                                    "valid": "2021-08-19T15:00:00+00:00"
                                 }
                             ]
                         }
@@ -279,10 +279,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "6", 
-                                    "o3_val": "105", 
-                                    "time": "960", 
-                                    "valid": "2021-08-19T14:00:00+00:00"
+                                    "no2_val": "7", 
+                                    "o3_val": "106", 
+                                    "time": "1020", 
+                                    "valid": "2021-08-19T15:00:00+00:00"
                                 }
                             ]
                         }
@@ -311,10 +311,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "1", 
-                                    "o3_val": "89", 
-                                    "time": "960", 
-                                    "valid": "2021-08-19T14:00:00+00:00"
+                                    "no2_val": "2", 
+                                    "o3_val": "90", 
+                                    "time": "1020", 
+                                    "valid": "2021-08-19T15:00:00+00:00"
                                 }
                             ]
                         }
@@ -343,10 +343,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "13", 
-                                    "o3_val": "94", 
-                                    "time": "960", 
-                                    "valid": "2021-08-19T14:00:00+00:00"
+                                    "no2_val": "8", 
+                                    "o3_val": "103", 
+                                    "time": "1020", 
+                                    "valid": "2021-08-19T15:00:00+00:00"
                                 }
                             ]
                         }
@@ -373,7 +373,7 @@
                 "unit": "\u03bcg/m\u00b3"
             }
         }, 
-        "tsUpdated": "2021-08-19T14:12:02+00:00", 
+        "tsUpdated": "2021-08-19T15:12:01+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -396,9 +396,9 @@
                             "date": "2021-08-19", 
                             "timeline": [
                                 {
-                                    "time": "960", 
+                                    "time": "1020", 
                                     "tw": "22", 
-                                    "valid": "2021-08-19T14:00:00+00:00", 
+                                    "valid": "2021-08-19T15:00:00+00:00", 
                                     "wLev": "19"
                                 }
                             ]
@@ -425,9 +425,9 @@
                             "date": "2021-08-19", 
                             "timeline": [
                                 {
-                                    "time": "960", 
+                                    "time": "1020", 
                                     "tw": "24", 
-                                    "valid": "2021-08-19T14:00:00+00:00", 
+                                    "valid": "2021-08-19T15:00:00+00:00", 
                                     "wLev": "46"
                                 }
                             ]
@@ -454,10 +454,10 @@
                             "date": "2021-08-19", 
                             "timeline": [
                                 {
-                                    "time": "960", 
+                                    "time": "1020", 
                                     "tw": "24", 
-                                    "valid": "2021-08-19T14:00:00+00:00", 
-                                    "wLev": "23"
+                                    "valid": "2021-08-19T15:00:00+00:00", 
+                                    "wLev": "22"
                                 }
                             ]
                         }
@@ -483,10 +483,10 @@
                             "date": "2021-08-19", 
                             "timeline": [
                                 {
-                                    "time": "960", 
+                                    "time": "1020", 
                                     "tw": "25", 
-                                    "valid": "2021-08-19T14:00:00+00:00", 
-                                    "wLev": "234"
+                                    "valid": "2021-08-19T15:00:00+00:00", 
+                                    "wLev": "241"
                                 }
                             ]
                         }
@@ -540,7 +540,7 @@
                                 "parameter": "WarningForestFire", 
                                 "parameter_desc": "Po\u017earna ogro\u017eenost", 
                                 "validEnd": "2021-08-23T21:59:00+00:00", 
-                                "validStart": "2021-08-19T13:00:00+00:00"
+                                "validStart": "2021-08-19T14:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
