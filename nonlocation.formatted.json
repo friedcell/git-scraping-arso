@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sreda, 15.9.2021 ob 17h", 
+            "pubdate": "Sreda, 15.9.2021 ob 18h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-09-15 16:43"
+            "tsValid_issued": "2021-09-15 17:38"
         }, 
         "dataType": "", 
         "features": "", 
@@ -32,7 +32,7 @@
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri \u00adbo sprva \u0161e precej jasno, le na zahodu bo \u017ee bolj obla\u010dno. \u010cez dan bo obla\u010dnost povsod nara\u0161\u010dala. Dopoldne se bodo na zahodu za\u010dele pojavljati krajevne plohe in nevihte, ki se bodo popoldne okrepile in ob\u010dasno raz\u0161irile proti osrednjim in vzhodnim krajem. Pihal bo jugozahodni veter. Najvi\u0161je dnevne temperature bodo od 23 do 26, na vzhodu do 29 \u00b0C.", 
+                "para": "V \u010detrtek \u00adbo sprva \u0161e precej jasno, le na zahodu bo \u017ee bolj obla\u010dno. \u010cez dan bo obla\u010dnost povsod nara\u0161\u010dala. Dopoldne se bodo na zahodu za\u010dele pojavljati krajevne plohe in nevihte, ki se bodo popoldne okrepile in ob\u010dasno raz\u0161irile proti osrednjim in vzhodnim krajem. Pihal bo jugozahodni veter. Najvi\u0161je dnevne temperature bodo od 23 do 26, na vzhodu do 29 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -40,7 +40,7 @@
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
-                "para": "Jutri bo v krajih vzhodno od nas dopoldne delno jasno, popoldne se bo obla\u010dnost pove\u010dala, nastalo bo nekaj neviht. Drugod bo spremenljivo do prete\u017eno obla\u010dno, pogoste bodo krajevne plohe in nevihte.", 
+                "para": "V \u010detrtek bo v krajih vzhodno od nas dopoldne delno jasno, popoldne se bo obla\u010dnost pove\u010dala, nastalo bo nekaj neviht. Drugod bo spremenljivo do prete\u017eno obla\u010dno, pogoste bodo krajevne plohe in nevihte.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
@@ -48,11 +48,15 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "Jutri Nad srednjo Evropo in severnim Sredozemljem je plitvo ciklonsko obmo\u010dje, hladna fronta je dosegla Alpe. Pred njo bo nad na\u0161e kraje z jugozahodnim vetrom dotekala vla\u017ena, topla in nestabilna zra\u010dna masa.", 
+                "para": "V \u010detrtek Nad srednjo Evropo in severnim Sredozemljem je plitvo ciklonsko obmo\u010dje, hladna fronta je dosegla Alpe. Pred njo bo nad na\u0161e kraje z jugozahodnim vetrom dotekala vla\u017ena, topla in nestabilna zra\u010dna masa.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V no\u010di na petek se bo de\u017e raz\u0161iril nad ve\u010dji del Slovenije, vmes bodo tudi nevihte. V petek dopoldne bodo padavine oslabele in ve\u010dinoma ponehale, obla\u010dnost se bo trgala. Popoldne bo nastalo \u0161e nekaj krajevnih ploh in tudi kak\u0161na nevihta. V soboto bo prete\u017eno obla\u010dno, ob\u010dasno bodo \u0161e manj\u0161e padavine, ki bodo pogostej\u0161e na zahodu.", 
+                "para": [
+                    "V no\u010di na petek se bo de\u017e raz\u0161iril nad ve\u010dji del Slovenije, vmes bodo tudi nevihte. V petek dopoldne bodo padavine oslabele in ve\u010dinoma ponehale, obla\u010dnost se bo trgala. Popoldne bo nastalo \u0161e nekaj krajevnih ploh in tudi kak\u0161na nevihta. ", 
+                    "V soboto bo prete\u017eno obla\u010dno, ob\u010dasno bodo \u0161e krajevne padavine, ki bodo pogostej\u0161e na zahodu. ", 
+                    "V nedeljo bo obla\u010dno in de\u017eevno. "
+                ], 
                 "title": "OBETI"
             }, 
             {
@@ -64,7 +68,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-09-15T14:43:47+00:00", 
+        "tsUpdated": "2021-09-15T15:38:30+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -514,7 +518,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -557,7 +561,7 @@
                 }
             }
         ], 
-        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
         "updated": "2021-09-15T15:09:00+00:00"
     }
