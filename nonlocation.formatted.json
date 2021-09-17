@@ -1,16 +1,16 @@
 {
     "fcast_si_hint": {
         "articleinfo": {
-            "pubdate": "Friday, 17.9.2021 ob 4h", 
+            "pubdate": "Friday, 17.9.2021 ob 7h", 
             "title": "Vremenski namig", 
-            "tsValid_issued": "2021-09-17 04:03"
+            "tsValid_issued": "2021-09-17 07:53"
         }, 
         "section": [
             {
                 "id": "fcast_SLOVENIA_d1", 
                 "para": [
                     {
-                        "para": "Dobro jutro, danes bo obla\u010dno s padavinami, na jugu tudi nevihtami, ki bodo proti ve\u010deru ponehale. Jutri bo son\u010dno\u2026 https://t.co/leA0JuXDe4"
+                        "para": "Od v\u010deraj do danes zjutraj je bilo najve\u010d padavin na zahodu - od 20 do 70 mm. Dobro je namo\u010dilo dele Vipavske dolin\u2026 https://t.co/BKZEZGEZNy"
                     }
                 ], 
                 "title": "Zadnja novica"
@@ -517,7 +517,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -552,7 +552,7 @@
                                 "degree": "yellow", 
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
-                                "validEnd": "2021-09-17T14:59:00+00:00", 
+                                "validEnd": "2021-09-17T10:59:00+00:00", 
                                 "validStart": "2021-09-17T06:00:00+00:00"
                             }
                         ], 
@@ -569,7 +569,7 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
         "updated": "2021-09-17T05:15:00+00:00"
     }
