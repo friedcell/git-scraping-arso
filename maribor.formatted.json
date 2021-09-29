@@ -21,30 +21,6 @@
                             "timeline": [
                                 {
                                     "cloudBase_shortText": "nizka", 
-                                    "clouds_icon_wwsyn_icon": "overcast_modRA_night", 
-                                    "clouds_shortText": "obla\u010dno", 
-                                    "clouds_shortText_wwsyn_shortText": "de\u017e", 
-                                    "dd_shortText": "Z", 
-                                    "ddff_icon": "lightW", 
-                                    "ff_shortText": "\u0161ibek Z", 
-                                    "ff_val": "6", 
-                                    "ffmax_val": "", 
-                                    "interval": "60", 
-                                    "msl": "1024", 
-                                    "pa_shortText": "raste", 
-                                    "rh": "91", 
-                                    "rh_shortText": "visoka", 
-                                    "sn_acc": "0.0", 
-                                    "t": "14", 
-                                    "time": "0", 
-                                    "tp_acc": "1.8", 
-                                    "valid": "2021-09-29T22:00:00+00:00", 
-                                    "wwsyn_decodeText": "RA", 
-                                    "wwsyn_icon": "modRA", 
-                                    "wwsyn_shortText": "de\u017e"
-                                }, 
-                                {
-                                    "cloudBase_shortText": "nizka", 
                                     "clouds_icon_wwsyn_icon": "overcast_night", 
                                     "clouds_shortText": "obla\u010dno", 
                                     "clouds_shortText_wwsyn_shortText": "obla\u010dno", 
@@ -924,8 +900,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-09-29T21:23:39+00:00", 
-        "tsValid": "2021-09-29 21:00", 
+        "tsUpdated": "2021-09-29T22:23:24+00:00", 
+        "tsValid": "2021-09-29 22:00", 
         "type": "FeatureCollection"
     }, 
     "forecast24h": {
@@ -2646,8 +2622,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-09-29T21:22:02+00:00", 
-        "tsValid": "2021-09-29 21:00", 
+        "tsUpdated": "2021-09-29T22:21:55+00:00", 
+        "tsValid": "2021-09-29 22:00", 
         "type": "FeatureCollection"
     }, 
     "forecast6h": {
@@ -2678,17 +2654,17 @@
                                     "dd_shortText": "Z", 
                                     "ddff_icon": "lightW", 
                                     "ff_shortText": "\u0161ibek Z", 
-                                    "ff_val": "7", 
+                                    "ff_val": "3", 
                                     "ffmax_val": "", 
                                     "interval": "360", 
                                     "msl": "1024", 
                                     "pa_shortText": "ustaljen", 
-                                    "rh": "86", 
+                                    "rh": "88", 
                                     "rh_shortText": "visoka", 
                                     "sn_acc": "0.0", 
                                     "t": "13", 
                                     "time": "120", 
-                                    "tp_acc": "2.3", 
+                                    "tp_acc": "0.8", 
                                     "valid": "2021-09-30T00:00:00+00:00", 
                                     "wwsyn_decodeText": "RA", 
                                     "wwsyn_icon": "", 
@@ -3783,8 +3759,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-09-29T21:23:23+00:00", 
-        "tsValid": "2021-09-29 21:00", 
+        "tsUpdated": "2021-09-29T22:23:18+00:00", 
+        "tsValid": "2021-09-29 22:00", 
         "type": "FeatureCollection"
     }, 
     "observation": {
@@ -3804,38 +3780,38 @@
                     "days": [
                         {
                             "UTCoffset": "+02:00", 
-                            "date": "2021-09-29", 
+                            "date": "2021-09-30", 
                             "sunrise": "2021-09-29T06:54:00+02:00", 
                             "sunset": "2021-09-29T18:41:00+02:00", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "overcast_heavyRA_night", 
+                                    "clouds_icon_wwsyn_icon": "overcast_modRA_night", 
                                     "clouds_shortText": "obla\u010dno", 
                                     "clouds_shortText_wwsyn_shortText": "de\u017euje", 
                                     "dd_shortText": "Z", 
                                     "ddff_icon": "", 
                                     "ff_shortText": "\u0161ibek Z", 
-                                    "ff_val": "3", 
+                                    "ff_val": "6", 
                                     "ffmax_val": "", 
                                     "interval": "", 
                                     "msl": "1024", 
                                     "pa_shortText": "raste", 
-                                    "rh": "88", 
+                                    "rh": "91", 
                                     "rh_shortText": "visoka", 
-                                    "t": "15", 
-                                    "time": "1380", 
-                                    "valid": "2021-09-29T21:00:00+00:00", 
+                                    "t": "14", 
+                                    "time": "0", 
+                                    "valid": "2021-09-29T22:00:00+00:00", 
                                     "webcam": [
                                         {
                                             "direction": "", 
-                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20210929-2100_MARIBOR_VRBAN-PLA_sw.jpg"
+                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20210929-2200_MARIBOR_VRBAN-PLA_sw.jpg"
                                         }, 
                                         {
                                             "direction": "", 
-                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20210929-2100_MARIBOR_VRBAN-PLA_ne.jpg"
+                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20210929-2200_MARIBOR_VRBAN-PLA_ne.jpg"
                                         }
                                     ], 
-                                    "wwsyn_icon": "heavyRA", 
+                                    "wwsyn_icon": "modRA", 
                                     "wwsyn_shortText": "de\u017euje"
                                 }
                             ]
@@ -3927,8 +3903,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-09-29T21:19:45+00:00", 
-        "tsValid": "2021-09-29 21:00", 
+        "tsUpdated": "2021-09-29T22:19:41+00:00", 
+        "tsValid": "2021-09-29 22:00", 
         "type": "FeatureCollection"
     }
 }
