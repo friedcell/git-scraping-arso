@@ -15,38 +15,6 @@
                     "days": [
                         {
                             "UTCoffset": "+02:00", 
-                            "date": "2021-10-02", 
-                            "sunrise": "2021-10-02T06:55:00+02:00", 
-                            "sunset": "2021-10-02T18:33:00+02:00", 
-                            "timeline": [
-                                {
-                                    "cloudBase_shortText": "", 
-                                    "clouds_icon_wwsyn_icon": "clear_lightFG_night", 
-                                    "clouds_shortText": "jasno", 
-                                    "clouds_shortText_wwsyn_shortText": "jasno", 
-                                    "dd_shortText": "V", 
-                                    "ddff_icon": "lightE", 
-                                    "ff_shortText": "\u0161ibek V", 
-                                    "ff_val": "1", 
-                                    "ffmax_val": "", 
-                                    "interval": "60", 
-                                    "msl": "1019", 
-                                    "pa_shortText": "ustaljen", 
-                                    "rh": "100", 
-                                    "rh_shortText": "visoka", 
-                                    "sn_acc": "0.0", 
-                                    "t": "10", 
-                                    "time": "1380", 
-                                    "tp_acc": "0.0", 
-                                    "valid": "2021-10-02T21:00:00+00:00", 
-                                    "wwsyn_decodeText": "RA", 
-                                    "wwsyn_icon": "lightFG", 
-                                    "wwsyn_shortText": ""
-                                }
-                            ]
-                        }, 
-                        {
-                            "UTCoffset": "+02:00", 
                             "date": "2021-10-03", 
                             "sunrise": "2021-10-02T06:55:00+02:00", 
                             "sunset": "2021-10-02T18:33:00+02:00", 
@@ -812,8 +780,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-10-02T20:22:50+00:00", 
-        "tsValid": "2021-10-02 20:00", 
+        "tsUpdated": "2021-10-02T21:22:43+00:00", 
+        "tsValid": "2021-10-02 21:00", 
         "type": "FeatureCollection"
     }, 
     "forecast24h": {
@@ -940,16 +908,16 @@
                                     "dd_shortText": "J", 
                                     "ddff_icon": "lightS", 
                                     "ff_shortText": "\u0161ibek J", 
-                                    "ff_val": "14", 
+                                    "ff_val": "13", 
                                     "ffmax_val": "", 
                                     "interval": "1440", 
                                     "msl": "1015", 
                                     "pa_shortText": "pada", 
-                                    "rh": "67", 
+                                    "rh": "70", 
                                     "rh_shortText": "srednja", 
                                     "time": "840", 
                                     "tnsyn": "16", 
-                                    "tp_24h_acc": "0", 
+                                    "tp_24h_acc": "0.2", 
                                     "txsyn": "24", 
                                     "valid": "2021-10-05T12:00:00+00:00", 
                                     "wwsyn_decodeText": "RA", 
@@ -1303,38 +1271,6 @@
                 "properties": {
                     "country": "SI", 
                     "days": [
-                        {
-                            "UTCoffset": "+02:00", 
-                            "date": "2021-10-02", 
-                            "sunrise": "2021-10-02T06:55:00+02:00", 
-                            "sunset": "2021-10-02T18:33:00+02:00", 
-                            "timeline": [
-                                {
-                                    "cloudBase_shortText": "", 
-                                    "clouds_icon_wwsyn_icon": "clear_lightFG_night", 
-                                    "clouds_shortText": "jasno", 
-                                    "clouds_shortText_wwsyn_shortText": "jasno", 
-                                    "dd_shortText": "V", 
-                                    "ddff_icon": "lightE", 
-                                    "ff_shortText": "\u0161ibek V", 
-                                    "ff_val": "1", 
-                                    "ffmax_val": "", 
-                                    "interval": "180", 
-                                    "msl": "1019", 
-                                    "pa_shortText": "ustaljen", 
-                                    "rh": "100", 
-                                    "rh_shortText": "visoka", 
-                                    "sn_acc": "0.0", 
-                                    "t": "10", 
-                                    "time": "1380", 
-                                    "tp_acc": "0.0", 
-                                    "valid": "2021-10-02T21:00:00+00:00", 
-                                    "wwsyn_decodeText": "RA", 
-                                    "wwsyn_icon": "lightFG", 
-                                    "wwsyn_shortText": ""
-                                }
-                            ]
-                        }, 
                         {
                             "UTCoffset": "+02:00", 
                             "date": "2021-10-03", 
@@ -2566,8 +2502,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-10-02T20:21:57+00:00", 
-        "tsValid": "2021-10-02 20:00", 
+        "tsUpdated": "2021-10-02T21:21:44+00:00", 
+        "tsValid": "2021-10-02 21:00", 
         "type": "FeatureCollection"
     }, 
     "forecast6h": {
@@ -3703,8 +3639,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-10-02T20:22:59+00:00", 
-        "tsValid": "2021-10-02 20:00", 
+        "tsUpdated": "2021-10-02T21:22:48+00:00", 
+        "tsValid": "2021-10-02 21:00", 
         "type": "FeatureCollection"
     }, 
     "observation": {
@@ -3729,33 +3665,33 @@
                             "sunset": "2021-10-02T18:33:00+02:00", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "clear_lightFG_night", 
+                                    "clouds_icon_wwsyn_icon": "clear_night", 
                                     "clouds_shortText": "jasno", 
                                     "clouds_shortText_wwsyn_shortText": "jasno", 
-                                    "dd_shortText": "JV", 
+                                    "dd_shortText": "V", 
                                     "ddff_icon": "", 
-                                    "ff_shortText": "\u0161ibek JV", 
-                                    "ff_val": "5", 
+                                    "ff_shortText": "\u0161ibek V", 
+                                    "ff_val": "6", 
                                     "ffmax_val": "", 
                                     "interval": "", 
-                                    "msl": "1020", 
+                                    "msl": "1019", 
                                     "pa_shortText": "ustaljen", 
-                                    "rh": "100", 
+                                    "rh": "98", 
                                     "rh_shortText": "visoka", 
                                     "t": "11", 
-                                    "time": "1320", 
-                                    "valid": "2021-10-02T20:00:00+00:00", 
+                                    "time": "1380", 
+                                    "valid": "2021-10-02T21:00:00+00:00", 
                                     "webcam": [
                                         {
                                             "direction": "", 
-                                            "image": "MURSK-SOB_dir/siwc_20211002-2000_MURSK-SOB_nw.jpg"
+                                            "image": "MURSK-SOB_dir/siwc_20211002-2100_MURSK-SOB_nw.jpg"
                                         }, 
                                         {
                                             "direction": "", 
-                                            "image": "MURSK-SOB_dir/siwc_20211002-2000_MURSK-SOB_sw.jpg"
+                                            "image": "MURSK-SOB_dir/siwc_20211002-2100_MURSK-SOB_sw.jpg"
                                         }
                                     ], 
-                                    "wwsyn_icon": "lightFG", 
+                                    "wwsyn_icon": "", 
                                     "wwsyn_shortText": ""
                                 }
                             ]
@@ -3847,8 +3783,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-10-02T20:19:48+00:00", 
-        "tsValid": "2021-10-02 20:00", 
+        "tsUpdated": "2021-10-02T21:26:17+00:00", 
+        "tsValid": "2021-10-02 21:00", 
         "type": "FeatureCollection"
     }
 }
