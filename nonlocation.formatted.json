@@ -19,20 +19,23 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Nedelja, 3.10.2021 ob 11h", 
+            "pubdate": "Nedelja, 3.10.2021 ob 13h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-10-03 10:49"
+            "tsValid_issued": "2021-10-03 13:23"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Popoldne bo v zahodni in delu osrednje Slovenije prete\u017eno obla\u010dno, ob\u010dasno bodo krajevne padavine, ki bodo pogostej\u0161e v hribovitih krajih na zahodu. V vzhodni polovici Slovenije bo son\u010dno. \u010cez dan se bo krepil jugozahodni veter, ob morju jugo. Najvi\u0161je dnevne temperature bodo od 18 do 22, ob morju in v vzhodni Sloveniji do okoli 25 \u00b0C.", 
+                "para": [
+                    "Popoldne bo v zahodni in delu osrednje Slovenije prete\u017eno obla\u010dno, ob\u010dasno bodo krajevne padavine, ki bodo pogostej\u0161e v hribovitih krajih na zahodu. V vzhodni polovici Slovenije bo son\u010dno. \u010cez dan se bo krepil jugozahodni veter, ob morju jugo. Najvi\u0161je dnevne temperature bodo od 18 do 22, ob morju in v vzhodni Sloveniji do okoli 25 \u00b0C. \n", 
+                    "Pono\u010di bo v zahodni polovici prete\u017eno obla\u010dno, ob\u010dasno bodo padavine, ki se bodo v Zgornjem Poso\u010dju okrepile. Na vzhodu bo pihal jugozahodni veter, ob morju jugo. V vzhodni polovici Slovenije bo jasno. Najni\u017eje  temperature bodo od 9 do 14, na Primorskem okoli 17 \u00b0C. "
+                ], 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo v osrednji in vzhodni Sloveniji pove\u010dini son\u010dno. V zahodni polovici bo spremenljivo do prete\u017eno obla\u010dno z ob\u010dasnimi krajevnimi padavinami, ki jih bo najve\u010d v Poso\u010dju. Pihal bo jugozahodni veter, ob morju jugo. Jutranje temperature bodo od 9 do 14, na Primorskem okoli 17, najvi\u0161je dnevne od 17 do 25 \u00b0C.", 
+                "para": "Jutri bo v osrednji in vzhodni Sloveniji pove\u010dini son\u010dno. V zahodni polovici bo spremenljivo do prete\u017eno obla\u010dno z ob\u010dasnimi krajevnimi padavinami, ki jih bo najve\u010d v Poso\u010dju. Pihal bo jugozahodni veter, ob morju jugo. Najvi\u0161je dnevne temperature bodo od 17 do 25 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -63,7 +66,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-10-03T08:49:25+00:00", 
+        "tsUpdated": "2021-10-03T11:23:55+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -88,8 +91,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "clear_day", 
                                     "interval": "", 
-                                    "time": "720", 
-                                    "valid": "2021-10-03T10:00:00+00:00", 
+                                    "time": "780", 
+                                    "valid": "2021-10-03T11:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -121,8 +124,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "partCloudy_day", 
                                     "interval": "", 
-                                    "time": "720", 
-                                    "valid": "2021-10-03T10:00:00+00:00", 
+                                    "time": "780", 
+                                    "valid": "2021-10-03T11:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -154,8 +157,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "prevCloudy_day", 
                                     "interval": "", 
-                                    "time": "720", 
-                                    "valid": "2021-10-03T10:00:00+00:00", 
+                                    "time": "780", 
+                                    "valid": "2021-10-03T11:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -185,12 +188,12 @@
                             "date": "2021-10-03", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "overcast_heavyTSRA_day", 
+                                    "clouds_icon_wwsyn_icon": "prevCloudy_day", 
                                     "interval": "", 
-                                    "time": "720", 
-                                    "valid": "2021-10-03T10:00:00+00:00", 
-                                    "vis_shortText": "1-5", 
-                                    "wwsyn_icon": "heavyTSRA"
+                                    "time": "780", 
+                                    "valid": "2021-10-03T11:00:00+00:00", 
+                                    "vis_shortText": ">10", 
+                                    "wwsyn_icon": ""
                                 }
                             ]
                         }
@@ -222,7 +225,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-10-03T10:13:07+00:00", 
+        "tsUpdated": "2021-10-03T11:13:15+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -247,10 +250,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "4", 
-                                    "pm10_val": "9", 
-                                    "time": "720", 
-                                    "valid": "2021-10-03T10:00:00+00:00"
+                                    "no2_val": "3", 
+                                    "pm10_val": "8", 
+                                    "time": "780", 
+                                    "valid": "2021-10-03T11:00:00+00:00"
                                 }
                             ]
                         }
@@ -279,10 +282,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "", 
-                                    "pm10_val": "21", 
-                                    "time": "720", 
-                                    "valid": "2021-10-03T10:00:00+00:00"
+                                    "no2_val": "15", 
+                                    "pm10_val": "14", 
+                                    "time": "780", 
+                                    "valid": "2021-10-03T11:00:00+00:00"
                                 }
                             ]
                         }
@@ -312,9 +315,9 @@
                                 {
                                     "interval": "", 
                                     "no2_val": "0", 
-                                    "pm10_val": "10", 
-                                    "time": "720", 
-                                    "valid": "2021-10-03T10:00:00+00:00"
+                                    "pm10_val": "9", 
+                                    "time": "780", 
+                                    "valid": "2021-10-03T11:00:00+00:00"
                                 }
                             ]
                         }
@@ -343,10 +346,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "34", 
-                                    "pm10_val": "11", 
-                                    "time": "720", 
-                                    "valid": "2021-10-03T10:00:00+00:00"
+                                    "no2_val": "14", 
+                                    "pm10_val": "10", 
+                                    "time": "780", 
+                                    "valid": "2021-10-03T11:00:00+00:00"
                                 }
                             ]
                         }
@@ -373,7 +376,7 @@
                 "unit": "\u03bcg/m\u00b3"
             }
         }, 
-        "tsUpdated": "2021-10-03T10:12:01+00:00", 
+        "tsUpdated": "2021-10-03T11:12:01+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -396,9 +399,9 @@
                             "date": "2021-10-03", 
                             "timeline": [
                                 {
-                                    "time": "720", 
+                                    "time": "780", 
                                     "tw": "16", 
-                                    "valid": "2021-10-03T10:00:00+00:00", 
+                                    "valid": "2021-10-03T11:00:00+00:00", 
                                     "wLev": "15"
                                 }
                             ]
@@ -425,9 +428,9 @@
                             "date": "2021-10-03", 
                             "timeline": [
                                 {
-                                    "time": "720", 
+                                    "time": "780", 
                                     "tw": "19", 
-                                    "valid": "2021-10-03T10:00:00+00:00", 
+                                    "valid": "2021-10-03T11:00:00+00:00", 
                                     "wLev": "45"
                                 }
                             ]
@@ -454,9 +457,9 @@
                             "date": "2021-10-03", 
                             "timeline": [
                                 {
-                                    "time": "720", 
-                                    "tw": "16", 
-                                    "valid": "2021-10-03T10:00:00+00:00", 
+                                    "time": "780", 
+                                    "tw": "17", 
+                                    "valid": "2021-10-03T11:00:00+00:00", 
                                     "wLev": "15"
                                 }
                             ]
@@ -483,10 +486,10 @@
                             "date": "2021-10-03", 
                             "timeline": [
                                 {
-                                    "time": "720", 
+                                    "time": "780", 
                                     "tw": "21", 
-                                    "valid": "2021-10-03T10:00:00+00:00", 
-                                    "wLev": "234"
+                                    "valid": "2021-10-03T11:00:00+00:00", 
+                                    "wLev": "220"
                                 }
                             ]
                         }
@@ -513,7 +516,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -563,7 +566,7 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
         "updated": "2021-10-03T08:19:00+00:00"
     }
