@@ -32,30 +32,6 @@
                                     "interval": "60", 
                                     "msl": "1016", 
                                     "pa_shortText": "pada", 
-                                    "rh": "95", 
-                                    "rh_shortText": "visoka", 
-                                    "sn_acc": "0.0", 
-                                    "t": "12", 
-                                    "time": "420", 
-                                    "tp_acc": "0.0", 
-                                    "valid": "2021-10-05T05:00:00+00:00", 
-                                    "wwsyn_decodeText": "RA", 
-                                    "wwsyn_icon": "", 
-                                    "wwsyn_shortText": ""
-                                }, 
-                                {
-                                    "cloudBase_shortText": "", 
-                                    "clouds_icon_wwsyn_icon": "clear_day", 
-                                    "clouds_shortText": "jasno", 
-                                    "clouds_shortText_wwsyn_shortText": "jasno", 
-                                    "dd_shortText": "JV", 
-                                    "ddff_icon": "lightSE", 
-                                    "ff_shortText": "\u0161ibek JV", 
-                                    "ff_val": "5", 
-                                    "ffmax_val": "", 
-                                    "interval": "60", 
-                                    "msl": "1016", 
-                                    "pa_shortText": "pada", 
                                     "rh": "93", 
                                     "rh_shortText": "visoka", 
                                     "sn_acc": "0.0", 
@@ -900,8 +876,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-10-05T04:23:31+00:00", 
-        "tsValid": "2021-10-05 04:00", 
+        "tsUpdated": "2021-10-05T05:23:05+00:00", 
+        "tsValid": "2021-10-05 05:00", 
         "type": "FeatureCollection"
     }, 
     "forecast24h": {
@@ -932,7 +908,7 @@
                                     "dd_shortText": "J", 
                                     "ddff_icon": "lightS", 
                                     "ff_shortText": "\u0161ibek J", 
-                                    "ff_val": "13", 
+                                    "ff_val": "12", 
                                     "ffmax_val": "61", 
                                     "interval": "1440", 
                                     "msl": "1016", 
@@ -1341,7 +1317,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-10-05T04:24:16+00:00", 
+        "tsUpdated": "2021-10-05T05:24:11+00:00", 
         "tsValid": "2021-10-05 12:00", 
         "type": "FeatureCollection"
     }, 
@@ -2542,8 +2518,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-10-05T04:22:04+00:00", 
-        "tsValid": "2021-10-05 04:00", 
+        "tsUpdated": "2021-10-05T05:22:06+00:00", 
+        "tsValid": "2021-10-05 05:00", 
         "type": "FeatureCollection"
     }, 
     "forecast6h": {
@@ -3655,8 +3631,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-10-05T04:23:29+00:00", 
-        "tsValid": "2021-10-05 04:00", 
+        "tsUpdated": "2021-10-05T05:23:22+00:00", 
+        "tsValid": "2021-10-05 05:00", 
         "type": "FeatureCollection"
     }, 
     "observation": {
@@ -3681,30 +3657,30 @@
                             "sunset": "2021-10-05T18:27:00+02:00", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "clear_night", 
+                                    "clouds_icon_wwsyn_icon": "clear_day", 
                                     "clouds_shortText": "jasno", 
                                     "clouds_shortText_wwsyn_shortText": "jasno", 
                                     "dd_shortText": "JV", 
-                                    "ddff_icon": "lightSE", 
+                                    "ddff_icon": "", 
                                     "ff_shortText": "\u0161ibek JV", 
-                                    "ff_val": "11", 
+                                    "ff_val": "5", 
                                     "ffmax_val": "", 
                                     "interval": "", 
                                     "msl": "1016", 
                                     "pa_shortText": "pada", 
-                                    "rh": "92", 
+                                    "rh": "95", 
                                     "rh_shortText": "visoka", 
                                     "t": "12", 
-                                    "time": "360", 
-                                    "valid": "2021-10-05T04:00:00+00:00", 
+                                    "time": "420", 
+                                    "valid": "2021-10-05T05:00:00+00:00", 
                                     "webcam": [
                                         {
                                             "direction": "", 
-                                            "image": "MURSK-SOB_dir/siwc_20211005-0400_MURSK-SOB_nw.jpg"
+                                            "image": "MURSK-SOB_dir/siwc_20211005-0500_MURSK-SOB_nw.jpg"
                                         }, 
                                         {
                                             "direction": "", 
-                                            "image": "MURSK-SOB_dir/siwc_20211005-0400_MURSK-SOB_sw.jpg"
+                                            "image": "MURSK-SOB_dir/siwc_20211005-0500_MURSK-SOB_sw.jpg"
                                         }
                                     ], 
                                     "wwsyn_icon": "", 
@@ -3799,8 +3775,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-10-05T04:19:46+00:00", 
-        "tsValid": "2021-10-05 04:00", 
+        "tsUpdated": "2021-10-05T05:19:45+00:00", 
+        "tsValid": "2021-10-05 05:00", 
         "type": "FeatureCollection"
     }
 }
