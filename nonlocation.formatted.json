@@ -19,24 +19,23 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "\u010cetrtek, 7.10.2021 ob 15h", 
+            "pubdate": "\u010cetrtek, 7.10.2021 ob 16h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-10-07 15:24"
+            "tsValid_issued": "2021-10-07 15:44"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Popoldne bo obla\u010dno. Predvsem v vzhodni in ju\u017eni Sloveniji bo de\u017eevalo. Pihal bo okrepljen severni do severovzhodni veter, na Primorskem zmerna do mo\u010dna burja. Najvi\u0161je dnevne temperature bodo od 8 do 13, na Primorskem do 18 \u00b0C.", 
+                "para": "Pono\u010di bo obla\u010dno, \u0161e bo ob\u010dasno de\u017eevalo. Pihal bo okrepljen severni do severovzhodni veter, na Primorskem zmerna do mo\u010dna burja. Najni\u017eje jutranje temperature bodo od 7 do 12, ob morju 14 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo prete\u017eno obla\u010dno. Do jutra bo de\u017e oslabel in \u010dez dan ponehal, v jugovzhodnih krajih \u0161ele popoldne. \u0160e bo pihal severovzhodni veter, na Primorskem ve\u010dinoma zmerna burja. Najni\u017eje jutranje temperature bodo od 7 do 12, ob morju 14, najvi\u0161je dnevne od 10 do 15, na Primorskem do 18 \u00b0C.", 
+                "para": "Jutri bo prete\u017eno obla\u010dno. Do jutra bo de\u017e oslabel in \u010dez dan ponehal, v jugovzhodnih krajih \u0161ele popoldne. \u0160e bo pihal severovzhodni veter, na Primorskem ve\u010dinoma zmerna burja. Najvi\u0161je dnevne temperature bodo od 10 do 15, na Primorskem do 18 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Popoldne bo de\u017eevno, hladno in vetrovno. V krajih zahodno od nas bo de\u017eja malo. Ob severnem Jadranu bo pihala zmerna do mo\u010dna burja.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
@@ -60,11 +59,11 @@
                 "title": "OPOZORILO"
             }, 
             {
-                "para": "Popoldne bo vetrovno. Predvsem v vzhodni in ju\u017eni Sloveniji bo de\u017eevalo. Do jutri zjutraj bo de\u017e oslabel in \u010dez dan postopno ponehal.", 
+                "para": "Pono\u010di bo vetrovno, \u0161e bo ob\u010dasno de\u017eevalo. Do petkovega jutra bo de\u017e oslabel in \u010dez dan postopno ponehal.", 
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-10-07T13:24:23+00:00", 
+        "tsUpdated": "2021-10-07T13:45:03+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -530,7 +529,7 @@
                                 "parameter_desc": "Veter", 
                                 "region_map": "warning_wind_si-region_d1hlast-d3h00.png", 
                                 "validEnd": "2021-10-08T07:59:00+00:00", 
-                                "validStart": "2021-10-07T12:00:00+00:00"
+                                "validStart": "2021-10-07T13:00:00+00:00"
                             }
                         ], 
                         "interval": "2 days", 
@@ -543,14 +542,14 @@
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
                                 "validEnd": "2021-10-08T07:59:00+00:00", 
-                                "validStart": "2021-10-07T12:00:00+00:00"
+                                "validStart": "2021-10-07T13:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningRain", 
                                 "parameter_desc": "De\u017e", 
                                 "validEnd": "2021-10-07T22:59:00+00:00", 
-                                "validStart": "2021-10-07T12:00:00+00:00"
+                                "validStart": "2021-10-07T13:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
