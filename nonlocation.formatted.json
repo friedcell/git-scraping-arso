@@ -526,15 +526,7 @@
                         "type": "maxDegreeEvent"
                     }, 
                     {
-                        "event": [
-                            {
-                                "degree": "yellow", 
-                                "parameter": "WarningTn", 
-                                "parameter_desc": "Nizka temperatura", 
-                                "validEnd": "2021-10-14T07:59:00+00:00", 
-                                "validStart": "2021-10-14T04:00:00+00:00"
-                            }
-                        ], 
+                        "event": "", 
                         "interval": "5 days", 
                         "type": "maxDegreeEvent"
                     }
@@ -550,6 +542,6 @@
         ], 
         "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-10-13T06:46:00+00:00"
+        "updated": "2021-10-14T05:51:00+00:00"
     }
 }
