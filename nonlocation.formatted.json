@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Torek, 19.10.2021 ob 6h", 
+            "pubdate": "Torek, 19.10.2021 ob 9h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-10-19 05:58"
+            "tsValid_issued": "2021-10-19 08:50"
         }, 
         "dataType": "", 
         "features": "", 
@@ -32,7 +32,7 @@
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo sprva precej jasno z meglo po ni\u017einah, \u010dez dan pa bo obla\u010dnost na zahodu nara\u0161\u010dala. Popoldne bo pove\u010dini son\u010dno, le v hribovitem svetu zahodne Slovenije bo ob\u010dasno \u017ee rahlo de\u017eevalo. Krepil se bo jugozahodni veter. Najni\u017eje jutranje temperature bodo od 0 do 5, ob morju in na Gori\u0161kem okoli 9, najvi\u0161je dnevne od 15 do 19, na vzhodu do 21 \u00b0C.", 
+                "para": "Jutri bo sprva precej jasno z meglo po ni\u017einah. \u010cez dan bo obla\u010dnost na zahodu nara\u0161\u010dala, v ve\u010djem delu Slovenije pa bo dan pove\u010dini son\u010den. Krepil se bo jugozahodni veter. V zahodnem hribovitem svetu bo popoldne in zve\u010der ob\u010dasno \u017ee rahlo de\u017eevalo. Jutranje temperature bodo od 1 do 6, ob morju in na Gori\u0161kem okoli 9, najvi\u0161je dnevne od 15 do 19, na vzhodu do 21 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -48,11 +48,12 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
+                "para": "Jutri Nad severnim delom Evrope je obse\u017eno in globoko ciklonsko obmo\u010dje, nad Sredozemljem pa vztraja obmo\u010dje visokega zra\u010dnega tlaka. Hladna fronta se od severozahoda bli\u017ea Alpam. Pred njo bo k nam od jugozahoda dotekal razmeroma topel in postopno bolj vla\u017een zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
                 "para": [
-                    "V \u010detrtek bo prete\u017eno obla\u010dno, nekaj jasnine bo sprva \u0161e v vzhodni Sloveniji. Predvsem v zahodnih in deloma osrednjih krajih bo ob\u010dasno de\u017eevalo. Pihal bo jugozahodni veter. Ob morju bo ve\u010dinoma suho, pihal bo jugo.", 
+                    "V \u010detrtek bo prete\u017eno obla\u010dno, predvsem v zahodnih in deloma osrednjih krajih bo ob\u010dasno de\u017eevalo. Nekaj jasnine bo sprva \u0161e v vzhodni Sloveniji. Pihal bo jugozahodni veter, ob morju jugo.", 
                     "V petek bo obla\u010dno z de\u017ejem, ki bo popoldne oslabel in do ve\u010dera ve\u010dinoma ponehal. Nekoliko hladneje bo."
                 ], 
                 "title": "OBETI"
@@ -66,7 +67,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-10-19T03:58:50+00:00", 
+        "tsUpdated": "2021-10-19T06:50:17+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -516,7 +517,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -544,6 +545,13 @@
                                 "parameter_desc": "De\u017e", 
                                 "validEnd": "2021-10-22T22:59:00+00:00", 
                                 "validStart": "2021-10-20T23:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningTS", 
+                                "parameter_desc": "Nevihte", 
+                                "validEnd": "2021-10-22T10:59:00+00:00", 
+                                "validStart": "2021-10-21T18:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -559,7 +567,7 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
         "updated": "2021-10-19T04:43:00+00:00"
     }
