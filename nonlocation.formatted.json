@@ -528,7 +528,15 @@
                         "type": "maxDegreeEvent"
                     }, 
                     {
-                        "event": "", 
+                        "event": [
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningRain", 
+                                "parameter_desc": "De\u017e", 
+                                "validEnd": "2021-11-01T21:59:00+00:00", 
+                                "validStart": "2021-11-01T11:00:00+00:00"
+                            }
+                        ], 
                         "interval": "5 days", 
                         "type": "maxDegreeEvent"
                     }
@@ -544,6 +552,6 @@
         ], 
         "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-10-27T04:31:00+00:00"
+        "updated": "2021-10-28T05:32:00+00:00"
     }
 }
