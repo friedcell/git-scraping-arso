@@ -545,6 +545,13 @@
                                 "parameter_desc": "De\u017e", 
                                 "validEnd": "2021-11-02T05:59:00+00:00", 
                                 "validStart": "2021-11-01T11:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningCoastal", 
+                                "parameter_desc": "Obalni dogodek", 
+                                "validEnd": "2021-11-01T19:59:00+00:00", 
+                                "validStart": "2021-11-01T17:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -562,6 +569,6 @@
         ], 
         "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-10-31T07:36:00+00:00"
+        "updated": "2021-10-31T15:54:00+00:00"
     }
 }
