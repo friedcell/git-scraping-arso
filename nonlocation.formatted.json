@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Torek, 2.11.2021 ob 7h", 
+            "pubdate": "Torek, 2.11.2021 ob 8h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-11-02 06:56"
+            "tsValid_issued": "2021-11-02 07:59"
         }, 
         "dataType": "", 
         "features": "", 
@@ -32,7 +32,7 @@
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo ve\u010dinoma obla\u010dno. Dopoldne bodo krajevne padavine v zahodni polovici Slovenije, popoldne se bodo pojavljale tudi drugod. Zve\u010der se bo de\u017e okrepil in raz\u0161iril nad vso dr\u017eavo. Ob morju bo ponovno zapihal okrepljen jugo, ponekod v notranjosti ju\u017eni veter. Jutranje temperature bodo od 2 do 6, na Primorskem od 9 do 13, najvi\u0161je dnevne od 7 do 14, na Primorskem do 18 \u00b0C.", 
+                "para": "Jutri bo ve\u010dinoma obla\u010dno. Dopoldne bodo krajevne padavine v zahodni polovici Slovenije, popoldne se bodo pojavljale tudi drugod. Zve\u010der se bo de\u017e okrepil in raz\u0161iril nad vso dr\u017eavo. Ob morju bo ponovno zapihal okrepljen jugo, ponekod v notranjosti ju\u017eni veter. Jutranje temperature bodo od 2 do 6, na Primorskem od 9 do 13, najvi\u0161je dnevne od 8 do 14, na Primorskem do 18 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -66,7 +66,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-11-02T05:56:49+00:00", 
+        "tsUpdated": "2021-11-02T06:59:13+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -487,7 +487,7 @@
                             "timeline": [
                                 {
                                     "time": "420", 
-                                    "tw": "", 
+                                    "tw": "16", 
                                     "valid": "2021-11-02T06:00:00+00:00", 
                                     "wLev": "294"
                                 }
@@ -535,15 +535,15 @@
                                 "degree": "yellow", 
                                 "parameter": "WarningRain", 
                                 "parameter_desc": "De\u017e", 
-                                "validEnd": "2021-11-02T05:59:00+00:00", 
-                                "validStart": "2021-11-02T05:00:00+00:00"
+                                "validEnd": "2021-11-04T17:59:00+00:00", 
+                                "validStart": "2021-11-03T15:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningCoastal", 
                                 "parameter_desc": "Obalni dogodek", 
                                 "validEnd": "2021-11-02T06:59:00+00:00", 
-                                "validStart": "2021-11-02T05:00:00+00:00"
+                                "validStart": "2021-11-02T06:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
