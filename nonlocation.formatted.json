@@ -525,7 +525,16 @@
                 "name": "Slovenija", 
                 "summary": [
                     {
-                        "event": "", 
+                        "event": [
+                            {
+                                "degree": "orange", 
+                                "parameter": "WarningCoastal", 
+                                "parameter_desc": "Obalni dogodek", 
+                                "region_map": "warning_coastal_si-region_d1hlast-d3h00.png", 
+                                "validEnd": "2021-11-03T21:59:00+00:00", 
+                                "validStart": "2021-11-03T18:00:00+00:00"
+                            }
+                        ], 
                         "interval": "2 days", 
                         "type": "maxDegreeEvent"
                     }, 
@@ -553,11 +562,11 @@
                                 "validStart": "2021-11-03T15:00:00+00:00"
                             }, 
                             {
-                                "degree": "yellow", 
+                                "degree": "orange", 
                                 "parameter": "WarningCoastal", 
                                 "parameter_desc": "Obalni dogodek", 
                                 "validEnd": "2021-11-03T21:59:00+00:00", 
-                                "validStart": "2021-11-03T17:00:00+00:00"
+                                "validStart": "2021-11-03T18:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
