@@ -527,16 +527,7 @@
                 "name": "Slovenija", 
                 "summary": [
                     {
-                        "event": [
-                            {
-                                "degree": "orange", 
-                                "parameter": "WarningCoastal", 
-                                "parameter_desc": "Obalni dogodek", 
-                                "region_map": "warning_coastal_si-region_d1hlast-d3h00.png", 
-                                "validEnd": "2021-11-03T21:59:00+00:00", 
-                                "validStart": "2021-11-03T21:00:00+00:00"
-                            }
-                        ], 
+                        "event": "", 
                         "interval": "2 days", 
                         "type": "maxDegreeEvent"
                     }, 
@@ -554,21 +545,21 @@
                                 "parameter": "WarningRain", 
                                 "parameter_desc": "De\u017e", 
                                 "validEnd": "2021-11-04T11:59:00+00:00", 
-                                "validStart": "2021-11-03T21:00:00+00:00"
+                                "validStart": "2021-11-03T22:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningTS", 
                                 "parameter_desc": "Nevihte", 
                                 "validEnd": "2021-11-04T06:59:00+00:00", 
-                                "validStart": "2021-11-03T21:00:00+00:00"
+                                "validStart": "2021-11-03T22:00:00+00:00"
                             }, 
                             {
-                                "degree": "orange", 
+                                "degree": "yellow", 
                                 "parameter": "WarningCoastal", 
                                 "parameter_desc": "Obalni dogodek", 
-                                "validEnd": "2021-11-03T21:59:00+00:00", 
-                                "validStart": "2021-11-03T21:00:00+00:00"
+                                "validEnd": "2021-11-04T09:59:00+00:00", 
+                                "validStart": "2021-11-04T06:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
