@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "\u010cetrtek, 11.11.2021 ob 7h", 
+            "pubdate": "\u010cetrtek, 11.11.2021 ob 8h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-11-11 06:51"
+            "tsValid_issued": "2021-11-11 07:42"
         }, 
         "dataType": "", 
         "features": "", 
@@ -47,6 +47,7 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
+                "para": "Jutri Nad jugovzhodom Evrope je obmo\u010dje visokega zra\u010dnega tlaka, nad zahodnim Sredozemljem pa ciklonsko obmo\u010dje. Od juga doteka k nam v vi\u0161inah postopno toplej\u0161i zrak, pri tleh pa se ob \u0161ibkem vetru zadr\u017euje razmeroma hladen in vla\u017een zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
@@ -65,7 +66,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-11-11T05:51:39+00:00", 
+        "tsUpdated": "2021-11-11T06:42:36+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -515,7 +516,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -543,8 +544,8 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-11-10T06:44:00+00:00"
+        "updated": "2021-11-11T06:00:00+00:00"
     }
 }
