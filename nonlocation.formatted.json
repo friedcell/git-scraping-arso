@@ -1,16 +1,16 @@
 {
     "fcast_si_hint": {
         "articleinfo": {
-            "pubdate": "Friday, 12.11.2021 ob 5h", 
+            "pubdate": "Saturday, 13.11.2021 ob 5h", 
             "title": "Vremenski namig", 
-            "tsValid_issued": "2021-11-12 05:02"
+            "tsValid_issued": "2021-11-13 05:02"
         }, 
         "section": [
             {
                 "id": "fcast_SLOVENIA_d1", 
                 "para": [
                     {
-                        "para": "Dobro jutro, danes bo na zahodu in nad 1000 m son\u010dno, drugod bo megla ali nizka obla\u010dnost. Jutri bo obla\u010dno, na zah\u2026 https://t.co/NOiVUwLt0J"
+                        "para": "Dobro jutro, danes in jutri bo obla\u010dno in ponekod megleno, ob\u010dasno bo lahko rosilo ali rahlo de\u017eevalo. https://t.co/nR1tfY8xRP"
                     }
                 ], 
                 "title": "Zadnja novica"
@@ -515,7 +515,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -529,7 +529,15 @@
                         "type": "maxDegreeEvent"
                     }, 
                     {
-                        "event": "", 
+                        "event": [
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningWind", 
+                                "parameter_desc": "Veter", 
+                                "validEnd": "2021-11-15T21:59:00+00:00", 
+                                "validStart": "2021-11-15T01:00:00+00:00"
+                            }
+                        ], 
                         "interval": "5 days", 
                         "type": "maxDegreeEvent"
                     }
@@ -543,8 +551,8 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-11-12T06:16:00+00:00"
+        "updated": "2021-11-13T05:36:00+00:00"
     }
 }
