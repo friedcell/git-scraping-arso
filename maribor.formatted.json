@@ -24,30 +24,6 @@
                                     "clouds_icon_wwsyn_icon": "overcast_night", 
                                     "clouds_shortText": "obla\u010dno", 
                                     "clouds_shortText_wwsyn_shortText": "obla\u010dno", 
-                                    "dd_shortText": "Z", 
-                                    "ddff_icon": "lightW", 
-                                    "ff_shortText": "\u0161ibek Z", 
-                                    "ff_val": "7", 
-                                    "ffmax_val": "", 
-                                    "interval": "60", 
-                                    "msl": "1022", 
-                                    "pa_shortText": "raste", 
-                                    "rh": "83", 
-                                    "rh_shortText": "visoka", 
-                                    "sn_acc": "0.0", 
-                                    "t": "6", 
-                                    "time": "1260", 
-                                    "tp_acc": "0.0", 
-                                    "valid": "2021-11-22T20:00:00+00:00", 
-                                    "wwsyn_decodeText": "RA", 
-                                    "wwsyn_icon": "", 
-                                    "wwsyn_shortText": ""
-                                }, 
-                                {
-                                    "cloudBase_shortText": "nizka", 
-                                    "clouds_icon_wwsyn_icon": "overcast_night", 
-                                    "clouds_shortText": "obla\u010dno", 
-                                    "clouds_shortText_wwsyn_shortText": "obla\u010dno", 
                                     "dd_shortText": "SZ", 
                                     "ddff_icon": "lightNW", 
                                     "ff_shortText": "\u0161ibek SZ", 
@@ -135,6 +111,30 @@
                                     "time": "1200", 
                                     "tp_acc": "0.0", 
                                     "valid": "2021-11-22T19:00:00+00:00", 
+                                    "wwsyn_decodeText": "RA", 
+                                    "wwsyn_icon": "", 
+                                    "wwsyn_shortText": ""
+                                }, 
+                                {
+                                    "cloudBase_shortText": "nizka", 
+                                    "clouds_icon_wwsyn_icon": "overcast_night", 
+                                    "clouds_shortText": "obla\u010dno", 
+                                    "clouds_shortText_wwsyn_shortText": "obla\u010dno", 
+                                    "dd_shortText": "SZ", 
+                                    "ddff_icon": "lightNW", 
+                                    "ff_shortText": "\u0161ibek SZ", 
+                                    "ff_val": "8", 
+                                    "ffmax_val": "", 
+                                    "interval": "60", 
+                                    "msl": "1021", 
+                                    "pa_shortText": "raste", 
+                                    "rh": "94", 
+                                    "rh_shortText": "visoka", 
+                                    "sn_acc": "0.0", 
+                                    "t": "4", 
+                                    "time": "1260", 
+                                    "tp_acc": "0.0", 
+                                    "valid": "2021-11-22T20:00:00+00:00", 
                                     "wwsyn_decodeText": "RA", 
                                     "wwsyn_icon": "", 
                                     "wwsyn_shortText": ""
@@ -732,8 +732,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-11-22T19:29:18+00:00", 
-        "tsValid": "2021-11-22 19:00", 
+        "tsUpdated": "2021-11-22T20:22:39+00:00", 
+        "tsValid": "2021-11-22 20:00", 
         "type": "FeatureCollection"
     }, 
     "forecast24h": {
@@ -2462,8 +2462,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-11-22T19:28:34+00:00", 
-        "tsValid": "2021-11-22 19:00", 
+        "tsUpdated": "2021-11-22T20:21:47+00:00", 
+        "tsValid": "2021-11-22 20:00", 
         "type": "FeatureCollection"
     }, 
     "forecast6h": {
@@ -3599,8 +3599,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-11-22T19:29:35+00:00", 
-        "tsValid": "2021-11-22 19:00", 
+        "tsUpdated": "2021-11-22T20:22:51+00:00", 
+        "tsValid": "2021-11-22 20:00", 
         "type": "FeatureCollection"
     }, 
     "observation": {
@@ -3636,19 +3636,19 @@
                                     "interval": "", 
                                     "msl": "1022", 
                                     "pa_shortText": "raste", 
-                                    "rh": "84", 
+                                    "rh": "83", 
                                     "rh_shortText": "visoka", 
                                     "t": "6", 
-                                    "time": "1200", 
-                                    "valid": "2021-11-22T19:00:00+00:00", 
+                                    "time": "1260", 
+                                    "valid": "2021-11-22T20:00:00+00:00", 
                                     "webcam": [
                                         {
                                             "direction": "", 
-                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20211122-1900_MARIBOR_VRBAN-PLA_sw.jpg"
+                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20211122-2000_MARIBOR_VRBAN-PLA_sw.jpg"
                                         }, 
                                         {
                                             "direction": "", 
-                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20211122-1900_MARIBOR_VRBAN-PLA_ne.jpg"
+                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20211122-2000_MARIBOR_VRBAN-PLA_ne.jpg"
                                         }
                                     ], 
                                     "wwsyn_icon": "", 
@@ -3743,8 +3743,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-11-22T19:26:41+00:00", 
-        "tsValid": "2021-11-22 19:00", 
+        "tsUpdated": "2021-11-22T20:25:12+00:00", 
+        "tsValid": "2021-11-22 20:00", 
         "type": "FeatureCollection"
     }
 }
