@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Torek, 23.11.2021 ob 6h", 
+            "pubdate": "Torek, 23.11.2021 ob 8h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-11-23 05:44"
+            "tsValid_issued": "2021-11-23 07:48"
         }, 
         "dataType": "", 
         "features": "", 
@@ -32,7 +32,7 @@
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo prete\u017eno jasno, po ni\u017einah bo zjutraj in dopoldne megla. Burja na Primorskem bo oslabela. Najni\u017eje jutranje temperature bodo od -2 do -7, na Primorskem okoli 4, najvi\u0161je dnevne od 3 do 8, na Primorskem do 12 \u00b0C.", 
+                "para": "Jutri bo prete\u017eno jasno, po ni\u017einah bo zjutraj in dopoldne megla. Burja na Primorskem bo oslabela. Najni\u017eje jutranje temperature bodo od -2 do -7, ob morju okoli 4, najvi\u0161je dnevne od 3 do 8, na Primorskem do 12 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -48,6 +48,7 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
+                "para": "Jutri Nad vzhodno in delom srednje Evrope je obmo\u010dje visokega zra\u010dnega tlaka, nad zahodnim Sredozemljem pa se poglablja ciklonsko obmo\u010dje. K nam v vi\u0161inah \u0161e priteka hladen in ve\u010dinoma suh zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
@@ -67,7 +68,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-11-23T04:45:04+00:00", 
+        "tsUpdated": "2021-11-23T06:49:03+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -517,7 +518,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -537,7 +538,7 @@
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
                                 "validEnd": "2021-11-23T21:59:00+00:00", 
-                                "validStart": "2021-11-23T05:00:00+00:00"
+                                "validStart": "2021-11-23T06:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -553,7 +554,7 @@
                 }
             }
         ], 
-        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
         "updated": "2021-11-23T06:16:00+00:00"
     }
