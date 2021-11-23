@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Torek, 23.11.2021 ob 8h", 
+            "pubdate": "Torek, 23.11.2021 ob 9h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-11-23 07:48"
+            "tsValid_issued": "2021-11-23 08:58"
         }, 
         "dataType": "", 
         "features": "", 
@@ -53,9 +53,9 @@
             }, 
             {
                 "para": [
-                    "V \u010detrtek bo na severovzhodu deloma son\u010dno, drugod se bo poobla\u010dilo, predvsem v zahodnih krajih bo ob\u010dasno de\u017eevalo.", 
-                    "V no\u010di na petek bodo padavine prehodno zajele vso dr\u017eavo. ", 
-                    "V petek bo obla\u010dno, \u0161e bo ob\u010dasno de\u017eevalo. "
+                    "V \u010detrtek bo na Primorskem obla\u010dno. Drugod bo sprva \u0161e deloma jasno, v notranjosti Slovenije bo po ni\u017einah megla. \u010cez dan se bo postopno poobla\u010dilo tudi drugod, le na severovzhodu bo \u0161e ostalo deloma son\u010dno. Predvsem v zahodnih krajih bo de\u017eevalo.", 
+                    "V no\u010di na petek se bodo padavine okrepile in prehodno zajele vso dr\u017eavo. ", 
+                    "V petek bo obla\u010dno z ob\u010dasnimi padavinami."
                 ], 
                 "title": "OBETI"
             }, 
@@ -68,7 +68,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-11-23T06:49:03+00:00", 
+        "tsUpdated": "2021-11-23T07:58:51+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -538,7 +538,14 @@
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
                                 "validEnd": "2021-11-23T21:59:00+00:00", 
-                                "validStart": "2021-11-23T06:00:00+00:00"
+                                "validStart": "2021-11-23T07:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningRain", 
+                                "parameter_desc": "De\u017e", 
+                                "validEnd": "2021-11-25T23:59:00+00:00", 
+                                "validStart": "2021-11-25T19:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
