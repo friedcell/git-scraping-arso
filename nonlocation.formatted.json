@@ -516,7 +516,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -533,10 +533,24 @@
                         "event": [
                             {
                                 "degree": "yellow", 
+                                "parameter": "WarningWind", 
+                                "parameter_desc": "Veter", 
+                                "validEnd": "2021-11-27T14:59:00+00:00", 
+                                "validStart": "2021-11-27T05:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
                                 "parameter": "WarningRain", 
                                 "parameter_desc": "De\u017e", 
                                 "validEnd": "2021-11-26T14:59:00+00:00", 
                                 "validStart": "2021-11-25T15:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningSnow", 
+                                "parameter_desc": "Sneg", 
+                                "validEnd": "2021-11-26T21:59:00+00:00", 
+                                "validStart": "2021-11-26T04:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -552,8 +566,8 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-11-24T07:22:00+00:00"
+        "updated": "2021-11-25T08:23:00+00:00"
     }
 }
