@@ -21,30 +21,6 @@
                             "timeline": [
                                 {
                                     "cloudBase_shortText": "nizka", 
-                                    "clouds_icon_wwsyn_icon": "overcast_lightSN_night", 
-                                    "clouds_shortText": "obla\u010dno", 
-                                    "clouds_shortText_wwsyn_shortText": "sne\u017eenje", 
-                                    "dd_shortText": "JV", 
-                                    "ddff_icon": "lightSE", 
-                                    "ff_shortText": "\u0161ibek JV", 
-                                    "ff_val": "6", 
-                                    "ffmax_val": "", 
-                                    "interval": "60", 
-                                    "msl": "997", 
-                                    "pa_shortText": "pada", 
-                                    "rh": "97", 
-                                    "rh_shortText": "visoka", 
-                                    "sn_acc": "0.4", 
-                                    "t": "1", 
-                                    "time": "420", 
-                                    "tp_acc": "0.4", 
-                                    "valid": "2021-11-27T06:00:00+00:00", 
-                                    "wwsyn_decodeText": "SN", 
-                                    "wwsyn_icon": "lightSN", 
-                                    "wwsyn_shortText": "sne\u017eenje"
-                                }, 
-                                {
-                                    "cloudBase_shortText": "nizka", 
                                     "clouds_icon_wwsyn_icon": "overcast_lightSN_day", 
                                     "clouds_shortText": "obla\u010dno", 
                                     "clouds_shortText_wwsyn_shortText": "sne\u017eenje", 
@@ -282,6 +258,30 @@
                                     "wwsyn_decodeText": "RA", 
                                     "wwsyn_icon": "", 
                                     "wwsyn_shortText": ""
+                                }, 
+                                {
+                                    "cloudBase_shortText": "nizka", 
+                                    "clouds_icon_wwsyn_icon": "overcast_lightRASN_night", 
+                                    "clouds_shortText": "obla\u010dno", 
+                                    "clouds_shortText_wwsyn_shortText": "de\u017e s snegom", 
+                                    "dd_shortText": "JV", 
+                                    "ddff_icon": "lightSE", 
+                                    "ff_shortText": "\u0161ibek JV", 
+                                    "ff_val": "5", 
+                                    "ffmax_val": "", 
+                                    "interval": "60", 
+                                    "msl": "997", 
+                                    "pa_shortText": "pada", 
+                                    "rh": "98", 
+                                    "rh_shortText": "visoka", 
+                                    "sn_acc": "0.2", 
+                                    "t": "0", 
+                                    "time": "420", 
+                                    "tp_acc": "0.4", 
+                                    "valid": "2021-11-27T06:00:00+00:00", 
+                                    "wwsyn_decodeText": "RASN", 
+                                    "wwsyn_icon": "lightRASN", 
+                                    "wwsyn_shortText": "de\u017e s snegom"
                                 }, 
                                 {
                                     "cloudBase_shortText": "nizka", 
@@ -732,8 +732,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-11-27T05:22:05+00:00", 
-        "tsValid": "2021-11-27 05:00", 
+        "tsUpdated": "2021-11-27T06:23:21+00:00", 
+        "tsValid": "2021-11-27 06:00", 
         "type": "FeatureCollection"
     }, 
     "forecast24h": {
@@ -1173,7 +1173,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-11-27T05:23:12+00:00", 
+        "tsUpdated": "2021-11-27T06:24:26+00:00", 
         "tsValid": "2021-11-27 12:00", 
         "type": "FeatureCollection"
     }, 
@@ -1197,30 +1197,6 @@
                             "sunrise": "2021-11-27T07:17:00+01:00", 
                             "sunset": "2021-11-27T16:17:00+01:00", 
                             "timeline": [
-                                {
-                                    "cloudBase_shortText": "nizka", 
-                                    "clouds_icon_wwsyn_icon": "overcast_modSN_night", 
-                                    "clouds_shortText": "obla\u010dno", 
-                                    "clouds_shortText_wwsyn_shortText": "sne\u017eenje", 
-                                    "dd_shortText": "JV", 
-                                    "ddff_icon": "lightSE", 
-                                    "ff_shortText": "\u0161ibek JV", 
-                                    "ff_val": "6", 
-                                    "ffmax_val": "", 
-                                    "interval": "180", 
-                                    "msl": "997", 
-                                    "pa_shortText": "pada", 
-                                    "rh": "97", 
-                                    "rh_shortText": "visoka", 
-                                    "sn_acc": "1.7", 
-                                    "t": "1", 
-                                    "time": "420", 
-                                    "tp_acc": "1.7", 
-                                    "valid": "2021-11-27T06:00:00+00:00", 
-                                    "wwsyn_decodeText": "SN", 
-                                    "wwsyn_icon": "modSN", 
-                                    "wwsyn_shortText": "sne\u017eenje"
-                                }, 
                                 {
                                     "cloudBase_shortText": "nizka", 
                                     "clouds_icon_wwsyn_icon": "prevCloudy_lightFG_day", 
@@ -2374,8 +2350,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-11-27T05:21:35+00:00", 
-        "tsValid": "2021-11-27 05:00", 
+        "tsUpdated": "2021-11-27T06:22:58+00:00", 
+        "tsValid": "2021-11-27 06:00", 
         "type": "FeatureCollection"
     }, 
     "forecast6h": {
@@ -2398,30 +2374,6 @@
                             "sunrise": "2021-11-27T07:17:00+01:00", 
                             "sunset": "2021-11-27T16:17:00+01:00", 
                             "timeline": [
-                                {
-                                    "cloudBase_shortText": "nizka", 
-                                    "clouds_icon_wwsyn_icon": "overcast_modSN_night", 
-                                    "clouds_shortText": "obla\u010dno", 
-                                    "clouds_shortText_wwsyn_shortText": "sne\u017eenje", 
-                                    "dd_shortText": "JV", 
-                                    "ddff_icon": "lightSE", 
-                                    "ff_shortText": "\u0161ibek JV", 
-                                    "ff_val": "6", 
-                                    "ffmax_val": "", 
-                                    "interval": "360", 
-                                    "msl": "997", 
-                                    "pa_shortText": "pada", 
-                                    "rh": "97", 
-                                    "rh_shortText": "visoka", 
-                                    "sn_acc": "3.4", 
-                                    "t": "1", 
-                                    "time": "420", 
-                                    "tp_acc": "3.4", 
-                                    "valid": "2021-11-27T06:00:00+00:00", 
-                                    "wwsyn_decodeText": "SN", 
-                                    "wwsyn_icon": "modSN", 
-                                    "wwsyn_shortText": "sne\u017eenje"
-                                }, 
                                 {
                                     "cloudBase_shortText": "nizka", 
                                     "clouds_icon_wwsyn_icon": "overcast_lightRA_day", 
@@ -3487,8 +3439,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-11-27T05:22:40+00:00", 
-        "tsValid": "2021-11-27 05:00", 
+        "tsUpdated": "2021-11-27T06:23:47+00:00", 
+        "tsValid": "2021-11-27 06:00", 
         "type": "FeatureCollection"
     }, 
     "observation": {
@@ -3519,16 +3471,16 @@
                                     "dd_shortText": "JV", 
                                     "ddff_icon": "", 
                                     "ff_shortText": "\u0161ibek JV", 
-                                    "ff_val": "5", 
+                                    "ff_val": "6", 
                                     "ffmax_val": "", 
                                     "interval": "", 
                                     "msl": "997", 
                                     "pa_shortText": "pada", 
-                                    "rh": "96", 
+                                    "rh": "97", 
                                     "rh_shortText": "visoka", 
                                     "t": "1", 
-                                    "time": "360", 
-                                    "valid": "2021-11-27T05:00:00+00:00", 
+                                    "time": "420", 
+                                    "valid": "2021-11-27T06:00:00+00:00", 
                                     "wwsyn_icon": "modSN", 
                                     "wwsyn_shortText": "sne\u017ei"
                                 }
@@ -3621,8 +3573,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-11-27T05:19:44+00:00", 
-        "tsValid": "2021-11-27 05:00", 
+        "tsUpdated": "2021-11-27T06:21:23+00:00", 
+        "tsValid": "2021-11-27 06:00", 
         "type": "FeatureCollection"
     }
 }
