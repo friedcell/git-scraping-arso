@@ -3817,9 +3817,9 @@
                             "sunset": "2021-11-28T16:13:00+01:00", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "overcast_night", 
+                                    "clouds_icon_wwsyn_icon": "overcast_lightRASN_night", 
                                     "clouds_shortText": "obla\u010dno", 
-                                    "clouds_shortText_wwsyn_shortText": "obla\u010dno", 
+                                    "clouds_shortText_wwsyn_shortText": "de\u017e s snegom", 
                                     "dd_shortText": "Z", 
                                     "ddff_icon": "", 
                                     "ff_shortText": "\u0161ibek Z", 
@@ -3827,24 +3827,24 @@
                                     "ffmax_val": "", 
                                     "interval": "", 
                                     "msl": "996", 
-                                    "pa_shortText": "pada", 
-                                    "rh": "92", 
+                                    "pa_shortText": "ustaljen", 
+                                    "rh": "91", 
                                     "rh_shortText": "visoka", 
-                                    "t": "2", 
-                                    "time": "1320", 
-                                    "valid": "2021-11-28T21:00:00+00:00", 
+                                    "t": "3", 
+                                    "time": "1380", 
+                                    "valid": "2021-11-28T22:00:00+00:00", 
                                     "webcam": [
                                         {
                                             "direction": "", 
-                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20211128-2100_MARIBOR_VRBAN-PLA_sw.jpg"
+                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20211128-2200_MARIBOR_VRBAN-PLA_sw.jpg"
                                         }, 
                                         {
                                             "direction": "", 
-                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20211128-2100_MARIBOR_VRBAN-PLA_ne.jpg"
+                                            "image": "MARIBOR_VRBAN-PLA_dir/siwc_20211128-2200_MARIBOR_VRBAN-PLA_ne.jpg"
                                         }
                                     ], 
-                                    "wwsyn_icon": "", 
-                                    "wwsyn_shortText": ""
+                                    "wwsyn_icon": "lightRASN", 
+                                    "wwsyn_shortText": "de\u017e s snegom"
                                 }
                             ]
                         }
@@ -3935,8 +3935,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-11-28T21:33:47+00:00", 
-        "tsValid": "2021-11-28 21:00", 
+        "tsUpdated": "2021-11-28T22:22:56+00:00", 
+        "tsValid": "2021-11-28 22:00", 
         "type": "FeatureCollection"
     }
 }
