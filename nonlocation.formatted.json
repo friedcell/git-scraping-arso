@@ -537,10 +537,17 @@
                             }, 
                             {
                                 "degree": "yellow", 
+                                "parameter": "WarningSnow", 
+                                "parameter_desc": "Sneg", 
+                                "validEnd": "2021-12-03T00:59:00+00:00", 
+                                "validStart": "2021-12-02T12:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
                                 "parameter": "WarningTn", 
                                 "parameter_desc": "Nizka temperatura", 
                                 "validEnd": "2021-11-30T10:59:00+00:00", 
-                                "validStart": "2021-11-30T05:00:00+00:00"
+                                "validStart": "2021-11-30T06:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -558,6 +565,6 @@
         ], 
         "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-11-29T07:55:00+00:00"
+        "updated": "2021-11-30T06:55:00+00:00"
     }
 }
