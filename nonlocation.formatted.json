@@ -17,7 +17,60 @@
             }
         ]
     }, 
-    "fcast_si_text": "", 
+    "fcast_si_text": {
+        "articleinfo": {
+            "pubdate": "Petek, 3.12.2021 ob 6h", 
+            "title": "Vremenska napoved", 
+            "tsValid_issued": "2021-12-03 05:56"
+        }, 
+        "dataType": "", 
+        "features": "", 
+        "params": "", 
+        "section": [
+            {
+                "para": [
+                    "Danes bo sprva obla\u010dno, \u010dez dan se bo od severozahoda postopno jasnilo. Na Primorskem bo pihala \u0161ibka do zmerna burja. Najvi\u0161je dnevne temperature bodo od 1 do 6, na Gori\u0161kem in ob morju do 10 \u00b0C."
+                ], 
+                "title": "NAPOVED ZA SLOVENIJO"
+            }, 
+            {
+                "para": "Jutri bo delno jasno in zjutraj po ni\u017einah v notranjosti megleno. \u010cez dan bo zapihal jugozahodni veter, popoldne se bo obla\u010dnost na Primorskem zgostila. Jutranje temperature bodo od -6 do -1, v alpskih dolinah in v mrazi\u0161\u010dih Notranjske do -10, najvi\u0161je dnevne na Gorenjskem in Koro\u0161kem okoli 0, drugod od 2 do 8 \u00b0C.", 
+                "title": "NAPOVED ZA SLOVENIJO"
+            }, 
+            {
+                "para": "V krajih zahodno in severno od nas se bo \u017ee dopoldne jasnilo, popoldne pa tudi drugod. Ob severnem Jadranu bo pihala ve\u010dinoma \u0161ibka, v Kvarnerju pa zmerna burja.", 
+                "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
+            }, 
+            {
+                "para": "Jutri bo delno jasno, po nekaterih ni\u017einah bo zjutraj megleno. Popoldne se bo obla\u010dnost ob Jadranu pove\u010dala.", 
+                "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
+            }, 
+            {
+                "para": "Ciklon z vremensko fronto se je pomaknil nad Balkan in osrednje Sredozemlje. Nad srednjo Evropo in Alpe se prehodno \u0161iri \u0161ibko obmo\u010dje visokega zra\u010dnega tlaka. Z vetrovi severnih smeri doteka v vi\u0161inah k nam hladnej\u0161i in bolj suh zrak.", 
+                "title": "VREMENSKA SLIKA"
+            }, 
+            {
+                "title": "VREMENSKA SLIKA"
+            }, 
+            {
+                "para": [
+                    "V no\u010di na nedeljo se bo povsod poobla\u010dilo, pojavljati se bodo za\u010dele padavine. V ju\u017eni polovici Slovenije bo po ni\u017einah de\u017eevalo, v severni pa pove\u010dini sne\u017eilo. V nedeljo \u010dez dan bo de\u017e pre\u0161el v sneg v ve\u010djem delu notranjosti, na Primorskem bo zapihala burja.", 
+                    "V no\u010di na ponedeljek bodo padavine ponehale, v ponedeljek se bo postopno razjasnilo."
+                ], 
+                "title": "OBETI"
+            }, 
+            {
+                "para": "Dodatnega opozorila ni.", 
+                "title": "OPOZORILO"
+            }, 
+            {
+                "para": "Danes se bo postopno jasnilo, na Primorskem bo pihala burja. Jutri bo delno jasno, jutro bo hladno in po ni\u017einah megleno. Popoldne se bo od zahoda obla\u010dilo.", 
+                "title": "NAPOVED ZA SLOVENIJO - povzetek"
+            }
+        ], 
+        "tsUpdated": "2021-12-03T04:56:47+00:00", 
+        "type": "FeatureCollection"
+    }, 
     "observation_si_avio": {
         "dataType": "observation", 
         "features": [
@@ -506,7 +559,7 @@
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
                                 "validEnd": "2021-12-06T22:59:00+00:00", 
-                                "validStart": "2021-12-03T03:00:00+00:00"
+                                "validStart": "2021-12-03T04:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
