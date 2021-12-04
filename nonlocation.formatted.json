@@ -519,7 +519,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -552,14 +552,14 @@
                                 "degree": "yellow", 
                                 "parameter": "WarningCoastal", 
                                 "parameter_desc": "Obalni dogodek", 
-                                "validEnd": "2021-12-04T08:59:00+00:00", 
+                                "validEnd": "2021-12-04T06:59:00+00:00", 
                                 "validStart": "2021-12-04T06:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
-                                "validEnd": "2021-12-06T22:59:00+00:00", 
+                                "validEnd": "2021-12-07T22:59:00+00:00", 
                                 "validStart": "2021-12-04T05:00:00+00:00"
                             }
                         ], 
@@ -576,8 +576,8 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-12-03T05:55:00+00:00"
+        "updated": "2021-12-04T06:48:00+00:00"
     }
 }
