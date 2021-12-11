@@ -19,19 +19,16 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sobota, 11.12.2021 ob 13h", 
+            "pubdate": "Sobota, 11.12.2021 ob 16h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-12-11 13:11"
+            "tsValid_issued": "2021-12-11 15:42"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": [
-                    "Popoldne bo v severni in zahodni Sloveniji delno jasno, ve\u010d obla\u010dnosti bo predvsem na vzhodu in jugu dr\u017eave. Burja na Primorskem bo po\u010dasi slabela. Najvi\u0161je dnevne temperature bodo od -1 do 5, na Primorskem okoli 9 \u00b0C.\n", 
-                    "Pono\u010di se bo povsod razjasnilo, burja na Primorskem bo ponehala."
-                ], 
+                "para": "Pono\u010di se bo povsod razjasnilo, burja na Primorskem bo ponehala.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -63,11 +60,11 @@
                 "title": "OPOZORILO"
             }, 
             {
-                "para": "Danes bo na zahodu in severu delno jasno, drugod zmerno do prete\u017eno obla\u010dno. Na Primorskem bo pihala burja. Jutri bo prete\u017eno jasno.", 
+                "para": "Pono\u010di se bo povsod razjasnilo. Jutri bo prete\u017eno jasno, po kotlinah osrednje Slovenije bo dopoldne megla.", 
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-12-11T12:12:03+00:00", 
+        "tsUpdated": "2021-12-11T14:43:04+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -537,14 +534,14 @@
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
                                 "validEnd": "2021-12-12T18:59:00+00:00", 
-                                "validStart": "2021-12-11T13:00:00+00:00"
+                                "validStart": "2021-12-11T14:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
                                 "validEnd": "2021-12-13T22:59:00+00:00", 
-                                "validStart": "2021-12-11T13:00:00+00:00"
+                                "validStart": "2021-12-11T14:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
