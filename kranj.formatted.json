@@ -20,30 +20,6 @@
                             "sunset": "2021-12-15T16:17:00+01:00", 
                             "timeline": [
                                 {
-                                    "cloudBase_shortText": "visoka", 
-                                    "clouds_icon_wwsyn_icon": "partCloudy_night", 
-                                    "clouds_shortText": "delno obla\u010dno", 
-                                    "clouds_shortText_wwsyn_shortText": "delno obla\u010dno", 
-                                    "dd_shortText": "SZ", 
-                                    "ddff_icon": "lightNW", 
-                                    "ff_shortText": "\u0161ibek SZ", 
-                                    "ff_val": "3", 
-                                    "ffmax_val": "", 
-                                    "interval": "60", 
-                                    "msl": "1033", 
-                                    "pa_shortText": "raste", 
-                                    "rh": "90", 
-                                    "rh_shortText": "visoka", 
-                                    "sn_acc": "0.0", 
-                                    "t": "2", 
-                                    "time": "1020", 
-                                    "tp_acc": "0.0", 
-                                    "valid": "2021-12-15T16:00:00+00:00", 
-                                    "wwsyn_decodeText": "RA", 
-                                    "wwsyn_icon": "", 
-                                    "wwsyn_shortText": ""
-                                }, 
-                                {
                                     "cloudBase_shortText": "", 
                                     "clouds_icon_wwsyn_icon": "clear_night", 
                                     "clouds_shortText": "jasno", 
@@ -932,8 +908,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-12-15T15:23:20+00:00", 
-        "tsValid": "2021-12-15 15:00", 
+        "tsUpdated": "2021-12-15T16:22:54+00:00", 
+        "tsValid": "2021-12-15 16:00", 
         "type": "FeatureCollection"
     }, 
     "forecast24h": {
@@ -2582,8 +2558,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-12-15T15:21:42+00:00", 
-        "tsValid": "2021-12-15 15:00", 
+        "tsUpdated": "2021-12-15T16:21:46+00:00", 
+        "tsValid": "2021-12-15 16:00", 
         "type": "FeatureCollection"
     }, 
     "forecast6h": {
@@ -2611,18 +2587,18 @@
                                     "clouds_icon_wwsyn_icon": "partCloudy_night", 
                                     "clouds_shortText": "delno obla\u010dno", 
                                     "clouds_shortText_wwsyn_shortText": "delno obla\u010dno", 
-                                    "dd_shortText": "SZ", 
-                                    "ddff_icon": "lightNW", 
-                                    "ff_shortText": "\u0161ibek SZ", 
+                                    "dd_shortText": "S", 
+                                    "ddff_icon": "lightN", 
+                                    "ff_shortText": "\u0161ibek S", 
                                     "ff_val": "3", 
                                     "ffmax_val": "", 
                                     "interval": "360", 
                                     "msl": "1033", 
                                     "pa_shortText": "raste", 
-                                    "rh": "88", 
+                                    "rh": "97", 
                                     "rh_shortText": "visoka", 
                                     "sn_acc": "0.0", 
-                                    "t": "1", 
+                                    "t": "-0", 
                                     "time": "1140", 
                                     "tp_acc": "0.0", 
                                     "valid": "2021-12-15T18:00:00+00:00", 
@@ -3703,8 +3679,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-12-15T15:23:05+00:00", 
-        "tsValid": "2021-12-15 15:00", 
+        "tsUpdated": "2021-12-15T16:22:57+00:00", 
+        "tsValid": "2021-12-15 16:00", 
         "type": "FeatureCollection"
     }, 
     "observation": {
@@ -3729,9 +3705,9 @@
                             "sunset": "2021-12-15T16:17:00+01:00", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "clear_day", 
-                                    "clouds_shortText": "jasno", 
-                                    "clouds_shortText_wwsyn_shortText": "jasno", 
+                                    "clouds_icon_wwsyn_icon": "partCloudy_night", 
+                                    "clouds_shortText": "delno obla\u010dno", 
+                                    "clouds_shortText_wwsyn_shortText": "delno obla\u010dno", 
                                     "dd_shortText": "SZ", 
                                     "ddff_icon": "", 
                                     "ff_shortText": "\u0161ibek SZ", 
@@ -3740,11 +3716,11 @@
                                     "interval": "", 
                                     "msl": "1033", 
                                     "pa_shortText": "raste", 
-                                    "rh": "91", 
+                                    "rh": "90", 
                                     "rh_shortText": "visoka", 
                                     "t": "2", 
-                                    "time": "960", 
-                                    "valid": "2021-12-15T15:00:00+00:00", 
+                                    "time": "1020", 
+                                    "valid": "2021-12-15T16:00:00+00:00", 
                                     "wwsyn_icon": "", 
                                     "wwsyn_shortText": ""
                                 }
@@ -3837,8 +3813,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-12-15T15:19:16+00:00", 
-        "tsValid": "2021-12-15 15:00", 
+        "tsUpdated": "2021-12-15T16:19:45+00:00", 
+        "tsValid": "2021-12-15 16:00", 
         "type": "FeatureCollection"
     }
 }
