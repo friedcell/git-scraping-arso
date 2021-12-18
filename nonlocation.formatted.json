@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sobota, 18.12.2021 ob 16h", 
+            "pubdate": "Sobota, 18.12.2021 ob 17h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-12-18 16:01"
+            "tsValid_issued": "2021-12-18 16:58"
         }, 
         "dataType": "", 
         "features": "", 
@@ -52,7 +52,10 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V ponedeljek bo precej jasno. Ve\u010d obla\u010dnosti bo zjutraj prehodno v vzhodni Sloveniji, kjer lahko nastane kak\u0161na ploha. Po nekaterih ni\u017einah bo zjutraj in dopoldne megla. Na Primorskem bo pihala \u0161ibka burja. V torek se bo od zahoda postopno poobla\u010dilo, le na severovzhodu bo ostalo delno jasno.", 
+                "para": [
+                    "V ponedeljek bo precej jasno. Ve\u010d obla\u010dnosti bo zjutraj prehodno v vzhodni Sloveniji, kjer lahko nastane kak\u0161na ploha. Po nekaterih ni\u017einah bo zjutraj in dopoldne megla. Na Primorskem bo pihala \u0161ibka burja. ", 
+                    "V torek se bo od zahoda postopno poobla\u010dilo, le na severovzhodu bo ostalo delno jasno. Na Primorskem lahko pade kak\u0161na kaplja de\u017eja."
+                ], 
                 "title": "OBETI"
             }, 
             {
@@ -64,7 +67,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-12-18T15:01:50+00:00", 
+        "tsUpdated": "2021-12-18T15:58:55+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -87,10 +90,10 @@
                             "date": "2021-12-18", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "overcast_modFG_day", 
+                                    "clouds_icon_wwsyn_icon": "overcast_modFG_night", 
                                     "interval": "", 
-                                    "time": "960", 
-                                    "valid": "2021-12-18T15:00:00+00:00", 
+                                    "time": "1020", 
+                                    "valid": "2021-12-18T16:00:00+00:00", 
                                     "vis_shortText": "<1", 
                                     "wwsyn_icon": "modFG"
                                 }
@@ -120,10 +123,10 @@
                             "date": "2021-12-18", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "clear_day", 
+                                    "clouds_icon_wwsyn_icon": "clear_night", 
                                     "interval": "", 
-                                    "time": "960", 
-                                    "valid": "2021-12-18T15:00:00+00:00", 
+                                    "time": "1020", 
+                                    "valid": "2021-12-18T16:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -153,10 +156,10 @@
                             "date": "2021-12-18", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "overcast_modFG_day", 
+                                    "clouds_icon_wwsyn_icon": "overcast_modFG_night", 
                                     "interval": "", 
-                                    "time": "960", 
-                                    "valid": "2021-12-18T15:00:00+00:00", 
+                                    "time": "1020", 
+                                    "valid": "2021-12-18T16:00:00+00:00", 
                                     "vis_shortText": "<1", 
                                     "wwsyn_icon": "modFG"
                                 }
@@ -186,10 +189,10 @@
                             "date": "2021-12-18", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "clear_day", 
+                                    "clouds_icon_wwsyn_icon": "clear_night", 
                                     "interval": "", 
-                                    "time": "960", 
-                                    "valid": "2021-12-18T15:00:00+00:00", 
+                                    "time": "1020", 
+                                    "valid": "2021-12-18T16:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -223,7 +226,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2021-12-18T15:13:08+00:00", 
+        "tsUpdated": "2021-12-18T16:13:08+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -248,10 +251,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "35", 
-                                    "pm10_val": "45", 
-                                    "time": "960", 
-                                    "valid": "2021-12-18T15:00:00+00:00"
+                                    "no2_val": "45", 
+                                    "pm10_val": "55", 
+                                    "time": "1020", 
+                                    "valid": "2021-12-18T16:00:00+00:00"
                                 }
                             ]
                         }
@@ -280,10 +283,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "52", 
+                                    "no2_val": "56", 
                                     "pm10_val": "35", 
-                                    "time": "960", 
-                                    "valid": "2021-12-18T15:00:00+00:00"
+                                    "time": "1020", 
+                                    "valid": "2021-12-18T16:00:00+00:00"
                                 }
                             ]
                         }
@@ -312,10 +315,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "19", 
-                                    "pm10_val": "17", 
-                                    "time": "960", 
-                                    "valid": "2021-12-18T15:00:00+00:00"
+                                    "no2_val": "44", 
+                                    "pm10_val": "22", 
+                                    "time": "1020", 
+                                    "valid": "2021-12-18T16:00:00+00:00"
                                 }
                             ]
                         }
@@ -344,10 +347,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "25", 
-                                    "pm10_val": "23", 
-                                    "time": "960", 
-                                    "valid": "2021-12-18T15:00:00+00:00"
+                                    "no2_val": "83", 
+                                    "pm10_val": "35", 
+                                    "time": "1020", 
+                                    "valid": "2021-12-18T16:00:00+00:00"
                                 }
                             ]
                         }
@@ -374,7 +377,7 @@
                 "unit": "\u03bcg/m\u00b3"
             }
         }, 
-        "tsUpdated": "2021-12-18T15:12:02+00:00", 
+        "tsUpdated": "2021-12-18T16:12:01+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -397,9 +400,9 @@
                             "date": "2021-12-18", 
                             "timeline": [
                                 {
-                                    "time": "960", 
+                                    "time": "1020", 
                                     "tw": "6", 
-                                    "valid": "2021-12-18T15:00:00+00:00", 
+                                    "valid": "2021-12-18T16:00:00+00:00", 
                                     "wLev": "13"
                                 }
                             ]
@@ -426,9 +429,9 @@
                             "date": "2021-12-18", 
                             "timeline": [
                                 {
-                                    "time": "960", 
+                                    "time": "1020", 
                                     "tw": "7", 
-                                    "valid": "2021-12-18T15:00:00+00:00", 
+                                    "valid": "2021-12-18T16:00:00+00:00", 
                                     "wLev": "45"
                                 }
                             ]
@@ -455,9 +458,9 @@
                             "date": "2021-12-18", 
                             "timeline": [
                                 {
-                                    "time": "960", 
+                                    "time": "1020", 
                                     "tw": "8", 
-                                    "valid": "2021-12-18T15:00:00+00:00", 
+                                    "valid": "2021-12-18T16:00:00+00:00", 
                                     "wLev": "63"
                                 }
                             ]
@@ -484,10 +487,10 @@
                             "date": "2021-12-18", 
                             "timeline": [
                                 {
-                                    "time": "960", 
+                                    "time": "1020", 
                                     "tw": "11", 
-                                    "valid": "2021-12-18T15:00:00+00:00", 
-                                    "wLev": "144"
+                                    "valid": "2021-12-18T16:00:00+00:00", 
+                                    "wLev": "157"
                                 }
                             ]
                         }
