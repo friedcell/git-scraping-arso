@@ -1,16 +1,16 @@
 {
     "fcast_si_hint": {
         "articleinfo": {
-            "pubdate": "Thursday, 30.12.2021 ob 5h", 
+            "pubdate": "Friday, 31.12.2021 ob 5h", 
             "title": "Vremenski namig", 
-            "tsValid_issued": "2021-12-30 05:02"
+            "tsValid_issued": "2021-12-31 05:02"
         }, 
         "section": [
             {
                 "id": "fcast_SLOVENIA_d1", 
                 "para": [
                     {
-                        "para": "Dobro jutro, danes bo delno jasno, ve\u010d oblakov bo na severovzhodu. Po ni\u017einah bo marsikje megleno. Jutri bo precej\u2026 https://t.co/Im34dfEtaj"
+                        "para": "Dobro jutro, danes in jutri bo prete\u017eno jasno, ponekod po ni\u017einah in ob\u010dasno ob morju bo megla. V vi\u0161jih legah bo z\u2026 https://t.co/8mSZwZF1D1"
                     }
                 ], 
                 "title": "Zadnja novica"
@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Petek, 31.12.2021 ob 6h", 
+            "pubdate": "Petek, 31.12.2021 ob 7h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2021-12-31 05:31"
+            "tsValid_issued": "2021-12-31 06:50"
         }, 
         "dataType": "", 
         "features": "", 
@@ -50,7 +50,10 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V nedeljo bo prete\u017eno jasno, po ni\u017einah in ob morju bo predvsem zjutraj in dopoldne megleno. V vi\u0161jih legah in ponekod po ni\u017einah severovzhodne Slovenije bo zapihal jugozahodni veter. V ponedeljek bo na severovzhodu \u0161e delno jasno. Drugod se bo od jugozahoda postopno poobla\u010dilo, ponekod na Primorskem in Notranjskem bo ob\u010dasno rosilo ali rahlo de\u017eevalo. Pihal bo jugozahodni veter.", 
+                "para": [
+                    "V nedeljo bo prete\u017eno jasno, po ni\u017einah in ob morju bo predvsem zjutraj in dopoldne megleno. V vi\u0161jih legah in ponekod po ni\u017einah severovzhodne Slovenije bo zapihal jugozahodni veter.  ", 
+                    "V ponedeljek bo na severovzhodu \u0161e delno jasno. Drugod se bo od jugozahoda postopno poobla\u010dilo, ponekod na Primorskem in Notranjskem bo ob\u010dasno rosilo ali rahlo de\u017eevalo. Pihal bo jugozahodni veter. "
+                ], 
                 "title": "OBETI"
             }, 
             {
@@ -62,7 +65,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2021-12-31T04:31:55+00:00", 
+        "tsUpdated": "2021-12-31T05:50:25+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -512,7 +515,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -540,8 +543,8 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2021-12-30T06:07:00+00:00"
+        "updated": "2021-12-31T05:33:00+00:00"
     }
 }
