@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Torek, 4.1.2022 ob 6h", 
+            "pubdate": "Torek, 4.1.2022 ob 9h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2022-01-04 06:28"
+            "tsValid_issued": "2022-01-04 09:14"
         }, 
         "dataType": "", 
         "features": "", 
@@ -55,7 +55,7 @@
                 "title": "OBETI"
             }, 
             {
-                "para": "Dodatnega opozorila ni.", 
+                "para": "Danes bo pihal okrepljen jugozahodni veter, ki bo najmo\u010dnej\u0161i v vi\u0161jih legah in po ni\u017einah severovzhodne Slovenije. Od sredine dneva do sredine no\u010di na sredo bo najvi\u0161ja hitrost vetra od 70 do 80 km/h.", 
                 "title": "OPOZORILO"
             }, 
             {
@@ -63,7 +63,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2022-01-04T05:29:07+00:00", 
+        "tsUpdated": "2022-01-04T08:15:01+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -88,8 +88,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "overcast_day", 
                                     "interval": "", 
-                                    "time": "480", 
-                                    "valid": "2022-01-04T07:00:00+00:00", 
+                                    "time": "540", 
+                                    "valid": "2022-01-04T08:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -121,8 +121,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "prevCloudy_day", 
                                     "interval": "", 
-                                    "time": "480", 
-                                    "valid": "2022-01-04T07:00:00+00:00", 
+                                    "time": "540", 
+                                    "valid": "2022-01-04T08:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -154,8 +154,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "overcast_day", 
                                     "interval": "", 
-                                    "time": "480", 
-                                    "valid": "2022-01-04T07:00:00+00:00", 
+                                    "time": "540", 
+                                    "valid": "2022-01-04T08:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -185,12 +185,12 @@
                             "date": "2022-01-04", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "overcast_lightRA_day", 
+                                    "clouds_icon_wwsyn_icon": "overcast_lightFG_day", 
                                     "interval": "", 
-                                    "time": "480", 
-                                    "valid": "2022-01-04T07:00:00+00:00", 
+                                    "time": "540", 
+                                    "valid": "2022-01-04T08:00:00+00:00", 
                                     "vis_shortText": "1-5", 
-                                    "wwsyn_icon": "lightRA"
+                                    "wwsyn_icon": "lightFG"
                                 }
                             ]
                         }
@@ -222,7 +222,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-04T07:13:09+00:00", 
+        "tsUpdated": "2022-01-04T08:24:50+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -379,124 +379,7 @@
     }, 
     "observation_si_water": {
         "dataType": "observationAms", 
-        "features": [
-            {
-                "geometry": {
-                    "coordinates": [
-                        46.279000000000003, 
-                        13.865
-                    ], 
-                    "type": "Point"
-                }, 
-                "properties": {
-                    "country": "SI", 
-                    "days": [
-                        {
-                            "UTCoffset": "+01:00", 
-                            "date": "2022-01-04", 
-                            "timeline": [
-                                {
-                                    "time": "480", 
-                                    "tw": "5", 
-                                    "valid": "2022-01-04T07:00:00+00:00", 
-                                    "wLev": "16"
-                                }
-                            ]
-                        }
-                    ], 
-                    "id": "HYDRO-3280", 
-                    "title": "Bohinjsko jezero"
-                }, 
-                "type": "Feature"
-            }, 
-            {
-                "geometry": {
-                    "coordinates": [
-                        46.359999999999999, 
-                        14.099
-                    ], 
-                    "type": "Point"
-                }, 
-                "properties": {
-                    "country": "SI", 
-                    "days": [
-                        {
-                            "UTCoffset": "+01:00", 
-                            "date": "2022-01-04", 
-                            "timeline": [
-                                {
-                                    "time": "480", 
-                                    "tw": "6", 
-                                    "valid": "2022-01-04T07:00:00+00:00", 
-                                    "wLev": "46"
-                                }
-                            ]
-                        }
-                    ], 
-                    "id": "HYDRO-3350", 
-                    "title": "Blejsko jezero"
-                }, 
-                "type": "Feature"
-            }, 
-            {
-                "geometry": {
-                    "coordinates": [
-                        45.634999999999998, 
-                        15.323
-                    ], 
-                    "type": "Point"
-                }, 
-                "properties": {
-                    "country": "SI", 
-                    "days": [
-                        {
-                            "UTCoffset": "+01:00", 
-                            "date": "2022-01-04", 
-                            "timeline": [
-                                {
-                                    "time": "480", 
-                                    "tw": "8", 
-                                    "valid": "2022-01-04T07:00:00+00:00", 
-                                    "wLev": "51"
-                                }
-                            ]
-                        }
-                    ], 
-                    "id": "HYDRO-4860", 
-                    "title": "Kolpa"
-                }, 
-                "type": "Feature"
-            }, 
-            {
-                "geometry": {
-                    "coordinates": [
-                        45.548000000000002, 
-                        13.724
-                    ], 
-                    "type": "Point"
-                }, 
-                "properties": {
-                    "country": "SI", 
-                    "days": [
-                        {
-                            "UTCoffset": "+01:00", 
-                            "date": "2022-01-04", 
-                            "timeline": [
-                                {
-                                    "time": "480", 
-                                    "tw": "12", 
-                                    "valid": "2022-01-04T07:00:00+00:00", 
-                                    "wLev": "262"
-                                }
-                            ]
-                        }
-                    ], 
-                    "id": "HYDRO-9350", 
-                    "title": "Jadransko morje"
-                }, 
-                "type": "Feature"
-            }
-        ], 
+        "features": [], 
         "icon_format": "png", 
         "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/weather/", 
         "language": "sl", 
