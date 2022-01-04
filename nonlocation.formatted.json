@@ -19,16 +19,16 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Torek, 4.1.2022 ob 9h", 
+            "pubdate": "Torek, 4.1.2022 ob 10h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2022-01-04 09:14"
+            "tsValid_issued": "2022-01-04 09:36"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Danes bo v Prekmurju in delu \u0160tajerske \u0161e delno jasno, drugod bo obla\u010dno. V zahodni polovici Slovenije bo ob\u010dasno rahlo de\u017eevalo, pogosteje na Primorskem in Notranjskem. Pihal bo jugozahodnik, najmo\u010dnej\u0161i bo v vi\u0161jih legah ter v severovzhodni Sloveniji. Najvi\u0161je dnevne temperature bodo od 5 do 13 \u00b0C.", 
+                "para": "Danes bo prete\u017eno obla\u010dno. V zahodni polovici Slovenije bo ob\u010dasno rahlo de\u017eevalo, pogosteje na Primorskem in Notranjskem. Pihal bo jugozahodnik, najmo\u010dnej\u0161i bo v vi\u0161jih legah ter v severovzhodni Sloveniji. Najvi\u0161je dnevne temperature bodo od 5 do 13 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -63,7 +63,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2022-01-04T08:15:01+00:00", 
+        "tsUpdated": "2022-01-04T08:36:42+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -379,7 +379,124 @@
     }, 
     "observation_si_water": {
         "dataType": "observationAms", 
-        "features": [], 
+        "features": [
+            {
+                "geometry": {
+                    "coordinates": [
+                        46.279000000000003, 
+                        13.865
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2022-01-04", 
+                            "timeline": [
+                                {
+                                    "time": "540", 
+                                    "tw": "5", 
+                                    "valid": "2022-01-04T08:00:00+00:00", 
+                                    "wLev": "16"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "HYDRO-3280", 
+                    "title": "Bohinjsko jezero"
+                }, 
+                "type": "Feature"
+            }, 
+            {
+                "geometry": {
+                    "coordinates": [
+                        46.359999999999999, 
+                        14.099
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2022-01-04", 
+                            "timeline": [
+                                {
+                                    "time": "540", 
+                                    "tw": "6", 
+                                    "valid": "2022-01-04T08:00:00+00:00", 
+                                    "wLev": "46"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "HYDRO-3350", 
+                    "title": "Blejsko jezero"
+                }, 
+                "type": "Feature"
+            }, 
+            {
+                "geometry": {
+                    "coordinates": [
+                        45.634999999999998, 
+                        15.323
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2022-01-04", 
+                            "timeline": [
+                                {
+                                    "time": "540", 
+                                    "tw": "8", 
+                                    "valid": "2022-01-04T08:00:00+00:00", 
+                                    "wLev": "51"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "HYDRO-4860", 
+                    "title": "Kolpa"
+                }, 
+                "type": "Feature"
+            }, 
+            {
+                "geometry": {
+                    "coordinates": [
+                        45.548000000000002, 
+                        13.724
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2022-01-04", 
+                            "timeline": [
+                                {
+                                    "time": "540", 
+                                    "tw": "12", 
+                                    "valid": "2022-01-04T08:00:00+00:00", 
+                                    "wLev": "276"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "HYDRO-9350", 
+                    "title": "Jadransko morje"
+                }, 
+                "type": "Feature"
+            }
+        ], 
         "icon_format": "png", 
         "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/weather/", 
         "language": "sl", 
@@ -396,7 +513,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -405,32 +522,48 @@
                 "name": "Slovenija", 
                 "summary": [
                     {
-                        "event": "", 
+                        "event": [
+                            {
+                                "degree": "orange", 
+                                "parameter": "WarningWind", 
+                                "parameter_desc": "Veter", 
+                                "region_map": "warning_wind_si-region_d1hlast-d3h00.png", 
+                                "validEnd": "2022-01-04T22:59:00+00:00", 
+                                "validStart": "2022-01-04T11:00:00+00:00"
+                            }
+                        ], 
                         "interval": "2 days", 
                         "type": "maxDegreeEvent"
                     }, 
                     {
                         "event": [
                             {
-                                "degree": "yellow", 
+                                "degree": "orange", 
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
                                 "validEnd": "2022-01-04T22:59:00+00:00", 
-                                "validStart": "2022-01-04T08:00:00+00:00"
+                                "validStart": "2022-01-04T11:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningRain", 
                                 "parameter_desc": "De\u017e", 
-                                "validEnd": "2022-01-05T22:59:00+00:00", 
+                                "validEnd": "2022-01-05T19:59:00+00:00", 
                                 "validStart": "2022-01-04T23:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningSnow", 
                                 "parameter_desc": "Sneg", 
-                                "validEnd": "2022-01-05T22:59:00+00:00", 
-                                "validStart": "2022-01-05T12:00:00+00:00"
+                                "validEnd": "2022-01-05T23:59:00+00:00", 
+                                "validStart": "2022-01-05T16:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningCoastal", 
+                                "parameter_desc": "Obalni dogodek", 
+                                "validEnd": "2022-01-05T11:59:00+00:00", 
+                                "validStart": "2022-01-05T09:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -440,14 +573,14 @@
                 "text": {
                     "id": "warning_SLOVENIA", 
                     "para": [
-                        "Dodatnega opozorila ni."
+                        "Danes bo pihal okrepljen jugozahodni veter, ki bo najmo\u010dnej\u0161i v vi\u0161jih legah in po ni\u017einah severovzhodne Slovenije. Od sredine dneva do sredine no\u010di na sredo bo najvi\u0161ja hitrost vetra od 70 do 80 km/h. "
                     ], 
                     "title": "Opozorilo"
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2022-01-03T08:10:00+00:00"
+        "updated": "2022-01-04T08:19:00+00:00"
     }
 }
