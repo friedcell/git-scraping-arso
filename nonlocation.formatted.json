@@ -1,16 +1,16 @@
 {
     "fcast_si_hint": {
         "articleinfo": {
-            "pubdate": "Tuesday, 4.1.2022 ob 5h", 
+            "pubdate": "Tuesday, 4.1.2022 ob 11h", 
             "title": "Vremenski namig", 
-            "tsValid_issued": "2022-01-04 05:02"
+            "tsValid_issued": "2022-01-04 11:28"
         }, 
         "section": [
             {
                 "id": "fcast_SLOVENIA_d1", 
                 "para": [
                     {
-                        "para": "Dobro jutro, danes bo na zahodu rahlo de\u017eevalo, drugod bo \u0161e suho. Jutri do ve\u010dera bodo padavine zajele vso Sloveni\u2026 https://t.co/pIR4Re5up2"
+                        "para": "Zgodaj v novem letu smo za\u010deli opozarjati na vremenske neprilike.\n\u26a0\ufe0fDanes bo v vi\u0161jih legah in na SV Slovenije piha\u2026 https://t.co/yXRp1I8K2l"
                     }
                 ], 
                 "title": "Zadnja novica"
@@ -380,7 +380,124 @@
     }, 
     "observation_si_water": {
         "dataType": "observationAms", 
-        "features": [], 
+        "features": [
+            {
+                "geometry": {
+                    "coordinates": [
+                        46.279000000000003, 
+                        13.865
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2022-01-04", 
+                            "timeline": [
+                                {
+                                    "time": "720", 
+                                    "tw": "6", 
+                                    "valid": "2022-01-04T11:00:00+00:00", 
+                                    "wLev": "16"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "HYDRO-3280", 
+                    "title": "Bohinjsko jezero"
+                }, 
+                "type": "Feature"
+            }, 
+            {
+                "geometry": {
+                    "coordinates": [
+                        46.359999999999999, 
+                        14.099
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2022-01-04", 
+                            "timeline": [
+                                {
+                                    "time": "720", 
+                                    "tw": "6", 
+                                    "valid": "2022-01-04T11:00:00+00:00", 
+                                    "wLev": "46"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "HYDRO-3350", 
+                    "title": "Blejsko jezero"
+                }, 
+                "type": "Feature"
+            }, 
+            {
+                "geometry": {
+                    "coordinates": [
+                        45.634999999999998, 
+                        15.323
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2022-01-04", 
+                            "timeline": [
+                                {
+                                    "time": "720", 
+                                    "tw": "8", 
+                                    "valid": "2022-01-04T11:00:00+00:00", 
+                                    "wLev": "50"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "HYDRO-4860", 
+                    "title": "Kolpa"
+                }, 
+                "type": "Feature"
+            }, 
+            {
+                "geometry": {
+                    "coordinates": [
+                        45.548000000000002, 
+                        13.724
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2022-01-04", 
+                            "timeline": [
+                                {
+                                    "time": "720", 
+                                    "tw": "12", 
+                                    "valid": "2022-01-04T11:00:00+00:00", 
+                                    "wLev": "258"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "HYDRO-9350", 
+                    "title": "Jadransko morje"
+                }, 
+                "type": "Feature"
+            }
+        ], 
         "icon_format": "png", 
         "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/weather/", 
         "language": "sl", 
