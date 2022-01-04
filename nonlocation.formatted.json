@@ -21,7 +21,7 @@
         "articleinfo": {
             "pubdate": "Torek, 4.1.2022 ob 10h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2022-01-04 09:36"
+            "tsValid_issued": "2022-01-04 10:17"
         }, 
         "dataType": "", 
         "features": "", 
@@ -36,7 +36,7 @@
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Danes bo v sosednjih krajih Mad\u017earske ter v vzhodni Avstriji sprva \u0161e son\u010dno. Drugod bo obla\u010dno, ponekod v Gorskem Kotarju in v hribih severovzhodne Italije bo rahlo de\u017eevalo. Pihal bo jugozahodnik.", 
+                "para": "Danes bo prete\u017eno obla\u010dno, ponekod v Gorskem Kotarju in v hribih severovzhodne Italije bo rahlo de\u017eevalo. Pihal bo jugozahodnik.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
@@ -48,6 +48,7 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
+                "para": "Jutri Nad severno Italijo in severnim Jadranom je ciklonsko obmo\u010dje. Hladna fronta bo zve\u010der ob jugozahodnih vi\u0161inskih vetrovih pre\u0161la Slovenijo. V spodnjih pasteh bo od severovzhoda za\u010del pritekati hladnej\u0161i zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
@@ -63,7 +64,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2022-01-04T08:36:42+00:00", 
+        "tsUpdated": "2022-01-04T09:17:35+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -247,10 +248,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "7", 
-                                    "pm10_val": "6", 
-                                    "time": "480", 
-                                    "valid": "2022-01-04T07:00:00+00:00"
+                                    "no2_val": "13", 
+                                    "pm10_val": "5", 
+                                    "time": "600", 
+                                    "valid": "2022-01-04T09:00:00+00:00"
                                 }
                             ]
                         }
@@ -279,10 +280,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "12", 
-                                    "pm10_val": "5", 
-                                    "time": "480", 
-                                    "valid": "2022-01-04T07:00:00+00:00"
+                                    "no2_val": "17", 
+                                    "pm10_val": "7", 
+                                    "time": "600", 
+                                    "valid": "2022-01-04T09:00:00+00:00"
                                 }
                             ]
                         }
@@ -311,10 +312,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "12", 
-                                    "pm10_val": "15", 
-                                    "time": "480", 
-                                    "valid": "2022-01-04T07:00:00+00:00"
+                                    "no2_val": "6", 
+                                    "pm10_val": "6", 
+                                    "time": "600", 
+                                    "valid": "2022-01-04T09:00:00+00:00"
                                 }
                             ]
                         }
@@ -343,10 +344,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "42", 
-                                    "pm10_val": "35", 
-                                    "time": "480", 
-                                    "valid": "2022-01-04T07:00:00+00:00"
+                                    "no2_val": "36", 
+                                    "pm10_val": "42", 
+                                    "time": "600", 
+                                    "valid": "2022-01-04T09:00:00+00:00"
                                 }
                             ]
                         }
@@ -373,130 +374,13 @@
                 "unit": "\u03bcg/m\u00b3"
             }
         }, 
-        "tsUpdated": "2022-01-04T07:12:02+00:00", 
+        "tsUpdated": "2022-01-04T09:12:02+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
     "observation_si_water": {
         "dataType": "observationAms", 
-        "features": [
-            {
-                "geometry": {
-                    "coordinates": [
-                        46.279000000000003, 
-                        13.865
-                    ], 
-                    "type": "Point"
-                }, 
-                "properties": {
-                    "country": "SI", 
-                    "days": [
-                        {
-                            "UTCoffset": "+01:00", 
-                            "date": "2022-01-04", 
-                            "timeline": [
-                                {
-                                    "time": "540", 
-                                    "tw": "5", 
-                                    "valid": "2022-01-04T08:00:00+00:00", 
-                                    "wLev": "16"
-                                }
-                            ]
-                        }
-                    ], 
-                    "id": "HYDRO-3280", 
-                    "title": "Bohinjsko jezero"
-                }, 
-                "type": "Feature"
-            }, 
-            {
-                "geometry": {
-                    "coordinates": [
-                        46.359999999999999, 
-                        14.099
-                    ], 
-                    "type": "Point"
-                }, 
-                "properties": {
-                    "country": "SI", 
-                    "days": [
-                        {
-                            "UTCoffset": "+01:00", 
-                            "date": "2022-01-04", 
-                            "timeline": [
-                                {
-                                    "time": "540", 
-                                    "tw": "6", 
-                                    "valid": "2022-01-04T08:00:00+00:00", 
-                                    "wLev": "46"
-                                }
-                            ]
-                        }
-                    ], 
-                    "id": "HYDRO-3350", 
-                    "title": "Blejsko jezero"
-                }, 
-                "type": "Feature"
-            }, 
-            {
-                "geometry": {
-                    "coordinates": [
-                        45.634999999999998, 
-                        15.323
-                    ], 
-                    "type": "Point"
-                }, 
-                "properties": {
-                    "country": "SI", 
-                    "days": [
-                        {
-                            "UTCoffset": "+01:00", 
-                            "date": "2022-01-04", 
-                            "timeline": [
-                                {
-                                    "time": "540", 
-                                    "tw": "8", 
-                                    "valid": "2022-01-04T08:00:00+00:00", 
-                                    "wLev": "51"
-                                }
-                            ]
-                        }
-                    ], 
-                    "id": "HYDRO-4860", 
-                    "title": "Kolpa"
-                }, 
-                "type": "Feature"
-            }, 
-            {
-                "geometry": {
-                    "coordinates": [
-                        45.548000000000002, 
-                        13.724
-                    ], 
-                    "type": "Point"
-                }, 
-                "properties": {
-                    "country": "SI", 
-                    "days": [
-                        {
-                            "UTCoffset": "+01:00", 
-                            "date": "2022-01-04", 
-                            "timeline": [
-                                {
-                                    "time": "540", 
-                                    "tw": "12", 
-                                    "valid": "2022-01-04T08:00:00+00:00", 
-                                    "wLev": "276"
-                                }
-                            ]
-                        }
-                    ], 
-                    "id": "HYDRO-9350", 
-                    "title": "Jadransko morje"
-                }, 
-                "type": "Feature"
-            }
-        ], 
+        "features": [], 
         "icon_format": "png", 
         "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/weather/", 
         "language": "sl", 
@@ -513,7 +397,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -579,7 +463,7 @@
                 }
             }
         ], 
-        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
         "updated": "2022-01-04T08:19:00+00:00"
     }
