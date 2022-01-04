@@ -380,7 +380,124 @@
     }, 
     "observation_si_water": {
         "dataType": "observationAms", 
-        "features": [], 
+        "features": [
+            {
+                "geometry": {
+                    "coordinates": [
+                        46.279000000000003, 
+                        13.865
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2022-01-04", 
+                            "timeline": [
+                                {
+                                    "time": "600", 
+                                    "tw": "5", 
+                                    "valid": "2022-01-04T09:00:00+00:00", 
+                                    "wLev": "16"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "HYDRO-3280", 
+                    "title": "Bohinjsko jezero"
+                }, 
+                "type": "Feature"
+            }, 
+            {
+                "geometry": {
+                    "coordinates": [
+                        46.359999999999999, 
+                        14.099
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2022-01-04", 
+                            "timeline": [
+                                {
+                                    "time": "600", 
+                                    "tw": "6", 
+                                    "valid": "2022-01-04T09:00:00+00:00", 
+                                    "wLev": "46"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "HYDRO-3350", 
+                    "title": "Blejsko jezero"
+                }, 
+                "type": "Feature"
+            }, 
+            {
+                "geometry": {
+                    "coordinates": [
+                        45.634999999999998, 
+                        15.323
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2022-01-04", 
+                            "timeline": [
+                                {
+                                    "time": "600", 
+                                    "tw": "8", 
+                                    "valid": "2022-01-04T09:00:00+00:00", 
+                                    "wLev": "51"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "HYDRO-4860", 
+                    "title": "Kolpa"
+                }, 
+                "type": "Feature"
+            }, 
+            {
+                "geometry": {
+                    "coordinates": [
+                        45.548000000000002, 
+                        13.724
+                    ], 
+                    "type": "Point"
+                }, 
+                "properties": {
+                    "country": "SI", 
+                    "days": [
+                        {
+                            "UTCoffset": "+01:00", 
+                            "date": "2022-01-04", 
+                            "timeline": [
+                                {
+                                    "time": "600", 
+                                    "tw": "12", 
+                                    "valid": "2022-01-04T09:00:00+00:00", 
+                                    "wLev": "285"
+                                }
+                            ]
+                        }
+                    ], 
+                    "id": "HYDRO-9350", 
+                    "title": "Jadransko morje"
+                }, 
+                "type": "Feature"
+            }
+        ], 
         "icon_format": "png", 
         "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/weather/", 
         "language": "sl", 
