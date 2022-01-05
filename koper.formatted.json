@@ -30,30 +30,6 @@
                                     "ff_val": "26", 
                                     "ffmax_val": "41", 
                                     "interval": "60", 
-                                    "msl": "1002", 
-                                    "pa_shortText": "pada", 
-                                    "rh": "64", 
-                                    "rh_shortText": "srednja", 
-                                    "sn_acc": "0.0", 
-                                    "t": "16", 
-                                    "time": "720", 
-                                    "tp_acc": "0.0", 
-                                    "valid": "2022-01-05T11:00:00+00:00", 
-                                    "wwsyn_decodeText": "RA", 
-                                    "wwsyn_icon": "", 
-                                    "wwsyn_shortText": ""
-                                }, 
-                                {
-                                    "cloudBase_shortText": "nizka", 
-                                    "clouds_icon_wwsyn_icon": "overcast_day", 
-                                    "clouds_shortText": "obla\u010dno", 
-                                    "clouds_shortText_wwsyn_shortText": "obla\u010dno", 
-                                    "dd_shortText": "JV", 
-                                    "ddff_icon": "modSE", 
-                                    "ff_shortText": "zmeren JV", 
-                                    "ff_val": "26", 
-                                    "ffmax_val": "41", 
-                                    "interval": "60", 
                                     "msl": "1001", 
                                     "pa_shortText": "pada", 
                                     "rh": "65", 
@@ -900,8 +876,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-05T10:23:44+00:00", 
-        "tsValid": "2022-01-05 10:00", 
+        "tsUpdated": "2022-01-05T11:23:40+00:00", 
+        "tsValid": "2022-01-05 11:00", 
         "type": "FeatureCollection"
     }, 
     "forecast24h": {
@@ -1341,7 +1317,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-05T10:24:29+00:00", 
+        "tsUpdated": "2022-01-05T11:24:34+00:00", 
         "tsValid": "2022-01-05 12:00", 
         "type": "FeatureCollection"
     }, 
@@ -2598,8 +2574,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-05T10:22:26+00:00", 
-        "tsValid": "2022-01-05 10:00", 
+        "tsUpdated": "2022-01-05T11:22:26+00:00", 
+        "tsValid": "2022-01-05 11:00", 
         "type": "FeatureCollection"
     }, 
     "forecast6h": {
@@ -3743,8 +3719,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-05T10:23:42+00:00", 
-        "tsValid": "2022-01-05 10:00", 
+        "tsUpdated": "2022-01-05T11:23:47+00:00", 
+        "tsValid": "2022-01-05 11:00", 
         "type": "FeatureCollection"
     }, 
     "observation": {
@@ -3769,22 +3745,22 @@
                             "sunset": "2022-01-05T16:36:00+01:00", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "prevCloudy_day", 
-                                    "clouds_shortText": "prete\u017eno obla\u010dno", 
-                                    "clouds_shortText_wwsyn_shortText": "prete\u017eno obla\u010dno", 
+                                    "clouds_icon_wwsyn_icon": "overcast_day", 
+                                    "clouds_shortText": "obla\u010dno", 
+                                    "clouds_shortText_wwsyn_shortText": "obla\u010dno", 
                                     "dd_shortText": "JV", 
                                     "ddff_icon": "modSE", 
                                     "ff_shortText": "zmeren JV", 
-                                    "ff_val": "29", 
+                                    "ff_val": "26", 
                                     "ffmax_val": "", 
                                     "interval": "", 
                                     "msl": "1002", 
                                     "pa_shortText": "pada", 
                                     "rh": "64", 
                                     "rh_shortText": "srednja", 
-                                    "t": "15", 
-                                    "time": "660", 
-                                    "valid": "2022-01-05T10:00:00+00:00", 
+                                    "t": "16", 
+                                    "time": "720", 
+                                    "valid": "2022-01-05T11:00:00+00:00", 
                                     "wwsyn_icon": "", 
                                     "wwsyn_shortText": ""
                                 }
@@ -3877,8 +3853,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-05T10:19:49+00:00", 
-        "tsValid": "2022-01-05 10:00", 
+        "tsUpdated": "2022-01-05T11:19:48+00:00", 
+        "tsValid": "2022-01-05 11:00", 
         "type": "FeatureCollection"
     }
 }
