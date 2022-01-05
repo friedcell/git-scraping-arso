@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sreda, 5.1.2022 ob 6h", 
+            "pubdate": "Sreda, 5.1.2022 ob 9h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2022-01-05 05:58"
+            "tsValid_issued": "2022-01-05 08:47"
         }, 
         "dataType": "", 
         "features": "", 
@@ -29,8 +29,8 @@
         "section": [
             {
                 "para": [
-                    "Danes bo obla\u010dno, padavine bodo postopno zajele vso Slovenijo. Meja sne\u017eenja se bo zve\u010der v notranjosti spustila do ni\u017ein. Na Primorskem in Notranjskem bo ve\u010dino dneva \u0161e pihal ju\u017eni veter, drugod bo popoldne zapihal veter severnih smeri, zve\u010der na Primorskem zmerna do mo\u010dna burja. Dopoldanske temperature bodo od 8 do 16  \u00b0C, popoldne pa se bo od severa hladilo.\n", 
-                    "Pono\u010di bo v ve\u010djem delu Slovenije sne\u017eilo, le po ni\u017einah Primorske de\u017eevalo. V bli\u017eini morja lahko tudi zagrmi. Na Primorskem bo pihala zmerna do mo\u010dna burja, ki bo proti jutru po\u010dasi slabela. Jutranje temperature bodo od -3 do 1, na Primorskem od 2 do 5 \u00b0C."
+                    "Danes bo obla\u010dno, padavine bodo postopno zajele vso Slovenijo. Meja sne\u017eenja se bo zve\u010der v notranjosti spustila do ni\u017ein. Na Primorskem in Notranjskem bo ve\u010dino dneva \u0161e pihal ju\u017eni veter, drugod bo popoldne zapihal veter severnih smeri, zve\u010der na Primorskem mo\u010dna burja. Dopoldanske temperature bodo od 8 do 16  \u00b0C, popoldne pa se bo od severa hladilo.\n", 
+                    "Pono\u010di bo v ve\u010djem delu Slovenije sne\u017eilo, le po ni\u017einah Primorske de\u017eevalo. V bli\u017eini morja lahko tudi zagrmi. Na Primorskem bo pihala mo\u010dna burja, ki bo proti jutru po\u010dasi slabela. Jutranje temperature bodo od -3 do 1, na Primorskem od 2 do 5 \u00b0C."
                 ], 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
@@ -51,6 +51,7 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
+                "para": "Jutri Vremenska fronta se je pomaknila nad osrednji Balkan. Nad srednjo Evropo se krepi obmo\u010dje visokega zra\u010dnega tlaka. Od severovzhoda priteka k nam hladnej\u0161i in postopno bolj suh zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
@@ -58,7 +59,10 @@
                 "title": "OBETI"
             }, 
             {
-                "para": "Danes zve\u010der in v no\u010di na \u010detrtek bodo najmo\u010dnej\u0161i sunki burje na Primorskem dosegali hitrost od 100 do 120 km/h. Burja bo na prehodu med Notranjsko in Primorsko ter v vi\u0161je le\u017ee\u010dih krajih Primorske gradila sne\u017ene zamete.", 
+                "para": [
+                    "Danes zve\u010der in v no\u010di na \u010detrtek bodo najmo\u010dnej\u0161i sunki burje na Primorskem dosegali hitrost od 100 do 120 km/h. Burja bo na prehodu med Notranjsko in Primorsko ter v vi\u0161je le\u017ee\u010dih krajih Primorske gradila sne\u017ene zamete.", 
+                    "V visokogorju se bo pove\u010dala nevarnost sne\u017enih plazov."
+                ], 
                 "title": "OPOZORILO"
             }, 
             {
@@ -66,7 +70,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2022-01-05T04:58:15+00:00", 
+        "tsUpdated": "2022-01-05T07:47:43+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -516,7 +520,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -558,8 +562,8 @@
                                 "degree": "yellow", 
                                 "parameter": "WarningSnow", 
                                 "parameter_desc": "Sneg", 
-                                "validEnd": "2022-01-05T23:59:00+00:00", 
-                                "validStart": "2022-01-05T16:00:00+00:00"
+                                "validEnd": "2022-01-06T00:59:00+00:00", 
+                                "validStart": "2022-01-05T15:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
@@ -574,6 +578,13 @@
                                 "parameter_desc": "Obalni dogodek", 
                                 "validEnd": "2022-01-05T11:59:00+00:00", 
                                 "validStart": "2022-01-05T09:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningAvalanche", 
+                                "parameter_desc": "Sne\u017eni plazovi", 
+                                "validEnd": "2022-01-09T21:59:00+00:00", 
+                                "validStart": "2022-01-05T23:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -583,13 +594,14 @@
                 "text": {
                     "id": "warning_SLOVENIA", 
                     "para": [
-                        "Danes zve\u010der in v no\u010di na \u010detrtek bodo najmo\u010dnej\u0161i sunki burje na Primorskem dosegali hitrost od 100 do 120 km/h. Burja bo na prehodu med Notranjsko in Primorsko ter v vi\u0161je le\u017ee\u010dih krajih Primorske gradila sne\u017ene zamete."
+                        "Danes zve\u010der in v no\u010di na \u010detrtek bodo najmo\u010dnej\u0161i sunki burje na Primorskem dosegali hitrost od 100 do 120 km/h. Burja bo na prehodu med Notranjsko in Primorsko ter v vi\u0161je le\u017ee\u010dih krajih Primorske gradila sne\u017ene zamete.", 
+                        "V visokogorju se bo pove\u010dala nevarnost sne\u017enih plazov."
                     ], 
                     "title": "Opozorilo"
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
         "updated": "2022-01-05T06:14:00+00:00"
     }
