@@ -15,38 +15,6 @@
                     "days": [
                         {
                             "UTCoffset": "+01:00", 
-                            "date": "2022-01-18", 
-                            "sunrise": "2022-01-18T07:36:00+01:00", 
-                            "sunset": "2022-01-18T16:44:00+01:00", 
-                            "timeline": [
-                                {
-                                    "cloudBase_shortText": "", 
-                                    "clouds_icon_wwsyn_icon": "clear_night", 
-                                    "clouds_shortText": "jasno", 
-                                    "clouds_shortText_wwsyn_shortText": "jasno", 
-                                    "dd_shortText": "SV", 
-                                    "ddff_icon": "lightNE", 
-                                    "ff_shortText": "\u0161ibek SV", 
-                                    "ff_val": "5", 
-                                    "ffmax_val": "", 
-                                    "interval": "60", 
-                                    "msl": "1037", 
-                                    "pa_shortText": "ustaljen", 
-                                    "rh": "98", 
-                                    "rh_shortText": "visoka", 
-                                    "sn_acc": "0.0", 
-                                    "t": "-3", 
-                                    "time": "1380", 
-                                    "tp_acc": "0.0", 
-                                    "valid": "2022-01-18T22:00:00+00:00", 
-                                    "wwsyn_decodeText": "RA", 
-                                    "wwsyn_icon": "", 
-                                    "wwsyn_shortText": ""
-                                }
-                            ]
-                        }, 
-                        {
-                            "UTCoffset": "+01:00", 
                             "date": "2022-01-19", 
                             "sunrise": "2022-01-18T07:36:00+01:00", 
                             "sunset": "2022-01-18T16:44:00+01:00", 
@@ -59,7 +27,7 @@
                                     "dd_shortText": "SV", 
                                     "ddff_icon": "lightNE", 
                                     "ff_shortText": "\u0161ibek SV", 
-                                    "ff_val": "6", 
+                                    "ff_val": "4", 
                                     "ffmax_val": "", 
                                     "interval": "60", 
                                     "msl": "1037", 
@@ -83,7 +51,7 @@
                                     "dd_shortText": "SV", 
                                     "ddff_icon": "lightNE", 
                                     "ff_shortText": "\u0161ibek SV", 
-                                    "ff_val": "5", 
+                                    "ff_val": "4", 
                                     "ffmax_val": "", 
                                     "interval": "60", 
                                     "msl": "1037", 
@@ -131,7 +99,7 @@
                                     "dd_shortText": "V", 
                                     "ddff_icon": "lightE", 
                                     "ff_shortText": "\u0161ibek V", 
-                                    "ff_val": "3", 
+                                    "ff_val": "2", 
                                     "ffmax_val": "", 
                                     "interval": "60", 
                                     "msl": "1036", 
@@ -155,7 +123,7 @@
                                     "dd_shortText": "JV", 
                                     "ddff_icon": "lightSE", 
                                     "ff_shortText": "\u0161ibek JV", 
-                                    "ff_val": "4", 
+                                    "ff_val": "3", 
                                     "ffmax_val": "", 
                                     "interval": "60", 
                                     "msl": "1036", 
@@ -163,7 +131,7 @@
                                     "rh": "100", 
                                     "rh_shortText": "visoka", 
                                     "sn_acc": "0.0", 
-                                    "t": "-5", 
+                                    "t": "-4", 
                                     "time": "240", 
                                     "tp_acc": "0.0", 
                                     "valid": "2022-01-19T03:00:00+00:00", 
@@ -211,7 +179,7 @@
                                     "rh": "100", 
                                     "rh_shortText": "visoka", 
                                     "sn_acc": "0.0", 
-                                    "t": "-6", 
+                                    "t": "-5", 
                                     "time": "360", 
                                     "tp_acc": "0.0", 
                                     "valid": "2022-01-19T05:00:00+00:00", 
@@ -323,12 +291,12 @@
                                     "dd_shortText": "JZ", 
                                     "ddff_icon": "lightSW", 
                                     "ff_shortText": "\u0161ibek JZ", 
-                                    "ff_val": "2", 
+                                    "ff_val": "1", 
                                     "ffmax_val": "", 
                                     "interval": "60", 
                                     "msl": "1032", 
                                     "pa_shortText": "pada", 
-                                    "rh": "86", 
+                                    "rh": "93", 
                                     "rh_shortText": "visoka", 
                                     "sn_acc": "0.0", 
                                     "t": "0", 
@@ -932,8 +900,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-18T21:24:02+00:00", 
-        "tsValid": "2022-01-18 21:00", 
+        "tsUpdated": "2022-01-18T22:21:41+00:00", 
+        "tsValid": "2022-01-18 22:00", 
         "type": "FeatureCollection"
     }, 
     "forecast24h": {
@@ -1437,7 +1405,7 @@
                                     "dd_shortText": "SV", 
                                     "ddff_icon": "lightNE", 
                                     "ff_shortText": "\u0161ibek SV", 
-                                    "ff_val": "5", 
+                                    "ff_val": "4", 
                                     "ffmax_val": "", 
                                     "interval": "180", 
                                     "msl": "1037", 
@@ -1461,7 +1429,7 @@
                                     "dd_shortText": "JV", 
                                     "ddff_icon": "lightSE", 
                                     "ff_shortText": "\u0161ibek JV", 
-                                    "ff_val": "4", 
+                                    "ff_val": "3", 
                                     "ffmax_val": "", 
                                     "interval": "180", 
                                     "msl": "1036", 
@@ -1469,7 +1437,7 @@
                                     "rh": "100", 
                                     "rh_shortText": "visoka", 
                                     "sn_acc": "0.0", 
-                                    "t": "-5", 
+                                    "t": "-4", 
                                     "time": "240", 
                                     "tp_acc": "0.0", 
                                     "valid": "2022-01-19T03:00:00+00:00", 
@@ -2654,8 +2622,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-18T21:22:33+00:00", 
-        "tsValid": "2022-01-18 21:00", 
+        "tsUpdated": "2022-01-18T22:20:04+00:00", 
+        "tsValid": "2022-01-18 22:00", 
         "type": "FeatureCollection"
     }, 
     "forecast6h": {
@@ -2686,7 +2654,7 @@
                                     "dd_shortText": "SV", 
                                     "ddff_icon": "lightNE", 
                                     "ff_shortText": "\u0161ibek SV", 
-                                    "ff_val": "5", 
+                                    "ff_val": "4", 
                                     "ffmax_val": "", 
                                     "interval": "360", 
                                     "msl": "1037", 
@@ -3791,8 +3759,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-18T21:23:47+00:00", 
-        "tsValid": "2022-01-18 21:00", 
+        "tsUpdated": "2022-01-18T22:21:25+00:00", 
+        "tsValid": "2022-01-18 22:00", 
         "type": "FeatureCollection"
     }, 
     "observation": {
@@ -3820,19 +3788,19 @@
                                     "clouds_icon_wwsyn_icon": "clear_lightFG_night", 
                                     "clouds_shortText": "jasno", 
                                     "clouds_shortText_wwsyn_shortText": "jasno", 
-                                    "dd_shortText": "S", 
+                                    "dd_shortText": "SV", 
                                     "ddff_icon": "", 
-                                    "ff_shortText": "\u0161ibek S", 
-                                    "ff_val": "6", 
+                                    "ff_shortText": "\u0161ibek SV", 
+                                    "ff_val": "4", 
                                     "ffmax_val": "", 
                                     "interval": "", 
                                     "msl": "1037", 
-                                    "pa_shortText": "raste", 
+                                    "pa_shortText": "ustaljen", 
                                     "rh": "99", 
                                     "rh_shortText": "visoka", 
                                     "t": "-3", 
-                                    "time": "1320", 
-                                    "valid": "2022-01-18T21:00:00+00:00", 
+                                    "time": "1380", 
+                                    "valid": "2022-01-18T22:00:00+00:00", 
                                     "wwsyn_icon": "lightFG", 
                                     "wwsyn_shortText": ""
                                 }
@@ -3925,8 +3893,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-18T21:19:55+00:00", 
-        "tsValid": "2022-01-18 21:00", 
+        "tsUpdated": "2022-01-18T22:17:50+00:00", 
+        "tsValid": "2022-01-18 22:00", 
         "type": "FeatureCollection"
     }
 }
