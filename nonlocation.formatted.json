@@ -513,7 +513,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -527,7 +527,15 @@
                         "type": "maxDegreeEvent"
                     }, 
                     {
-                        "event": "", 
+                        "event": [
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningTn", 
+                                "parameter_desc": "Nizka temperatura", 
+                                "validEnd": "2022-01-22T08:59:00+00:00", 
+                                "validStart": "2022-01-22T00:00:00+00:00"
+                            }
+                        ], 
                         "interval": "5 days", 
                         "type": "maxDegreeEvent"
                     }
@@ -541,8 +549,8 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2022-01-18T06:50:00+00:00"
+        "updated": "2022-01-19T06:36:00+00:00"
     }
 }
