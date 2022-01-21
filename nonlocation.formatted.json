@@ -19,20 +19,20 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Petek, 21.1.2022 ob 6h", 
+            "pubdate": "Petek, 21.1.2022 ob 9h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2022-01-21 05:34"
+            "tsValid_issued": "2022-01-21 09:17"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Danes bo na Primorskem prete\u017eno jasno, pihala bo \u0161ibka burja, ki bo do ve\u010dera ponehala. Drugod bo sprva delno jasno s spremenljivo obla\u010dnostjo, zjutraj bo zlasti na severovzhodu kak\u0161na kratkotrajna sne\u017ena ploha. \u010cez dan se bo prehodno zjasnilo. Najvi\u0161je dnevne temperature bodo od 1 do 6, na Primorskem do 9 \u00b0C.", 
+                "para": "Danes bo na Primorskem prete\u017eno jasno s \u0161ibko burjo, ki bo do ve\u010dera ponehala. Drugod bo sprva delno jasno s spremenljivo obla\u010dnostjo, zjutraj bo zlasti na severovzhodu kak\u0161na kratkotrajna sne\u017ena ploha. \u010cez dan se bo zjasnilo. Na severovzhodu bo prehodno zapihal severozahodni veter. Najvi\u0161je dnevne temperature bodo od 1 do 5, na Primorskem do 9 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo v zahodni Sloveniji prete\u017eno jasno. Drugod bo delno jasno z zmerno obla\u010dnostjo, na vzhodu prete\u017eno obla\u010dno. Tam bo ob\u010dasno naletaval sneg. Jutranje temperature bodo od -10 do -4, ob morju okoli 0, najvi\u0161je dnevne od 0 do 6, na Primorskem do 9 \u00b0C.", 
+                "para": "Jutri bo v zahodni Sloveniji prete\u017eno jasno. Drugod bo delno jasno z zmerno obla\u010dnostjo, na vzhodu prete\u017eno obla\u010dno. Tam bodo ob\u010dasno mo\u017ene rahle padavine. Jutranje temperature bodo od -10 do -4, ob morju okoli 0, najvi\u0161je dnevne od 3 do 7, na Primorskem do 9 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -48,10 +48,11 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
+                "para": "Jutri Nad zahodno in srednjo Evropo je obse\u017eno obmo\u010dje visokega zra\u010dnega tlaka, na vzhodu celine pa je ciklonsko obmo\u010dje. Z vetrovi severnih smeri k nam doteka dokaj suh in razmeroma hladen zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V nedeljo in ponedeljek bo ve\u010d jasnine na zahodu, najbolj obla\u010dno pa bo v vzhodni Sloveniji. Tam bo ob\u010dasno rahlo sne\u017eilo.", 
+                "para": "V nedeljo in ponedeljek bo ve\u010d jasnine na zahodu, najbolj obla\u010dno pa bo v vzhodni Sloveniji. Predvsem v ponedeljek bo tam ob\u010dasno rahlo sne\u017eilo.", 
                 "title": "OBETI"
             }, 
             {
@@ -63,7 +64,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2022-01-21T04:34:12+00:00", 
+        "tsUpdated": "2022-01-21T08:18:01+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -88,8 +89,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "prevCloudy_day", 
                                     "interval": "", 
-                                    "time": "480", 
-                                    "valid": "2022-01-21T07:00:00+00:00", 
+                                    "time": "540", 
+                                    "valid": "2022-01-21T08:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -119,12 +120,12 @@
                             "date": "2022-01-21", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "overcast_lightSN_day", 
+                                    "clouds_icon_wwsyn_icon": "prevCloudy_day", 
                                     "interval": "", 
-                                    "time": "480", 
-                                    "valid": "2022-01-21T07:00:00+00:00", 
+                                    "time": "540", 
+                                    "valid": "2022-01-21T08:00:00+00:00", 
                                     "vis_shortText": "5-10", 
-                                    "wwsyn_icon": "lightSN"
+                                    "wwsyn_icon": ""
                                 }
                             ]
                         }
@@ -154,8 +155,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "prevCloudy_day", 
                                     "interval": "", 
-                                    "time": "480", 
-                                    "valid": "2022-01-21T07:00:00+00:00", 
+                                    "time": "540", 
+                                    "valid": "2022-01-21T08:00:00+00:00", 
                                     "vis_shortText": "5-10", 
                                     "wwsyn_icon": ""
                                 }
@@ -187,8 +188,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "clear_day", 
                                     "interval": "", 
-                                    "time": "480", 
-                                    "valid": "2022-01-21T07:00:00+00:00", 
+                                    "time": "540", 
+                                    "valid": "2022-01-21T08:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -222,7 +223,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-21T07:13:13+00:00", 
+        "tsUpdated": "2022-01-21T08:13:12+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -247,10 +248,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "43", 
-                                    "pm10_val": "48", 
-                                    "time": "480", 
-                                    "valid": "2022-01-21T07:00:00+00:00"
+                                    "no2_val": "27", 
+                                    "pm10_val": "28", 
+                                    "time": "540", 
+                                    "valid": "2022-01-21T08:00:00+00:00"
                                 }
                             ]
                         }
@@ -279,10 +280,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "49", 
-                                    "pm10_val": "48", 
-                                    "time": "480", 
-                                    "valid": "2022-01-21T07:00:00+00:00"
+                                    "no2_val": "52", 
+                                    "pm10_val": "50", 
+                                    "time": "540", 
+                                    "valid": "2022-01-21T08:00:00+00:00"
                                 }
                             ]
                         }
@@ -311,10 +312,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "4", 
+                                    "no2_val": "25", 
                                     "pm10_val": "5", 
-                                    "time": "480", 
-                                    "valid": "2022-01-21T07:00:00+00:00"
+                                    "time": "540", 
+                                    "valid": "2022-01-21T08:00:00+00:00"
                                 }
                             ]
                         }
@@ -344,9 +345,9 @@
                                 {
                                     "interval": "", 
                                     "no2_val": "", 
-                                    "pm10_val": "20", 
-                                    "time": "480", 
-                                    "valid": "2022-01-21T07:00:00+00:00"
+                                    "pm10_val": "27", 
+                                    "time": "540", 
+                                    "valid": "2022-01-21T08:00:00+00:00"
                                 }
                             ]
                         }
@@ -373,7 +374,7 @@
                 "unit": "\u03bcg/m\u00b3"
             }
         }, 
-        "tsUpdated": "2022-01-21T07:12:02+00:00", 
+        "tsUpdated": "2022-01-21T08:12:01+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -396,9 +397,9 @@
                             "date": "2022-01-21", 
                             "timeline": [
                                 {
-                                    "time": "480", 
+                                    "time": "540", 
                                     "tw": "4", 
-                                    "valid": "2022-01-21T07:00:00+00:00", 
+                                    "valid": "2022-01-21T08:00:00+00:00", 
                                     "wLev": "15"
                                 }
                             ]
@@ -425,9 +426,9 @@
                             "date": "2022-01-21", 
                             "timeline": [
                                 {
-                                    "time": "480", 
+                                    "time": "540", 
                                     "tw": "4", 
-                                    "valid": "2022-01-21T07:00:00+00:00", 
+                                    "valid": "2022-01-21T08:00:00+00:00", 
                                     "wLev": "47"
                                 }
                             ]
@@ -454,10 +455,10 @@
                             "date": "2022-01-21", 
                             "timeline": [
                                 {
-                                    "time": "480", 
+                                    "time": "540", 
                                     "tw": "5", 
-                                    "valid": "2022-01-21T07:00:00+00:00", 
-                                    "wLev": "38"
+                                    "valid": "2022-01-21T08:00:00+00:00", 
+                                    "wLev": "37"
                                 }
                             ]
                         }
@@ -483,10 +484,10 @@
                             "date": "2022-01-21", 
                             "timeline": [
                                 {
-                                    "time": "480", 
+                                    "time": "540", 
                                     "tw": "9", 
-                                    "valid": "2022-01-21T07:00:00+00:00", 
-                                    "wLev": "223"
+                                    "valid": "2022-01-21T08:00:00+00:00", 
+                                    "wLev": "237"
                                 }
                             ]
                         }
@@ -513,7 +514,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -549,7 +550,7 @@
                 }
             }
         ], 
-        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
         "updated": "2022-01-21T06:19:00+00:00"
     }
