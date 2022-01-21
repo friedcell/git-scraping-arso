@@ -27,30 +27,6 @@
                                     "dd_shortText": "J", 
                                     "ddff_icon": "lightS", 
                                     "ff_shortText": "\u0161ibek J", 
-                                    "ff_val": "6", 
-                                    "ffmax_val": "", 
-                                    "interval": "60", 
-                                    "msl": "1026", 
-                                    "pa_shortText": "raste", 
-                                    "rh": "74", 
-                                    "rh_shortText": "srednja", 
-                                    "sn_acc": "0.0", 
-                                    "t": "2", 
-                                    "time": "1020", 
-                                    "tp_acc": "0.0", 
-                                    "valid": "2022-01-21T16:00:00+00:00", 
-                                    "wwsyn_decodeText": "RA", 
-                                    "wwsyn_icon": "", 
-                                    "wwsyn_shortText": ""
-                                }, 
-                                {
-                                    "cloudBase_shortText": "", 
-                                    "clouds_icon_wwsyn_icon": "clear_night", 
-                                    "clouds_shortText": "jasno", 
-                                    "clouds_shortText_wwsyn_shortText": "jasno", 
-                                    "dd_shortText": "JV", 
-                                    "ddff_icon": "lightSE", 
-                                    "ff_shortText": "\u0161ibek JV", 
                                     "ff_val": "5", 
                                     "ffmax_val": "", 
                                     "interval": "60", 
@@ -83,7 +59,7 @@
                                     "rh": "83", 
                                     "rh_shortText": "visoka", 
                                     "sn_acc": "0.0", 
-                                    "t": "0", 
+                                    "t": "-1", 
                                     "time": "1140", 
                                     "tp_acc": "0.0", 
                                     "valid": "2022-01-21T18:00:00+00:00", 
@@ -99,12 +75,12 @@
                                     "dd_shortText": "J", 
                                     "ddff_icon": "lightS", 
                                     "ff_shortText": "\u0161ibek J", 
-                                    "ff_val": "4", 
+                                    "ff_val": "5", 
                                     "ffmax_val": "", 
                                     "interval": "60", 
                                     "msl": "1028", 
                                     "pa_shortText": "raste", 
-                                    "rh": "85", 
+                                    "rh": "84", 
                                     "rh_shortText": "visoka", 
                                     "sn_acc": "0.0", 
                                     "t": "-1", 
@@ -128,7 +104,7 @@
                                     "interval": "60", 
                                     "msl": "1028", 
                                     "pa_shortText": "raste", 
-                                    "rh": "85", 
+                                    "rh": "84", 
                                     "rh_shortText": "visoka", 
                                     "sn_acc": "0.0", 
                                     "t": "-2", 
@@ -147,7 +123,7 @@
                                     "dd_shortText": "J", 
                                     "ddff_icon": "lightS", 
                                     "ff_shortText": "\u0161ibek J", 
-                                    "ff_val": "3", 
+                                    "ff_val": "4", 
                                     "ffmax_val": "", 
                                     "interval": "60", 
                                     "msl": "1028", 
@@ -155,7 +131,7 @@
                                     "rh": "83", 
                                     "rh_shortText": "visoka", 
                                     "sn_acc": "0.0", 
-                                    "t": "-3", 
+                                    "t": "-2", 
                                     "time": "1320", 
                                     "tp_acc": "0.0", 
                                     "valid": "2022-01-21T21:00:00+00:00", 
@@ -232,10 +208,10 @@
                                     "interval": "60", 
                                     "msl": "1027", 
                                     "pa_shortText": "pada", 
-                                    "rh": "74", 
+                                    "rh": "73", 
                                     "rh_shortText": "srednja", 
                                     "sn_acc": "0.0", 
-                                    "t": "-4", 
+                                    "t": "-3", 
                                     "time": "60", 
                                     "tp_acc": "0.0", 
                                     "valid": "2022-01-22T00:00:00+00:00", 
@@ -328,7 +304,7 @@
                                     "interval": "60", 
                                     "msl": "1024", 
                                     "pa_shortText": "pada", 
-                                    "rh": "72", 
+                                    "rh": "70", 
                                     "rh_shortText": "srednja", 
                                     "sn_acc": "0.0", 
                                     "t": "-5", 
@@ -932,8 +908,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-21T15:23:33+00:00", 
-        "tsValid": "2022-01-21 15:00", 
+        "tsUpdated": "2022-01-21T16:22:56+00:00", 
+        "tsValid": "2022-01-21 16:00", 
         "type": "FeatureCollection"
     }, 
     "forecast24h": {
@@ -1413,7 +1389,7 @@
                                     "rh": "83", 
                                     "rh_shortText": "visoka", 
                                     "sn_acc": "0.0", 
-                                    "t": "0", 
+                                    "t": "-1", 
                                     "time": "1140", 
                                     "tp_acc": "0.0", 
                                     "valid": "2022-01-21T18:00:00+00:00", 
@@ -1429,7 +1405,7 @@
                                     "dd_shortText": "J", 
                                     "ddff_icon": "lightS", 
                                     "ff_shortText": "\u0161ibek J", 
-                                    "ff_val": "3", 
+                                    "ff_val": "4", 
                                     "ffmax_val": "", 
                                     "interval": "180", 
                                     "msl": "1028", 
@@ -1437,7 +1413,7 @@
                                     "rh": "83", 
                                     "rh_shortText": "visoka", 
                                     "sn_acc": "0.0", 
-                                    "t": "-3", 
+                                    "t": "-2", 
                                     "time": "1320", 
                                     "tp_acc": "0.0", 
                                     "valid": "2022-01-21T21:00:00+00:00", 
@@ -1466,10 +1442,10 @@
                                     "interval": "180", 
                                     "msl": "1027", 
                                     "pa_shortText": "pada", 
-                                    "rh": "74", 
+                                    "rh": "73", 
                                     "rh_shortText": "srednja", 
                                     "sn_acc": "0.0", 
-                                    "t": "-4", 
+                                    "t": "-3", 
                                     "time": "60", 
                                     "tp_acc": "0.0", 
                                     "valid": "2022-01-22T00:00:00+00:00", 
@@ -2582,8 +2558,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-21T15:22:14+00:00", 
-        "tsValid": "2022-01-21 15:00", 
+        "tsUpdated": "2022-01-21T16:21:42+00:00", 
+        "tsValid": "2022-01-21 16:00", 
         "type": "FeatureCollection"
     }, 
     "forecast6h": {
@@ -2622,7 +2598,7 @@
                                     "rh": "83", 
                                     "rh_shortText": "visoka", 
                                     "sn_acc": "0.0", 
-                                    "t": "0", 
+                                    "t": "-1", 
                                     "time": "1140", 
                                     "tp_acc": "0.0", 
                                     "valid": "2022-01-21T18:00:00+00:00", 
@@ -2651,10 +2627,10 @@
                                     "interval": "360", 
                                     "msl": "1027", 
                                     "pa_shortText": "pada", 
-                                    "rh": "74", 
+                                    "rh": "73", 
                                     "rh_shortText": "srednja", 
                                     "sn_acc": "0.0", 
-                                    "t": "-4", 
+                                    "t": "-3", 
                                     "time": "60", 
                                     "tp_acc": "0.0", 
                                     "valid": "2022-01-22T00:00:00+00:00", 
@@ -3703,8 +3679,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-21T15:23:29+00:00", 
-        "tsValid": "2022-01-21 15:00", 
+        "tsUpdated": "2022-01-21T16:23:00+00:00", 
+        "tsValid": "2022-01-21 16:00", 
         "type": "FeatureCollection"
     }, 
     "observation": {
@@ -3729,9 +3705,9 @@
                             "sunset": "2022-01-21T16:49:00+01:00", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "partCloudy_day", 
-                                    "clouds_shortText": "delno obla\u010dno", 
-                                    "clouds_shortText_wwsyn_shortText": "delno obla\u010dno", 
+                                    "clouds_icon_wwsyn_icon": "clear_night", 
+                                    "clouds_shortText": "jasno", 
+                                    "clouds_shortText_wwsyn_shortText": "jasno", 
                                     "dd_shortText": "J", 
                                     "ddff_icon": "", 
                                     "ff_shortText": "\u0161ibek J", 
@@ -3739,44 +3715,44 @@
                                     "ffmax_val": "", 
                                     "interval": "", 
                                     "msl": "1026", 
-                                    "pa_shortText": "pada", 
-                                    "rh": "68", 
+                                    "pa_shortText": "raste", 
+                                    "rh": "74", 
                                     "rh_shortText": "srednja", 
-                                    "t": "3", 
-                                    "time": "960", 
-                                    "valid": "2022-01-21T15:00:00+00:00", 
+                                    "t": "2", 
+                                    "time": "1020", 
+                                    "valid": "2022-01-21T16:00:00+00:00", 
                                     "webcam": [
                                         {
                                             "direction": "", 
-                                            "image": "NOVO-MES_dir/siwc_20220121-1500_NOVO-MES_w.jpg"
+                                            "image": "NOVO-MES_dir/siwc_20220121-1600_NOVO-MES_w.jpg"
                                         }, 
                                         {
                                             "direction": "", 
-                                            "image": "NOVO-MES_dir/siwc_20220121-1500_NOVO-MES_nw.jpg"
+                                            "image": "NOVO-MES_dir/siwc_20220121-1600_NOVO-MES_nw.jpg"
                                         }, 
                                         {
                                             "direction": "", 
-                                            "image": "NOVO-MES_dir/siwc_20220121-1500_NOVO-MES_n.jpg"
+                                            "image": "NOVO-MES_dir/siwc_20220121-1600_NOVO-MES_n.jpg"
                                         }, 
                                         {
                                             "direction": "", 
-                                            "image": "NOVO-MES_dir/siwc_20220121-1500_NOVO-MES_ne.jpg"
+                                            "image": "NOVO-MES_dir/siwc_20220121-1600_NOVO-MES_ne.jpg"
                                         }, 
                                         {
                                             "direction": "", 
-                                            "image": "NOVO-MES_dir/siwc_20220121-1500_NOVO-MES_e.jpg"
+                                            "image": "NOVO-MES_dir/siwc_20220121-1600_NOVO-MES_e.jpg"
                                         }, 
                                         {
                                             "direction": "", 
-                                            "image": "NOVO-MES_dir/siwc_20220121-1500_NOVO-MES_se.jpg"
+                                            "image": "NOVO-MES_dir/siwc_20220121-1600_NOVO-MES_se.jpg"
                                         }, 
                                         {
                                             "direction": "", 
-                                            "image": "NOVO-MES_dir/siwc_20220121-1500_NOVO-MES_s.jpg"
+                                            "image": "NOVO-MES_dir/siwc_20220121-1600_NOVO-MES_s.jpg"
                                         }, 
                                         {
                                             "direction": "", 
-                                            "image": "NOVO-MES_dir/siwc_20220121-1500_NOVO-MES_sw.jpg"
+                                            "image": "NOVO-MES_dir/siwc_20220121-1600_NOVO-MES_sw.jpg"
                                         }
                                     ], 
                                     "wwsyn_icon": "", 
@@ -3871,8 +3847,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-21T15:19:48+00:00", 
-        "tsValid": "2022-01-21 15:00", 
+        "tsUpdated": "2022-01-21T16:19:14+00:00", 
+        "tsValid": "2022-01-21 16:00", 
         "type": "FeatureCollection"
     }
 }
