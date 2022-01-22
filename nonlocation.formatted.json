@@ -19,16 +19,16 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sobota, 22.1.2022 ob 16h", 
+            "pubdate": "Sobota, 22.1.2022 ob 17h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2022-01-22 16:17"
+            "tsValid_issued": "2022-01-22 16:35"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Zve\u010der se bo tudi v notranjosti Slovenije obla\u010dnost pove\u010dala. Pihal bo severovzhodni veter, pod Karavankami okrepljen severnik. Pono\u010di bo zmerno do prete\u017eno obla\u010dno, ve\u010d jasnine bo na zahodu. Na vzhodu Slovenije se bodo pojavljale manj\u0161e sne\u017ene plohe. Najni\u017eje jutranje temperature bodo v alpskih dolinah okoli -8, drugod od -5 do 0 \u00b0C.", 
+                "para": "Zve\u010der se bo tudi v osrednji Sloveniji obla\u010dnost pove\u010dala. Pihal bo severovzhodni veter, pod Karavankami okrepljen severnik. Pono\u010di bo zmerno do prete\u017eno obla\u010dno, ve\u010d jasnine bo na zahodu. Na vzhodu Slovenije se bodo pojavljale manj\u0161e sne\u017ene plohe. Najni\u017eje jutranje temperature bodo v alpskih dolinah okoli -8, drugod od -5 do 0 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -63,7 +63,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2022-01-22T15:17:23+00:00", 
+        "tsUpdated": "2022-01-22T15:36:08+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -513,7 +513,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -533,7 +533,7 @@
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
                                 "validEnd": "2022-01-22T19:59:00+00:00", 
-                                "validStart": "2022-01-22T14:00:00+00:00"
+                                "validStart": "2022-01-22T15:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -549,7 +549,7 @@
                 }
             }
         ], 
-        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
         "updated": "2022-01-22T14:57:00+00:00"
     }
