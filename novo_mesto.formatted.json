@@ -24,30 +24,6 @@
                                     "clouds_icon_wwsyn_icon": "clear_day", 
                                     "clouds_shortText": "jasno", 
                                     "clouds_shortText_wwsyn_shortText": "jasno", 
-                                    "dd_shortText": "JZ", 
-                                    "ddff_icon": "lightSW", 
-                                    "ff_shortText": "\u0161ibek JZ", 
-                                    "ff_val": "6", 
-                                    "ffmax_val": "", 
-                                    "interval": "60", 
-                                    "msl": "1023", 
-                                    "pa_shortText": "pada", 
-                                    "rh": "98", 
-                                    "rh_shortText": "visoka", 
-                                    "sn_acc": "0.0", 
-                                    "t": "-4", 
-                                    "time": "540", 
-                                    "tp_acc": "0.0", 
-                                    "valid": "2022-01-22T08:00:00+00:00", 
-                                    "wwsyn_decodeText": "RA", 
-                                    "wwsyn_icon": "", 
-                                    "wwsyn_shortText": ""
-                                }, 
-                                {
-                                    "cloudBase_shortText": "", 
-                                    "clouds_icon_wwsyn_icon": "clear_day", 
-                                    "clouds_shortText": "jasno", 
-                                    "clouds_shortText_wwsyn_shortText": "jasno", 
                                     "dd_shortText": "Z", 
                                     "ddff_icon": "lightW", 
                                     "ff_shortText": "\u0161ibek Z", 
@@ -828,8 +804,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-22T07:20:54+00:00", 
-        "tsValid": "2022-01-22 07:00", 
+        "tsUpdated": "2022-01-22T08:22:42+00:00", 
+        "tsValid": "2022-01-22 08:00", 
         "type": "FeatureCollection"
     }, 
     "forecast24h": {
@@ -857,20 +833,20 @@
                                     "clouds_icon_wwsyn_icon": "prevCloudy_lightSN_day", 
                                     "clouds_shortText": "prete\u017eno obla\u010dno", 
                                     "clouds_shortText_wwsyn_shortText": "sne\u017eenje", 
-                                    "dd_shortText": "JZ", 
-                                    "ddff_icon": "lightSW", 
-                                    "ff_shortText": "\u0161ibek JZ", 
-                                    "ff_val": "5", 
+                                    "dd_shortText": "J", 
+                                    "ddff_icon": "lightS", 
+                                    "ff_shortText": "\u0161ibek J", 
+                                    "ff_val": "4", 
                                     "ffmax_val": "", 
                                     "interval": "1440", 
                                     "msl": "1026", 
                                     "pa_shortText": "raste", 
-                                    "rh": "91", 
+                                    "rh": "90", 
                                     "rh_shortText": "visoka", 
                                     "time": "780", 
                                     "tnsyn": "-5", 
                                     "tp_24h_acc": "2.9", 
-                                    "txsyn": "5", 
+                                    "txsyn": "6", 
                                     "valid": "2022-01-22T12:00:00+00:00", 
                                     "wwsyn_decodeText": "SN", 
                                     "wwsyn_icon": "lightSN", 
@@ -1269,7 +1245,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-22T07:22:02+00:00", 
+        "tsUpdated": "2022-01-22T08:23:44+00:00", 
         "tsValid": "2022-01-22 12:00", 
         "type": "FeatureCollection"
     }, 
@@ -2550,8 +2526,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-22T07:20:08+00:00", 
-        "tsValid": "2022-01-22 07:00", 
+        "tsUpdated": "2022-01-22T08:21:56+00:00", 
+        "tsValid": "2022-01-22 08:00", 
         "type": "FeatureCollection"
     }, 
     "forecast6h": {
@@ -2582,15 +2558,15 @@
                                     "dd_shortText": "SZ", 
                                     "ddff_icon": "lightNW", 
                                     "ff_shortText": "\u0161ibek SZ", 
-                                    "ff_val": "8", 
+                                    "ff_val": "5", 
                                     "ffmax_val": "", 
                                     "interval": "360", 
                                     "msl": "1023", 
                                     "pa_shortText": "raste", 
-                                    "rh": "80", 
+                                    "rh": "77", 
                                     "rh_shortText": "srednja", 
                                     "sn_acc": "0.0", 
-                                    "t": "4", 
+                                    "t": "5", 
                                     "time": "780", 
                                     "tp_acc": "0.0", 
                                     "valid": "2022-01-22T12:00:00+00:00", 
@@ -3695,8 +3671,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-22T07:21:13+00:00", 
-        "tsValid": "2022-01-22 07:00", 
+        "tsUpdated": "2022-01-22T08:22:57+00:00", 
+        "tsValid": "2022-01-22 08:00", 
         "type": "FeatureCollection"
     }, 
     "observation": {
@@ -3721,7 +3697,7 @@
                             "sunset": "2022-01-22T16:51:00+01:00", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "clear_lightFG_day", 
+                                    "clouds_icon_wwsyn_icon": "clear_day", 
                                     "clouds_shortText": "jasno", 
                                     "clouds_shortText_wwsyn_shortText": "jasno", 
                                     "dd_shortText": "JZ", 
@@ -3732,46 +3708,46 @@
                                     "interval": "", 
                                     "msl": "1023", 
                                     "pa_shortText": "pada", 
-                                    "rh": "100", 
+                                    "rh": "98", 
                                     "rh_shortText": "visoka", 
-                                    "t": "-5", 
-                                    "time": "480", 
-                                    "valid": "2022-01-22T07:00:00+00:00", 
+                                    "t": "-4", 
+                                    "time": "540", 
+                                    "valid": "2022-01-22T08:00:00+00:00", 
                                     "webcam": [
                                         {
                                             "direction": "", 
-                                            "image": "NOVO-MES_dir/siwc_20220122-0700_NOVO-MES_w.jpg"
+                                            "image": "NOVO-MES_dir/siwc_20220122-0800_NOVO-MES_w.jpg"
                                         }, 
                                         {
                                             "direction": "", 
-                                            "image": "NOVO-MES_dir/siwc_20220122-0700_NOVO-MES_nw.jpg"
+                                            "image": "NOVO-MES_dir/siwc_20220122-0800_NOVO-MES_nw.jpg"
                                         }, 
                                         {
                                             "direction": "", 
-                                            "image": "NOVO-MES_dir/siwc_20220122-0700_NOVO-MES_n.jpg"
+                                            "image": "NOVO-MES_dir/siwc_20220122-0800_NOVO-MES_n.jpg"
                                         }, 
                                         {
                                             "direction": "", 
-                                            "image": "NOVO-MES_dir/siwc_20220122-0700_NOVO-MES_ne.jpg"
+                                            "image": "NOVO-MES_dir/siwc_20220122-0800_NOVO-MES_ne.jpg"
                                         }, 
                                         {
                                             "direction": "", 
-                                            "image": "NOVO-MES_dir/siwc_20220122-0700_NOVO-MES_e.jpg"
+                                            "image": "NOVO-MES_dir/siwc_20220122-0800_NOVO-MES_e.jpg"
                                         }, 
                                         {
                                             "direction": "", 
-                                            "image": "NOVO-MES_dir/siwc_20220122-0700_NOVO-MES_se.jpg"
+                                            "image": "NOVO-MES_dir/siwc_20220122-0800_NOVO-MES_se.jpg"
                                         }, 
                                         {
                                             "direction": "", 
-                                            "image": "NOVO-MES_dir/siwc_20220122-0700_NOVO-MES_s.jpg"
+                                            "image": "NOVO-MES_dir/siwc_20220122-0800_NOVO-MES_s.jpg"
                                         }, 
                                         {
                                             "direction": "", 
-                                            "image": "NOVO-MES_dir/siwc_20220122-0700_NOVO-MES_sw.jpg"
+                                            "image": "NOVO-MES_dir/siwc_20220122-0800_NOVO-MES_sw.jpg"
                                         }
                                     ], 
-                                    "wwsyn_icon": "lightFG", 
+                                    "wwsyn_icon": "", 
                                     "wwsyn_shortText": ""
                                 }
                             ]
@@ -3863,8 +3839,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-22T07:18:13+00:00", 
-        "tsValid": "2022-01-22 07:00", 
+        "tsUpdated": "2022-01-22T08:19:45+00:00", 
+        "tsValid": "2022-01-22 08:00", 
         "type": "FeatureCollection"
     }
 }
