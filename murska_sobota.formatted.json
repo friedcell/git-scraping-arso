@@ -20,30 +20,6 @@
                             "sunset": "2022-01-25T16:48:00+01:00", 
                             "timeline": [
                                 {
-                                    "cloudBase_shortText": "", 
-                                    "clouds_icon_wwsyn_icon": "clear_day", 
-                                    "clouds_shortText": "jasno", 
-                                    "clouds_shortText_wwsyn_shortText": "jasno", 
-                                    "dd_shortText": "Z", 
-                                    "ddff_icon": "lightW", 
-                                    "ff_shortText": "\u0161ibek Z", 
-                                    "ff_val": "5", 
-                                    "ffmax_val": "", 
-                                    "interval": "60", 
-                                    "msl": "1032", 
-                                    "pa_shortText": "pada", 
-                                    "rh": "87", 
-                                    "rh_shortText": "visoka", 
-                                    "sn_acc": "0.0", 
-                                    "t": "2", 
-                                    "time": "900", 
-                                    "tp_acc": "0.0", 
-                                    "valid": "2022-01-25T14:00:00+00:00", 
-                                    "wwsyn_decodeText": "RA", 
-                                    "wwsyn_icon": "", 
-                                    "wwsyn_shortText": ""
-                                }, 
-                                {
                                     "cloudBase_shortText": "srednja", 
                                     "clouds_icon_wwsyn_icon": "partCloudy_day", 
                                     "clouds_shortText": "delno obla\u010dno", 
@@ -828,8 +804,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-25T13:22:51+00:00", 
-        "tsValid": "2022-01-25 13:00", 
+        "tsUpdated": "2022-01-25T14:22:34+00:00", 
+        "tsValid": "2022-01-25 14:00", 
         "type": "FeatureCollection"
     }, 
     "forecast24h": {
@@ -2502,8 +2478,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-25T13:21:57+00:00", 
-        "tsValid": "2022-01-25 13:00", 
+        "tsUpdated": "2022-01-25T14:21:51+00:00", 
+        "tsValid": "2022-01-25 14:00", 
         "type": "FeatureCollection"
     }, 
     "forecast6h": {
@@ -3623,8 +3599,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-25T13:23:00+00:00", 
-        "tsValid": "2022-01-25 13:00", 
+        "tsUpdated": "2022-01-25T14:22:54+00:00", 
+        "tsValid": "2022-01-25 14:00", 
         "type": "FeatureCollection"
     }, 
     "observation": {
@@ -3655,24 +3631,24 @@
                                     "dd_shortText": "Z", 
                                     "ddff_icon": "", 
                                     "ff_shortText": "\u0161ibek Z", 
-                                    "ff_val": "8", 
+                                    "ff_val": "5", 
                                     "ffmax_val": "", 
                                     "interval": "", 
                                     "msl": "1032", 
                                     "pa_shortText": "pada", 
                                     "rh": "87", 
                                     "rh_shortText": "visoka", 
-                                    "t": "1", 
-                                    "time": "840", 
-                                    "valid": "2022-01-25T13:00:00+00:00", 
+                                    "t": "2", 
+                                    "time": "900", 
+                                    "valid": "2022-01-25T14:00:00+00:00", 
                                     "webcam": [
                                         {
                                             "direction": "", 
-                                            "image": "MURSK-SOB_dir/siwc_20220125-1300_MURSK-SOB_nw.jpg"
+                                            "image": "MURSK-SOB_dir/siwc_20220125-1400_MURSK-SOB_nw.jpg"
                                         }, 
                                         {
                                             "direction": "", 
-                                            "image": "MURSK-SOB_dir/siwc_20220125-1300_MURSK-SOB_sw.jpg"
+                                            "image": "MURSK-SOB_dir/siwc_20220125-1400_MURSK-SOB_sw.jpg"
                                         }
                                     ], 
                                     "wwsyn_icon": "", 
@@ -3767,8 +3743,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-01-25T13:19:45+00:00", 
-        "tsValid": "2022-01-25 13:00", 
+        "tsUpdated": "2022-01-25T14:19:45+00:00", 
+        "tsValid": "2022-01-25 14:00", 
         "type": "FeatureCollection"
     }
 }
