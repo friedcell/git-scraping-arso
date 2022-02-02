@@ -16,33 +16,9 @@
                         {
                             "UTCoffset": "+01:00", 
                             "date": "2022-02-03", 
-                            "sunrise": "2022-02-02T07:25:00+01:00", 
-                            "sunset": "2022-02-02T17:13:00+01:00", 
+                            "sunrise": "2022-02-03T07:24:00+01:00", 
+                            "sunset": "2022-02-03T17:14:00+01:00", 
                             "timeline": [
-                                {
-                                    "cloudBase_shortText": "", 
-                                    "clouds_icon_wwsyn_icon": "clear_night", 
-                                    "clouds_shortText": "jasno", 
-                                    "clouds_shortText_wwsyn_shortText": "jasno", 
-                                    "dd_shortText": "V", 
-                                    "ddff_icon": "lightE", 
-                                    "ff_shortText": "\u0161ibek V", 
-                                    "ff_val": "6", 
-                                    "ffmax_val": "", 
-                                    "interval": "60", 
-                                    "msl": "1019", 
-                                    "pa_shortText": "raste", 
-                                    "rh": "56", 
-                                    "rh_shortText": "srednja", 
-                                    "sn_acc": "0.0", 
-                                    "t": "6", 
-                                    "time": "0", 
-                                    "tp_acc": "0.0", 
-                                    "valid": "2022-02-02T23:00:00+00:00", 
-                                    "wwsyn_decodeText": "RA", 
-                                    "wwsyn_icon": "", 
-                                    "wwsyn_shortText": ""
-                                }, 
                                 {
                                     "cloudBase_shortText": "", 
                                     "clouds_icon_wwsyn_icon": "clear_night", 
@@ -99,7 +75,7 @@
                                     "dd_shortText": "JV", 
                                     "ddff_icon": "lightSE", 
                                     "ff_shortText": "\u0161ibek JV", 
-                                    "ff_val": "6", 
+                                    "ff_val": "5", 
                                     "ffmax_val": "", 
                                     "interval": "60", 
                                     "msl": "1020", 
@@ -107,7 +83,7 @@
                                     "rh": "64", 
                                     "rh_shortText": "srednja", 
                                     "sn_acc": "0.0", 
-                                    "t": "4", 
+                                    "t": "5", 
                                     "time": "180", 
                                     "tp_acc": "0.0", 
                                     "valid": "2022-02-03T02:00:00+00:00", 
@@ -128,10 +104,10 @@
                                     "interval": "60", 
                                     "msl": "1020", 
                                     "pa_shortText": "raste", 
-                                    "rh": "65", 
+                                    "rh": "66", 
                                     "rh_shortText": "srednja", 
                                     "sn_acc": "0.0", 
-                                    "t": "3", 
+                                    "t": "4", 
                                     "time": "240", 
                                     "tp_acc": "0.0", 
                                     "valid": "2022-02-03T03:00:00+00:00", 
@@ -155,7 +131,7 @@
                                     "rh": "67", 
                                     "rh_shortText": "srednja", 
                                     "sn_acc": "0.0", 
-                                    "t": "1", 
+                                    "t": "2", 
                                     "time": "300", 
                                     "tp_acc": "0.0", 
                                     "valid": "2022-02-03T04:00:00+00:00", 
@@ -203,7 +179,7 @@
                                     "rh": "64", 
                                     "rh_shortText": "srednja", 
                                     "sn_acc": "0.0", 
-                                    "t": "0", 
+                                    "t": "1", 
                                     "time": "420", 
                                     "tp_acc": "0.0", 
                                     "valid": "2022-02-03T06:00:00+00:00", 
@@ -296,7 +272,7 @@
                                     "interval": "60", 
                                     "msl": "1025", 
                                     "pa_shortText": "raste", 
-                                    "rh": "40", 
+                                    "rh": "39", 
                                     "rh_shortText": "nizka", 
                                     "sn_acc": "0.0", 
                                     "t": "8", 
@@ -312,18 +288,18 @@
                                     "clouds_icon_wwsyn_icon": "partCloudy_day", 
                                     "clouds_shortText": "delno obla\u010dno", 
                                     "clouds_shortText_wwsyn_shortText": "delno obla\u010dno", 
-                                    "dd_shortText": "SZ", 
-                                    "ddff_icon": "lightNW", 
-                                    "ff_shortText": "\u0161ibek SZ", 
-                                    "ff_val": "4", 
+                                    "dd_shortText": "JZ", 
+                                    "ddff_icon": "lightSW", 
+                                    "ff_shortText": "\u0161ibek JZ", 
+                                    "ff_val": "1", 
                                     "ffmax_val": "", 
                                     "interval": "60", 
                                     "msl": "1024", 
                                     "pa_shortText": "raste", 
-                                    "rh": "43", 
+                                    "rh": "37", 
                                     "rh_shortText": "nizka", 
                                     "sn_acc": "0.0", 
-                                    "t": "9", 
+                                    "t": "10", 
                                     "time": "720", 
                                     "tp_acc": "0.0", 
                                     "valid": "2022-02-03T11:00:00+00:00", 
@@ -900,8 +876,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-02-02T22:21:34+00:00", 
-        "tsValid": "2022-02-02 22:00", 
+        "tsUpdated": "2022-02-02T23:21:56+00:00", 
+        "tsValid": "2022-02-02 23:00", 
         "type": "FeatureCollection"
     }, 
     "forecast24h": {
@@ -1434,10 +1410,10 @@
                                     "interval": "180", 
                                     "msl": "1020", 
                                     "pa_shortText": "raste", 
-                                    "rh": "65", 
+                                    "rh": "66", 
                                     "rh_shortText": "srednja", 
                                     "sn_acc": "0.0", 
-                                    "t": "3", 
+                                    "t": "4", 
                                     "time": "240", 
                                     "tp_acc": "0.0", 
                                     "valid": "2022-02-03T03:00:00+00:00", 
@@ -1461,7 +1437,7 @@
                                     "rh": "64", 
                                     "rh_shortText": "srednja", 
                                     "sn_acc": "0.0", 
-                                    "t": "0", 
+                                    "t": "1", 
                                     "time": "420", 
                                     "tp_acc": "0.0", 
                                     "valid": "2022-02-03T06:00:00+00:00", 
@@ -2622,8 +2598,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-02-02T22:20:00+00:00", 
-        "tsValid": "2022-02-02 22:00", 
+        "tsUpdated": "2022-02-02T23:20:33+00:00", 
+        "tsValid": "2022-02-02 23:00", 
         "type": "FeatureCollection"
     }, 
     "forecast6h": {
@@ -2686,7 +2662,7 @@
                                     "rh": "64", 
                                     "rh_shortText": "srednja", 
                                     "sn_acc": "0.0", 
-                                    "t": "0", 
+                                    "t": "1", 
                                     "time": "420", 
                                     "tp_acc": "0.0", 
                                     "valid": "2022-02-03T06:00:00+00:00", 
@@ -3759,8 +3735,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-02-02T22:21:24+00:00", 
-        "tsValid": "2022-02-02 22:00", 
+        "tsUpdated": "2022-02-02T23:21:56+00:00", 
+        "tsValid": "2022-02-02 23:00", 
         "type": "FeatureCollection"
     }, 
     "observation": {
@@ -3780,7 +3756,7 @@
                     "days": [
                         {
                             "UTCoffset": "+01:00", 
-                            "date": "2022-02-02", 
+                            "date": "2022-02-03", 
                             "sunrise": "2022-02-02T07:25:00+01:00", 
                             "sunset": "2022-02-02T17:13:00+01:00", 
                             "timeline": [
@@ -3794,13 +3770,13 @@
                                     "ff_val": "6", 
                                     "ffmax_val": "", 
                                     "interval": "", 
-                                    "msl": "1018", 
+                                    "msl": "1019", 
                                     "pa_shortText": "raste", 
-                                    "rh": "54", 
+                                    "rh": "56", 
                                     "rh_shortText": "srednja", 
                                     "t": "6", 
-                                    "time": "1380", 
-                                    "valid": "2022-02-02T22:00:00+00:00", 
+                                    "time": "0", 
+                                    "valid": "2022-02-02T23:00:00+00:00", 
                                     "wwsyn_icon": "", 
                                     "wwsyn_shortText": ""
                                 }
@@ -3893,8 +3869,8 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-02-02T22:17:46+00:00", 
-        "tsValid": "2022-02-02 22:00", 
+        "tsUpdated": "2022-02-02T23:18:17+00:00", 
+        "tsValid": "2022-02-02 23:00", 
         "type": "FeatureCollection"
     }
 }
