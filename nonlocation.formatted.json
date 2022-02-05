@@ -19,41 +19,42 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Petek, 4.2.2022 ob 18h", 
+            "pubdate": "Sobota, 5.2.2022 ob 6h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2022-02-04 17:31"
+            "tsValid_issued": "2022-02-05 05:36"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Pono\u010di bo na severu in severovzhodu Slovenije delno jasno, drugod bo prete\u017eno obla\u010dno. Ponekod na Primorskem in Notranjskem bo ob\u010dasno rosilo ali rahlo de\u017eevalo. Jutranje temperature bodo od 0 do 6, v severnih krajih od -4 do -1 \u00b0C.", 
+                "para": [
+                    "Danes bo sprva prete\u017eno obla\u010dno. Popoldne se bo pove\u010dini delno zjasnilo. Ponekod bo zapihal severovzhodni veter, na Primorskem proti ve\u010deru \u0161ibka burja. Najvi\u0161je dnevne temperature bodo od 6 do 10, na Primorskem okoli 12 \u00b0C.\n", 
+                    "Pono\u010di se bo prehodno zjasnilo, le ob morju se bo zadr\u017eevala nizka obla\u010dnost."
+                ], 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "V soboto bo sprva prete\u017eno obla\u010dno, rahle padavine na jugozahodu bodo dopoldne ponehale. Popoldne se bo pove\u010dini delno zjasnilo. Ponekod bo zapihal severovzhodni veter, na Primorskem proti ve\u010deru \u0161ibka burja. Najvi\u0161je dnevne temperature bodo od 6 do 10, na Primorskem okoli 12 \u00b0C.", 
+                "para": "Jutri bo sprva precej jasno, \u010dez dan pa bo obla\u010dnost nara\u0161\u010dala. Krepil se bo jugozahodni veter. Jutranje temperature bodo od -5 do 0, ob morju okoli 4, najvi\u0161je dnevne od 6 do 12 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Pono\u010di bo zmerno do prete\u017eno obla\u010dno, le v krajih severno in vzhodno od nas deloma jasno. Na obmo\u010dju Gorskega Kotarja bo ob\u010dasno rahlo de\u017eevalo. V Kvarnerju bo pihal jugo.", 
+                "para": "Danes bo v krajih severno in zahodno od nas razmeroma son\u010dno, drugod bo prete\u017eno obla\u010dno. Na severu Hrva\u0161ke bo dopoldne \u0161e rahlo de\u017eevalo. Ob severnem Jadranu bo proti ve\u010deru zapihala \u0161ibka burja.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
-                "para": "V soboto bo v krajih severno in zahodno od nas razmeroma son\u010dno, drugod bo prete\u017eno obla\u010dno. Na severu Hrva\u0161ke bo dopoldne \u0161e rahlo de\u017eevalo. Ob severnem Jadranu bo proti ve\u010deru zapihala \u0161ibka burja.", 
+                "para": "Jutri se bo po dokaj jasnem jutru obla\u010dnost postopno pove\u010dala, popoldne se bo krepil jugozahodni veter.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
-                "para": "Obmo\u010dje visokega zra\u010dnega tlaka nad srednjo Evropo in zahodnim Balkanom prehodno slabi. Od severozahoda se Alpam bli\u017ea hladna fronta, ki bo jutri dopoldne zelo oslabljena pre\u0161la Slovenijo. Pred njo priteka k nam od jugozahoda v spodnjih plasteh ozra\u010dja razmeroma topel in vla\u017een zrak.", 
+                "para": "Prek srednje Evrope se proti vzhodu pomika oslabljena hladna fronta. Za njo se nad Alpami znova krepi obmo\u010dje visokega zra\u010dnega tlaka. Od severovzhoda bo za\u010del k nam prehodno pritekati nekoliko hladnej\u0161i in postopno bolj suh zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V soboto Prek srednje Evrope se proti vzhodu pomika oslabljena hladna fronta. Za njo se nad Alpami znova krepi obmo\u010dje visokega zra\u010dnega tlaka. Od severovzhoda priteka k nam nekoliko hladnej\u0161i in postopno bolj suh zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
                 "para": [
-                    "V nedeljo bo sprva precej jasno, \u010dez dan pa bo obla\u010dnost nara\u0161\u010dala. Krepil se bo jugozahodni veter.", 
                     "V ponedeljek bo sprva obla\u010dno, zjutraj in dopoldne bo prehodno rahlo de\u017eevalo. Popoldne se bo od severa razjasnilo. Pihal bo okrepljen severni do severozahodni veter.", 
                     "V torek bo prete\u017eno jasno."
                 ], 
@@ -64,11 +65,11 @@
                 "title": "OPOZORILO"
             }, 
             {
-                "para": "Pono\u010di in jutri bo na severu deloma jasno, drugod zmerno do prete\u017eno obla\u010dno. Predvsem na jugozahodu bo ob\u010dasno rahlo de\u017eevalo.", 
+                "para": "Danes in jutri bo na severu delno jasno, drugod zmerno do prete\u017eno obla\u010dno.", 
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2022-02-04T16:32:03+00:00", 
+        "tsUpdated": "2022-02-05T04:36:35+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -556,6 +557,6 @@
         ], 
         "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2022-02-04T06:20:00+00:00"
+        "updated": "2022-02-05T04:40:00+00:00"
     }
 }
