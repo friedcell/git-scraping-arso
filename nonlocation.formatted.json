@@ -19,16 +19,16 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sobota, 12.2.2022 ob 7h", 
+            "pubdate": "Sobota, 12.2.2022 ob 8h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2022-02-12 07:00"
+            "tsValid_issued": "2022-02-12 07:42"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Danes bo na Primorskem ter na severozahodu prete\u017eno jasno. Drugod se bo po precej jasnem jutru od vzhoda obla\u010dnost pove\u010dala. Ponekod bo pihal vzhodni veter, na Primorskem \u0161ibka do zmerna burja, ki bo popoldne slabela. Najvi\u0161je dnevne temperature bodo od 3 do 9, na Primorskem do 12 \u00b0C.", 
+                "para": "Danes bo v vzhodni in jugovzhodni Sloveniji zmerno do prete\u017eno obla\u010dno, \u010dez dan se bo obla\u010dnost pove\u010dala tudi v osrednji Sloveniji. Drugod bo pove\u010dini son\u010dno. Ponekod bo pihal vzhodni veter, na Primorskem \u0161ibka do zmerna burja, ki bo popoldne slabela. Najvi\u0161je dnevne temperature bodo od 3 do 8, na Primorskem do 12 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -48,6 +48,9 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
+                "para": [
+                    "Jutri Obmo\u010dje visokega zra\u010dnega tlaka nad srednjo Evropo slabi. Nad severozahodno Evropo se poglablja ciklonsko obmo\u010dje, hladna fronta se bli\u017ea zahodni Evropi. V vi\u0161inah danes nad na\u0161e kraje priteka malo manj hladen in suh zrak.   "
+                ], 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
@@ -66,7 +69,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2022-02-12T06:00:47+00:00", 
+        "tsUpdated": "2022-02-12T06:42:44+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -516,7 +519,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -536,7 +539,7 @@
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
                                 "validEnd": "2022-02-12T14:59:00+00:00", 
-                                "validStart": "2022-02-12T05:00:00+00:00"
+                                "validStart": "2022-02-12T06:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
@@ -559,7 +562,7 @@
                 }
             }
         ], 
-        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
         "updated": "2022-02-12T06:10:00+00:00"
     }
