@@ -1,16 +1,16 @@
 {
     "fcast_si_hint": {
         "articleinfo": {
-            "pubdate": "Tuesday, 15.2.2022 ob 5h", 
+            "pubdate": "Tuesday, 15.2.2022 ob 14h", 
             "title": "Vremenski namig", 
-            "tsValid_issued": "2022-02-15 05:02"
+            "tsValid_issued": "2022-02-15 14:38"
         }, 
         "section": [
             {
                 "id": "fcast_SLOVENIA_d1", 
                 "para": [
                     {
-                        "para": "Dobro jutro, danes bo obla\u010dno s padavinami, po ni\u017einah bo de\u017eevalo. Ob morju bo pihal okrepljen jugo. Jutri se bo d\u2026 https://t.co/eWlT2bVNFM"
+                        "para": "V gore se je vrnila zima. Zapadlo je do 20 cm snega. https://t.co/nhcDSIjIRO"
                     }
                 ], 
                 "title": "Zadnja novica"
@@ -19,19 +19,16 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Torek, 15.2.2022 ob 13h", 
+            "pubdate": "Torek, 15.2.2022 ob 16h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2022-02-15 13:02"
+            "tsValid_issued": "2022-02-15 15:49"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": [
-                    "Popoldne bo obla\u010dno, padavine se bodo od zahoda raz\u0161irile nad vso Slovenijo. Meja sne\u017eenja bo na severu med 400 in 700, drugod med 800 in 1000 m nadmorske vi\u0161ine. Ob morju bo pihal jugo. Najvi\u0161je dnevne temperature bodo od 4 do 12, v alpskih dolinah malo nad 0 \u00b0C.\n", 
-                    "Zve\u010der bodo padavine ponehale, pono\u010di se bo delno zjasnilo."
-                ], 
+                "para": "Zve\u010der bodo padavine postopno ponehale, pono\u010di se bo delno zjasnilo.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -39,9 +36,7 @@
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": [
-                    "Danes bo ve\u010dinoma obla\u010dno, padavine bodo od zahoda zajele vse sosednje pokrajine. V Alpah bo sne\u017eilo. Ob severnem Jadranu bo pihal jugo, ki se bo postopno obrnil na jugozahodnik in oslabel."
-                ], 
+                "para": "Pono\u010di bodo padavine ponehale, postopno se bo delno zjasnilo.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
@@ -49,7 +44,7 @@
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
-                "para": "Nad severnim Sredozemljem je nastalo plitvo ciklonsko obmo\u010dje. Vremenska fronta bo popoldne pre\u0161la Slovenijo.", 
+                "para": "Nad severnim Sredozemljem je plitvo ciklonsko obmo\u010dje. Vremenska fronta se pomika prek Slovenije proti vzhodu.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
@@ -68,11 +63,11 @@
                 "title": "OPOZORILO"
             }, 
             {
-                "para": "Danes bo obla\u010dno s padavinami, po ni\u017einah bo de\u017eevalo. Ob morju bo pihal jugo. Jutri se bo delno zjasnilo.", 
+                "para": "Pono\u010di bodo padavine povsod ponehale. Jutri bo delno jasno z jutranjo meglo po ni\u017einah.", 
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2022-02-15T12:03:11+00:00", 
+        "tsUpdated": "2022-02-15T14:50:03+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -549,21 +544,21 @@
                                 "parameter": "WarningRain", 
                                 "parameter_desc": "De\u017e", 
                                 "validEnd": "2022-02-15T16:59:00+00:00", 
-                                "validStart": "2022-02-15T13:00:00+00:00"
+                                "validStart": "2022-02-15T14:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningSnow", 
                                 "parameter_desc": "Sneg", 
                                 "validEnd": "2022-02-15T19:59:00+00:00", 
-                                "validStart": "2022-02-15T13:00:00+00:00"
+                                "validStart": "2022-02-15T14:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
                                 "validEnd": "2022-02-16T22:59:00+00:00", 
-                                "validStart": "2022-02-15T13:00:00+00:00"
+                                "validStart": "2022-02-15T14:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
