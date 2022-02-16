@@ -19,16 +19,16 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sreda, 16.2.2022 ob 6h", 
+            "pubdate": "Sreda, 16.2.2022 ob 9h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2022-02-16 05:38"
+            "tsValid_issued": "2022-02-16 08:55"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Danes bo deloma jasno z ob\u010dasno pove\u010dano obla\u010dnostjo. Zjutraj in dopoldne bo marsikje po ni\u017einah megla. Popoldne bo zapihal jugozahodni veter. Najvi\u0161je dnevne temperature bodo od 6 do 12 \u00b0C.", 
+                "para": "Danes bo deloma jasno z ob\u010dasno pove\u010dano obla\u010dnostjo. Zjutraj in dopoldne bo marsikje po ni\u017einah \u0161e megla ali nizka obla\u010dnost. Popoldne bo zapihal jugozahodni veter. Najvi\u0161je dnevne temperature bodo od 6 do 12 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -48,6 +48,7 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
+                "para": "Jutri Severno od Alp se razteza obse\u017ena hladna fronta. Z zahodnimi do jugozahodnimi vetrovi v vi\u0161inah k nam doteka dokaj suh in toplej\u0161i zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
@@ -66,7 +67,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2022-02-16T04:38:29+00:00", 
+        "tsUpdated": "2022-02-16T07:55:16+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -516,7 +517,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -535,8 +536,8 @@
                                 "degree": "yellow", 
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
-                                "validEnd": "2022-02-16T21:59:00+00:00", 
-                                "validStart": "2022-02-16T17:00:00+00:00"
+                                "validEnd": "2022-02-17T21:59:00+00:00", 
+                                "validStart": "2022-02-17T00:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
@@ -559,8 +560,8 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2022-02-15T06:07:00+00:00"
+        "updated": "2022-02-16T05:54:00+00:00"
     }
 }
