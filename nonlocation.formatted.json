@@ -1,16 +1,16 @@
 {
     "fcast_si_hint": {
         "articleinfo": {
-            "pubdate": "Friday, 18.2.2022 ob 12h", 
+            "pubdate": "Saturday, 19.2.2022 ob 5h", 
             "title": "Vremenski namig", 
-            "tsValid_issued": "2022-02-18 12:00"
+            "tsValid_issued": "2022-02-19 05:02"
         }, 
         "section": [
             {
                 "id": "fcast_SLOVENIA_d1", 
                 "para": [
                     {
-                        "para": "\ud835\udde2\ud835\uddfd\ud835\uddfc\ud835\ude07\ud835\uddfc\ud835\uddff\ud835\uddf6\ud835\uddf9\ud835\uddfc - \ud835\ude03\ud835\uddf2\ud835\ude01\ud835\uddf2\ud835\uddff\n\n\ud83c\udf2c V no\u010di na soboto bo v vi\u0161jih legah in po ni\u017einah predvsem vzhodne Slovenije pihal okrepljen ju\u2026 https://t.co/WTaPtLZdwO"
+                        "para": "Dobro jutro, danes bo obla\u010dno z ob\u010dasnimi padavinami, ki bodo do jutri zjutraj povsod ponehale. Jutri sredi dneva i\u2026 https://t.co/4EM7sD5cBV"
                     }
                 ], 
                 "title": "Zadnja novica"
@@ -525,34 +525,25 @@
                 "name": "Slovenija", 
                 "summary": [
                     {
-                        "event": [
-                            {
-                                "degree": "orange", 
-                                "parameter": "WarningWind", 
-                                "parameter_desc": "Veter", 
-                                "region_map": "warning_wind_si-region_d1hlast-d3h00.png", 
-                                "validEnd": "2022-02-19T04:59:00+00:00", 
-                                "validStart": "2022-02-19T04:00:00+00:00"
-                            }
-                        ], 
+                        "event": "", 
                         "interval": "2 days", 
                         "type": "maxDegreeEvent"
                     }, 
                     {
                         "event": [
                             {
-                                "degree": "orange", 
+                                "degree": "yellow", 
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
-                                "validEnd": "2022-02-19T04:59:00+00:00", 
-                                "validStart": "2022-02-19T04:00:00+00:00"
+                                "validEnd": "2022-02-21T18:59:00+00:00", 
+                                "validStart": "2022-02-21T04:00:00+00:00"
                             }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningAvalanche", 
                                 "parameter_desc": "Sne\u017eni plazovi", 
                                 "validEnd": "2022-02-20T22:59:00+00:00", 
-                                "validStart": "2022-02-19T04:00:00+00:00"
+                                "validStart": "2022-02-19T05:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
