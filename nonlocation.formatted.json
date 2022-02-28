@@ -21,7 +21,7 @@
         "articleinfo": {
             "pubdate": "Ponedeljek, 28.2.2022 ob 11h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2022-02-28 10:56"
+            "tsValid_issued": "2022-02-28 11:02"
         }, 
         "dataType": "", 
         "features": "", 
@@ -29,7 +29,7 @@
         "section": [
             {
                 "para": [
-                    "Popoldne bo na zahodu dokaj son\u010dno, drugod pa bo spremenljivo, na vzhodu tudi prete\u017eno obla\u010dno. Mo\u017ena bo kak\u0161na manj\u0161a ploha. Pihal bo zmeren severovzhodnik, na Primorskem \u0161ibka burja, ki se bo zve\u010der spet okrepila. Temperature bodo od 3 do 6, na Primorskem do 11 \u00b0C.\n", 
+                    "Popoldne bo na zahodu dokaj son\u010dno, drugod pa bo spremenljivo, na vzhodu tudi prete\u017eno obla\u010dno. Mo\u017ena bo kak\u0161na manj\u0161a ploha. Pihal bo zmeren severovzhodnik, na Primorskem \u0161ibka burja, ki se bo zve\u010der spet okrepila. Temperature bodo od 3 do 7, na Primorskem do 11 \u00b0C.\n", 
                     "Pono\u010di bodo ponekod na vzhodu in jugu rahle padavine."
                 ], 
                 "title": "NAPOVED ZA SLOVENIJO"
@@ -69,7 +69,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2022-02-28T09:57:11+00:00", 
+        "tsUpdated": "2022-02-28T10:03:00+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -402,10 +402,10 @@
                             "date": "2022-02-28", 
                             "timeline": [
                                 {
-                                    "time": "600", 
+                                    "time": "660", 
                                     "tw": "4", 
-                                    "valid": "2022-02-28T09:00:00+00:00", 
-                                    "wLev": "12"
+                                    "valid": "2022-02-28T10:00:00+00:00", 
+                                    "wLev": "11"
                                 }
                             ]
                         }
@@ -431,9 +431,9 @@
                             "date": "2022-02-28", 
                             "timeline": [
                                 {
-                                    "time": "600", 
-                                    "tw": "4", 
-                                    "valid": "2022-02-28T09:00:00+00:00", 
+                                    "time": "660", 
+                                    "tw": "5", 
+                                    "valid": "2022-02-28T10:00:00+00:00", 
                                     "wLev": "46"
                                 }
                             ]
@@ -460,9 +460,9 @@
                             "date": "2022-02-28", 
                             "timeline": [
                                 {
-                                    "time": "600", 
+                                    "time": "660", 
                                     "tw": "7", 
-                                    "valid": "2022-02-28T09:00:00+00:00", 
+                                    "valid": "2022-02-28T10:00:00+00:00", 
                                     "wLev": "57"
                                 }
                             ]
@@ -489,10 +489,10 @@
                             "date": "2022-02-28", 
                             "timeline": [
                                 {
-                                    "time": "600", 
+                                    "time": "660", 
                                     "tw": "9", 
-                                    "valid": "2022-02-28T09:00:00+00:00", 
-                                    "wLev": "217"
+                                    "valid": "2022-02-28T10:00:00+00:00", 
+                                    "wLev": "201"
                                 }
                             ]
                         }
@@ -539,7 +539,7 @@
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
                                 "validEnd": "2022-03-01T09:59:00+00:00", 
-                                "validStart": "2022-02-28T08:00:00+00:00"
+                                "validStart": "2022-02-28T09:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
