@@ -19,9 +19,9 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Torek, 1.3.2022 ob 6h", 
+            "pubdate": "Torek, 1.3.2022 ob 8h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2022-03-01 05:51"
+            "tsValid_issued": "2022-03-01 07:39"
         }, 
         "dataType": "", 
         "features": "", 
@@ -32,7 +32,7 @@
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Jutri bo prete\u017eno jasno. Na Primorskem bo popoldne zapihal jugozahodnik. Najni\u017eje jutranje temperature bodo od -7 do -1, v alpskih dolinah do -11, najvi\u0161je dnevne od 7 do 12 \u00b0C.", 
+                "para": "Jutri bo prete\u017eno jasno, popoldne se bo na zahodu zmerno poobla\u010dilo. Na Primorskem bo prehodno zapihal jugozahodnik. Najni\u017eje jutranje temperature bodo od -7 do -1, v alpskih dolinah do -11, najvi\u0161je dnevne od 7 do 12 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
@@ -53,11 +53,7 @@
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": [
-                    "V \u010detrtek bo \u0161e precej jasno vreme.", 
-                    "V no\u010di na petek se bo poobla\u010dilo.", 
-                    "V petek bo obla\u010dno z ob\u010dasnimi rahlimi padavinami."
-                ], 
+                "para": "V \u010detrtek bo precej jasno vreme. V petek se bo poobla\u010dilo.", 
                 "title": "OBETI"
             }, 
             {
@@ -69,7 +65,7 @@
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2022-03-01T04:51:51+00:00", 
+        "tsUpdated": "2022-03-01T06:39:55+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -89,15 +85,15 @@
                     "days": [
                         {
                             "UTCoffset": "+01:00", 
-                            "date": "2022-02-28", 
+                            "date": "2022-03-01", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "overcast_lightSN_night", 
+                                    "clouds_icon_wwsyn_icon": "partCloudy_day", 
                                     "interval": "", 
-                                    "time": "1380", 
-                                    "valid": "2022-02-28T22:00:00+00:00", 
-                                    "vis_shortText": "5-10", 
-                                    "wwsyn_icon": "lightSN"
+                                    "time": "420", 
+                                    "valid": "2022-03-01T06:00:00+00:00", 
+                                    "vis_shortText": ">10", 
+                                    "wwsyn_icon": ""
                                 }
                             ]
                         }
@@ -122,13 +118,13 @@
                     "days": [
                         {
                             "UTCoffset": "+01:00", 
-                            "date": "2022-02-28", 
+                            "date": "2022-03-01", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "overcast_night", 
+                                    "clouds_icon_wwsyn_icon": "prevCloudy_day", 
                                     "interval": "", 
-                                    "time": "1380", 
-                                    "valid": "2022-02-28T22:00:00+00:00", 
+                                    "time": "420", 
+                                    "valid": "2022-03-01T06:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -155,13 +151,13 @@
                     "days": [
                         {
                             "UTCoffset": "+01:00", 
-                            "date": "2022-02-28", 
+                            "date": "2022-03-01", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "prevCloudy_night", 
+                                    "clouds_icon_wwsyn_icon": "clear_day", 
                                     "interval": "", 
-                                    "time": "1380", 
-                                    "valid": "2022-02-28T22:00:00+00:00", 
+                                    "time": "420", 
+                                    "valid": "2022-03-01T06:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -188,13 +184,13 @@
                     "days": [
                         {
                             "UTCoffset": "+01:00", 
-                            "date": "2022-02-28", 
+                            "date": "2022-03-01", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "clear_night", 
+                                    "clouds_icon_wwsyn_icon": "clear_day", 
                                     "interval": "", 
-                                    "time": "1380", 
-                                    "valid": "2022-02-28T22:00:00+00:00", 
+                                    "time": "420", 
+                                    "valid": "2022-03-01T06:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -228,7 +224,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-02-28T22:13:04+00:00", 
+        "tsUpdated": "2022-03-01T06:41:26+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -249,14 +245,14 @@
                     "days": [
                         {
                             "UTCoffset": "+01:00", 
-                            "date": "2022-02-28", 
+                            "date": "2022-03-01", 
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "35", 
-                                    "pm10_val": "13", 
-                                    "time": "1380", 
-                                    "valid": "2022-02-28T22:00:00+00:00"
+                                    "no2_val": "56", 
+                                    "pm10_val": "64", 
+                                    "time": "420", 
+                                    "valid": "2022-03-01T06:00:00+00:00"
                                 }
                             ]
                         }
@@ -281,14 +277,14 @@
                     "days": [
                         {
                             "UTCoffset": "+01:00", 
-                            "date": "2022-02-28", 
+                            "date": "2022-03-01", 
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "8", 
-                                    "pm10_val": "12", 
-                                    "time": "1380", 
-                                    "valid": "2022-02-28T22:00:00+00:00"
+                                    "no2_val": "57", 
+                                    "pm10_val": "15", 
+                                    "time": "420", 
+                                    "valid": "2022-03-01T06:00:00+00:00"
                                 }
                             ]
                         }
@@ -313,14 +309,14 @@
                     "days": [
                         {
                             "UTCoffset": "+01:00", 
-                            "date": "2022-02-28", 
+                            "date": "2022-03-01", 
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "5", 
-                                    "pm10_val": "17", 
-                                    "time": "1380", 
-                                    "valid": "2022-02-28T22:00:00+00:00"
+                                    "no2_val": "24", 
+                                    "pm10_val": "22", 
+                                    "time": "420", 
+                                    "valid": "2022-03-01T06:00:00+00:00"
                                 }
                             ]
                         }
@@ -345,14 +341,14 @@
                     "days": [
                         {
                             "UTCoffset": "+01:00", 
-                            "date": "2022-02-28", 
+                            "date": "2022-03-01", 
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "9", 
-                                    "pm10_val": "7", 
-                                    "time": "1380", 
-                                    "valid": "2022-02-28T22:00:00+00:00"
+                                    "no2_val": "50", 
+                                    "pm10_val": "10", 
+                                    "time": "420", 
+                                    "valid": "2022-03-01T06:00:00+00:00"
                                 }
                             ]
                         }
@@ -379,7 +375,7 @@
                 "unit": "\u03bcg/m\u00b3"
             }
         }, 
-        "tsUpdated": "2022-02-28T22:12:02+00:00", 
+        "tsUpdated": "2022-03-01T06:41:14+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -399,13 +395,13 @@
                     "days": [
                         {
                             "UTCoffset": "+01:00", 
-                            "date": "", 
+                            "date": "2022-03-01", 
                             "timeline": [
                                 {
-                                    "time": "", 
-                                    "tw": "", 
-                                    "valid": "", 
-                                    "wLev": ""
+                                    "time": "420", 
+                                    "tw": "4", 
+                                    "valid": "2022-03-01T06:00:00+00:00", 
+                                    "wLev": "11"
                                 }
                             ]
                         }
@@ -428,13 +424,13 @@
                     "days": [
                         {
                             "UTCoffset": "+01:00", 
-                            "date": "", 
+                            "date": "2022-03-01", 
                             "timeline": [
                                 {
-                                    "time": "", 
-                                    "tw": "", 
-                                    "valid": "", 
-                                    "wLev": ""
+                                    "time": "420", 
+                                    "tw": "4", 
+                                    "valid": "2022-03-01T06:00:00+00:00", 
+                                    "wLev": "46"
                                 }
                             ]
                         }
@@ -457,13 +453,13 @@
                     "days": [
                         {
                             "UTCoffset": "+01:00", 
-                            "date": "", 
+                            "date": "2022-03-01", 
                             "timeline": [
                                 {
-                                    "time": "", 
-                                    "tw": "", 
-                                    "valid": "", 
-                                    "wLev": ""
+                                    "time": "420", 
+                                    "tw": "7", 
+                                    "valid": "2022-03-01T06:00:00+00:00", 
+                                    "wLev": "54"
                                 }
                             ]
                         }
@@ -486,13 +482,13 @@
                     "days": [
                         {
                             "UTCoffset": "+01:00", 
-                            "date": "", 
+                            "date": "2022-03-01", 
                             "timeline": [
                                 {
-                                    "time": "", 
-                                    "tw": "", 
-                                    "valid": "", 
-                                    "wLev": ""
+                                    "time": "420", 
+                                    "tw": "9", 
+                                    "valid": "2022-03-01T06:00:00+00:00", 
+                                    "wLev": "224"
                                 }
                             ]
                         }
@@ -539,7 +535,14 @@
                                 "parameter": "WarningWind", 
                                 "parameter_desc": "Veter", 
                                 "validEnd": "2022-03-01T09:59:00+00:00", 
-                                "validStart": "2022-03-01T05:00:00+00:00"
+                                "validStart": "2022-03-01T06:00:00+00:00"
+                            }, 
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningTn", 
+                                "parameter_desc": "Nizka temperatura", 
+                                "validEnd": "2022-03-02T08:59:00+00:00", 
+                                "validStart": "2022-03-01T23:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
@@ -557,6 +560,6 @@
         ], 
         "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2022-02-28T07:00:00+00:00"
+        "updated": "2022-03-01T06:43:00+00:00"
     }
 }
