@@ -19,39 +19,42 @@
     }, 
     "fcast_si_text": {
         "articleinfo": {
-            "pubdate": "Sreda, 9.3.2022 ob 18h", 
+            "pubdate": "\u010cetrtek, 10.3.2022 ob 6h", 
             "title": "Vremenska napoved", 
-            "tsValid_issued": "2022-03-09 17:32"
+            "tsValid_issued": "2022-03-10 06:24"
         }, 
         "dataType": "", 
         "features": "", 
         "params": "", 
         "section": [
             {
-                "para": "Zve\u010der in pono\u010di bo \u0161e precej jasno. Proti jutru se bo v krajih na vzhodu obla\u010dnost pove\u010dala, kjer bo zapihal tudi severni veter. Jutranje temperature bodo od -7 do -2, ob morju okoli 0 \u00b0C.", 
+                "para": [
+                    "Danes bo v vzhodni Sloveniji zmerno do prete\u017eno obla\u010dno, drugod bo \u0161e prete\u017eno jasno. Popoldne se bo obla\u010dnost pove\u010dala tudi v osrednji Sloveniji. V notranjosti bo zapihal veter vzhodnih smeri. Popoldanske temperature bodo od 6 do 13 \u00b0C.\n", 
+                    "Zve\u010der in pono\u010di bo prete\u017eno obla\u010dno, do jutra pa se bo v ve\u010djem delu Slovenije \u017ee zjasnilo, nekaj obla\u010dnosti bo zjutraj \u0161e na Gorenjskem in v zahodni Slovenji. Na Primorskem bo pono\u010di zapihala \u0161ibka burja. Najni\u017eje jutranje temperature bodo od -7 do -3, na Gori\u0161kem in ob morju malo nad 0 \u00b0C."
+                ], 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "V \u010detrtek bo v vzhodnih krajih zmerno do prete\u017eno obla\u010dno, drugod bo \u0161e prete\u017eno jasno. V notranjosti Slovenije bo zapihal vzhodni do severovzhodni veter. Najvi\u0161je dnevne temperature bodo od 7 do 12, na Primorskem do 15 \u00b0C.", 
+                "para": "Jutri dopoldne se bo povsod zjasnilo, dan bo son\u010den in hladen. Pihal bo veter vzhodnih smeri. Najvi\u0161je dnevne temperature bodo od 2 do 6, na Primorskem ob \u0161ibki burji do 9 \u00b0C.", 
                 "title": "NAPOVED ZA SLOVENIJO"
             }, 
             {
-                "para": "Prete\u017eno jasno bo, le na avstrijskem \u0160tajerskem, Mad\u017earskem in v notranjosti Hrva\u0161ke bo ob\u010dasno ve\u010d obla\u010dnosti.", 
+                "para": "Danes bo v krajih vzhodno od nas prete\u017eno obla\u010dno, drugod \u0161e pove\u010dini son\u010dno. Popoldne se bo obla\u010dnost pomikala proti zahodu.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
+                "para": "Jutri bo prete\u017eno jasno, sprva v krajih zahodno od nas \u0161e zmerno obla\u010dno. Ob severnem Jadranu bo pihala \u0161ibka do zmerna burja. Hladno bo.", 
                 "title": "NAPOVED ZA SOSEDNJE POKRAJINE"
             }, 
             {
-                "para": "Nad ve\u010djim delom Evrope je obmo\u010dje visokega zra\u010dnega tlaka. V vi\u0161inah priteka k nam od severa nekoliko toplej\u0161i in dokaj suh zrak.", 
+                "para": "Nad vzhodno Evropo se krepi obmo\u010dje visokega zra\u010dnega tlaka, ki sega tudi nad srednjo Evropo. V vi\u0161inah od severovzhoda priteka nad na\u0161e kraje postopno hladnej\u0161i in prehodno bolj vla\u017een zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V \u010detrtek Nad vzhodno Evropo se krepi obmo\u010dje visokega zra\u010dnega tlaka, ki sega tudi nad osrednji del celine in Sredozemlje. V vi\u0161inah od severovzhoda priteka nad na\u0161e kraje postopno hladnej\u0161i in bolj vla\u017een zrak.", 
                 "title": "VREMENSKA SLIKA"
             }, 
             {
-                "para": "V no\u010di na petek se bo od vzhoda prehodno poobla\u010dilo tudi v osrednji in zahodni Sloveniji. V petek \u010dez dan se bo spet zjasnilo, najkasneje na zahodu. Hladneje bo. Pihal bo vzhodni veter, na Primorskem \u0161ibka burja. V soboto in nedeljo bo jasno, a hladno vreme.", 
+                "para": "V soboto in nedeljo bo jasno, a hladno vreme. Veter bo v nedeljo oslabel.", 
                 "title": "OBETI"
             }, 
             {
@@ -59,11 +62,11 @@
                 "title": "OPOZORILO"
             }, 
             {
-                "para": "Pono\u010di bo precej jasno. Jutri bo na vzhodu zmerno do prete\u017eno obla\u010dno, drugod bo \u0161e son\u010dno. Zapihal bo veter vzhodne smeri.", 
+                "para": "Danes bo na vzhodu prete\u017eno obla\u010dno, drugod bo \u0161e son\u010dno. Popoldne in zve\u010der se bo poobla\u010dilo tudi drugod. Jutri dopoldne se bo povsod zjasnilo.", 
                 "title": "NAPOVED ZA SLOVENIJO - povzetek"
             }
         ], 
-        "tsUpdated": "2022-03-09T16:32:45+00:00", 
+        "tsUpdated": "2022-03-10T05:24:58+00:00", 
         "type": "FeatureCollection"
     }, 
     "observation_si_avio": {
@@ -88,8 +91,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "clear_night", 
                                     "interval": "", 
-                                    "time": "300", 
-                                    "valid": "2022-03-10T04:00:00+00:00", 
+                                    "time": "360", 
+                                    "valid": "2022-03-10T05:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -119,10 +122,10 @@
                             "date": "2022-03-10", 
                             "timeline": [
                                 {
-                                    "clouds_icon_wwsyn_icon": "clear_night", 
+                                    "clouds_icon_wwsyn_icon": "partCloudy_night", 
                                     "interval": "", 
-                                    "time": "300", 
-                                    "valid": "2022-03-10T04:00:00+00:00", 
+                                    "time": "360", 
+                                    "valid": "2022-03-10T05:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -154,8 +157,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "clear_night", 
                                     "interval": "", 
-                                    "time": "300", 
-                                    "valid": "2022-03-10T04:00:00+00:00", 
+                                    "time": "360", 
+                                    "valid": "2022-03-10T05:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -187,8 +190,8 @@
                                 {
                                     "clouds_icon_wwsyn_icon": "clear_night", 
                                     "interval": "", 
-                                    "time": "300", 
-                                    "valid": "2022-03-10T04:00:00+00:00", 
+                                    "time": "360", 
+                                    "valid": "2022-03-10T05:00:00+00:00", 
                                     "vis_shortText": ">10", 
                                     "wwsyn_icon": ""
                                 }
@@ -222,7 +225,7 @@
                 "unit": ""
             }
         }, 
-        "tsUpdated": "2022-03-10T04:13:04+00:00", 
+        "tsUpdated": "2022-03-10T05:13:08+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -248,9 +251,9 @@
                                 {
                                     "interval": "", 
                                     "no2_val": "37", 
-                                    "pm10_val": "61", 
-                                    "time": "300", 
-                                    "valid": "2022-03-10T04:00:00+00:00"
+                                    "pm10_val": "54", 
+                                    "time": "360", 
+                                    "valid": "2022-03-10T05:00:00+00:00"
                                 }
                             ]
                         }
@@ -279,10 +282,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "42", 
-                                    "pm10_val": "43", 
-                                    "time": "300", 
-                                    "valid": "2022-03-10T04:00:00+00:00"
+                                    "no2_val": "45", 
+                                    "pm10_val": "41", 
+                                    "time": "360", 
+                                    "valid": "2022-03-10T05:00:00+00:00"
                                 }
                             ]
                         }
@@ -312,9 +315,9 @@
                                 {
                                     "interval": "", 
                                     "no2_val": "21", 
-                                    "pm10_val": "27", 
-                                    "time": "300", 
-                                    "valid": "2022-03-10T04:00:00+00:00"
+                                    "pm10_val": "26", 
+                                    "time": "360", 
+                                    "valid": "2022-03-10T05:00:00+00:00"
                                 }
                             ]
                         }
@@ -343,10 +346,10 @@
                             "timeline": [
                                 {
                                     "interval": "", 
-                                    "no2_val": "35", 
-                                    "pm10_val": "44", 
-                                    "time": "300", 
-                                    "valid": "2022-03-10T04:00:00+00:00"
+                                    "no2_val": "56", 
+                                    "pm10_val": "39", 
+                                    "time": "360", 
+                                    "valid": "2022-03-10T05:00:00+00:00"
                                 }
                             ]
                         }
@@ -373,7 +376,7 @@
                 "unit": "\u03bcg/m\u00b3"
             }
         }, 
-        "tsUpdated": "2022-03-10T04:12:01+00:00", 
+        "tsUpdated": "2022-03-10T05:12:02+00:00", 
         "type": "FeatureCollection", 
         "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
     }, 
@@ -396,9 +399,9 @@
                             "date": "2022-03-10", 
                             "timeline": [
                                 {
-                                    "time": "300", 
+                                    "time": "360", 
                                     "tw": "5", 
-                                    "valid": "2022-03-10T04:00:00+00:00", 
+                                    "valid": "2022-03-10T05:00:00+00:00", 
                                     "wLev": "7"
                                 }
                             ]
@@ -425,9 +428,9 @@
                             "date": "2022-03-10", 
                             "timeline": [
                                 {
-                                    "time": "300", 
+                                    "time": "360", 
                                     "tw": "5", 
-                                    "valid": "2022-03-10T04:00:00+00:00", 
+                                    "valid": "2022-03-10T05:00:00+00:00", 
                                     "wLev": "45"
                                 }
                             ]
@@ -454,9 +457,9 @@
                             "date": "2022-03-10", 
                             "timeline": [
                                 {
-                                    "time": "300", 
+                                    "time": "360", 
                                     "tw": "6", 
-                                    "valid": "2022-03-10T04:00:00+00:00", 
+                                    "valid": "2022-03-10T05:00:00+00:00", 
                                     "wLev": "33"
                                 }
                             ]
@@ -483,10 +486,10 @@
                             "date": "2022-03-10", 
                             "timeline": [
                                 {
-                                    "time": "300", 
+                                    "time": "360", 
                                     "tw": "9", 
-                                    "valid": "2022-03-10T04:00:00+00:00", 
-                                    "wLev": "204"
+                                    "valid": "2022-03-10T05:00:00+00:00", 
+                                    "wLev": "196"
                                 }
                             ]
                         }
@@ -533,7 +536,7 @@
                                 "parameter": "WarningTn", 
                                 "parameter_desc": "Nizka temperatura", 
                                 "validEnd": "2022-03-10T07:59:00+00:00", 
-                                "validStart": "2022-03-10T03:00:00+00:00"
+                                "validStart": "2022-03-10T04:00:00+00:00"
                             }
                         ], 
                         "interval": "5 days", 
