@@ -4,13 +4,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    15.2257, 
-                    46.236499999999999
+                    14.5449, 
+                    45.645200000000003
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "altitude": "244", 
+                "altitude": "756", 
                 "country": "SI", 
                 "days": [
                     {
@@ -18,18 +18,596 @@
                         "date": "2022-03-11", 
                         "timeline": [
                             {
-                                "interval": "1440", 
+                                "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2022-03-11T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
                             }
                         ]
                     }
                 ], 
-                "id": "METEO-1025_", 
-                "parentId": "SI_SAVINJSKA_", 
-                "title": "Celje", 
+                "id": "METEO-1401_", 
+                "parentId": "SI_NOTRANJSKO-KRASKA_", 
+                "title": "Babno Polje", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.0816, 
+                    46.167499999999997
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1188", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "22", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1403_", 
+                "parentId": "SI_GORENJSKA_", 
+                "title": "Blego\u0161", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.9422, 
+                    46.294199999999996
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "596", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1404_", 
+                "parentId": "SI_ZGORNJESAVSKA_", 
+                "title": "Bohinjska \u010ce\u0161njica", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.427199999999999, 
+                    46.262799999999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "546", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1405_", 
+                "parentId": "SI_BOVSKA_", 
+                "title": "Breginj", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.888500000000001, 
+                    46.140099999999997
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "780", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "1", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1406_", 
+                "parentId": "SI_BOVSKA_", 
+                "title": "Bukovski vrh", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.398899999999999, 
+                    45.722999999999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "586", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1407_", 
+                "parentId": "SI_NOTRANJSKO-KRASKA_", 
+                "title": "Cerkni\u0161ko jezero", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.6838, 
+                    46.617800000000003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "292", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1411_", 
+                "parentId": "SI_PODRAVSKA_", 
+                "title": "Ga\u010dnik", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": false, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.8436, 
+                    45.754899999999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "320", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1412_", 
+                "parentId": "SI_GORISKA_", 
+                "title": "Godnje", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.8063, 
+                    46.298699999999997
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "428", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1414_", 
+                "parentId": "SI_KOROSKA_", 
+                "title": "Gornji Grad", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.0289, 
+                    46.010899999999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "325", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1416_", 
+                "parentId": "SI_BOVSKA_", 
+                "title": "Idrija", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.858000000000001, 
+                    45.561199999999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "532", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1417_", 
+                "parentId": "SI_KOCEVSKA_", 
+                "title": "Iskrba", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    16.187999999999999, 
+                    46.475900000000003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "335", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1420_", 
+                "parentId": "SI_POMURSKA_", 
+                "title": "Jeruzalem", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.603300000000001, 
+                    46.308700000000002
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "549", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1423_", 
+                "parentId": "SI_GORENJSKA_", 
+                "title": "Kamni\u0161ka Bistrica", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.474399999999999, 
+                    46.3581
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "2260", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "99", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1424_", 
+                "parentId": "SI_BOVSKA_", 
+                "title": "Kanin", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.849600000000001, 
+                    45.645800000000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "467", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1426_", 
+                "parentId": "SI_KOCEVSKA_", 
+                "title": "Ko\u010devje", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.7517, 
+                    46.5167
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1072", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "30", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1428_", 
+                "parentId": "SI_ZGORNJESAVSKA_", 
+                "title": "Korensko sedlo", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.364699999999999, 
+                    46.247799999999998
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "403", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1429_", 
+                "parentId": "SI_GORENJSKA_", 
+                "title": "Kranj", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.8489, 
+                    46.378799999999998
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "2513", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "175", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1430_", 
+                "parentId": "SI_ZGORNJESAVSKA_", 
+                "title": "Kredarica", 
                 "type": "WMOSTATION"
             }, 
             "snowSensorData": false, 
@@ -38,13 +616,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    15.146100000000001, 
-                    45.560000000000002
+                    13.657999999999999, 
+                    46.238
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "altitude": "157", 
+                "altitude": "918", 
                 "country": "SI", 
                 "days": [
                     {
@@ -52,21 +630,89 @@
                         "date": "2022-03-11", 
                         "timeline": [
                             {
-                                "interval": "1440", 
+                                "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2022-03-11T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
                             }
                         ]
                     }
                 ], 
-                "id": "METEO-1033_", 
-                "parentId": "SI_BELOKRANJSKA_", 
-                "title": "\u010crnomelj", 
-                "type": "WMOSTATION"
+                "id": "METEO-1431_", 
+                "parentId": "SI_BOVSKA_", 
+                "title": "Krn", 
+                "type": "SI_RNSTATION_B"
             }, 
-            "snowSensorData": false, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.533300000000001, 
+                    46.2973
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1740", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "71", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1432_", 
+                "parentId": "SI_GORENJSKA_", 
+                "title": "Krvavec", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.0732, 
+                    46.087899999999998
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1211", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1434_", 
+                "parentId": "SI_OSREDNJESLOVENSKA_", 
+                "title": "Kum", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
             "type": "Feature"
         }, 
         {
@@ -89,8 +735,8 @@
                                 "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2022-03-11T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
                             }
                         ]
                     }
@@ -98,6 +744,40 @@
                 "id": "METEO-1035_", 
                 "parentId": "SI_SPODNJEPOSAVSKA_", 
                 "title": "Letali\u0161\u010de Cerklje ob Krki", 
+                "type": "WMOSTATION"
+            }, 
+            "snowSensorData": false, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.6821, 
+                    46.479700000000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "264", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1023_", 
+                "parentId": "SI_PODRAVSKA_", 
+                "title": "Letali\u0161\u010de Edvarda Rusjana Maribor", 
                 "type": "WMOSTATION"
             }, 
             "snowSensorData": false, 
@@ -123,8 +803,8 @@
                                 "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2022-03-11T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
                             }
                         ]
                     }
@@ -157,8 +837,8 @@
                                 "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2022-03-11T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
                             }
                         ]
                     }
@@ -174,13 +854,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    14.5124, 
-                    46.0655
+                    15.2849, 
+                    46.067799999999998
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "altitude": "299", 
+                "altitude": "947", 
                 "country": "SI", 
                 "days": [
                     {
@@ -188,19 +868,53 @@
                         "date": "2022-03-11", 
                         "timeline": [
                             {
-                                "interval": "1440", 
+                                "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2022-03-11T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
                             }
                         ]
                     }
                 ], 
-                "id": "METEO-1495_", 
+                "id": "METEO-1435_", 
+                "parentId": "SI_SPODNJEPOSAVSKA_", 
+                "title": "Lisca", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.8186, 
+                    46.065199999999997
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "272", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1436_", 
                 "parentId": "SI_OSREDNJESLOVENSKA_", 
-                "title": "Ljubljana", 
-                "type": "WMOSTATION"
+                "title": "Litija", 
+                "type": "SI_RNSTATION_B"
             }, 
             "snowSensorData": true, 
             "type": "Feature"
@@ -208,13 +922,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    14.1973, 
-                    45.772199999999998
+                    14.6311, 
+                    46.393599999999999
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "altitude": "538", 
+                "altitude": "776", 
                 "country": "SI", 
                 "days": [
                     {
@@ -222,19 +936,53 @@
                         "date": "2022-03-11", 
                         "timeline": [
                             {
-                                "interval": "1440", 
+                                "interval": "720", 
+                                "snow": "7", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1437_", 
+                "parentId": "SI_KOROSKA_", 
+                "title": "Logarska dolina", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.203200000000001, 
+                    45.907699999999998
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "486", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
                                 "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2022-03-11T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
                             }
                         ]
                     }
                 ], 
-                "id": "METEO-1455_", 
+                "id": "METEO-1438_", 
                 "parentId": "SI_NOTRANJSKO-KRASKA_", 
-                "title": "Postojna", 
-                "type": "WMOSTATION"
+                "title": "Logatec", 
+                "type": "SI_RNSTATION_B"
             }, 
             "snowSensorData": true, 
             "type": "Feature"
@@ -242,13 +990,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    13.712899999999999, 
-                    46.497100000000003
+                    14.8178, 
+                    45.871899999999997
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "altitude": "864", 
+                "altitude": "272", 
                 "country": "SI", 
                 "days": [
                     {
@@ -256,33 +1004,33 @@
                         "date": "2022-03-11", 
                         "timeline": [
                             {
-                                "interval": "1440", 
-                                "snow": "31", 
+                                "interval": "720", 
+                                "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2022-03-11T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
                             }
                         ]
                     }
                 ], 
-                "id": "METEO-1031_", 
-                "parentId": "SI_ZGORNJESAVSKA_", 
-                "title": "Rate\u010de", 
-                "type": "WMOSTATION"
+                "id": "METEO-1410_", 
+                "parentId": "SI_DOLENJSKA_", 
+                "title": "Marin\u010da vas", 
+                "type": "SI_RNSTATION_B"
             }, 
-            "snowSensorData": false, 
+            "snowSensorData": true, 
             "type": "Feature"
         }, 
         {
             "geometry": {
                 "coordinates": [
-                    13.839600000000001, 
-                    46.259399999999999
+                    15.3201, 
+                    45.644199999999998
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "altitude": "1515", 
+                "altitude": "210", 
                 "country": "SI", 
                 "days": [
                     {
@@ -290,19 +1038,359 @@
                         "date": "2022-03-11", 
                         "timeline": [
                             {
-                                "interval": "1440", 
-                                "snow": "122", 
+                                "interval": "720", 
+                                "snow": "0", 
                                 "snowNew_val": "0", 
-                                "time": "420", 
-                                "valid": "2022-03-11T06:00:00+00:00"
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
                             }
                         ]
                     }
                 ], 
-                "id": "METEO-1481_", 
-                "parentId": "SI_ZGORNJESAVSKA_", 
-                "title": "Vogel", 
-                "type": "WMOSTATION"
+                "id": "METEO-1441_", 
+                "parentId": "SI_BELOKRANJSKA_", 
+                "title": "Metlika", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.8597, 
+                    46.529600000000002
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "469", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1442_", 
+                "parentId": "SI_KOROSKA_", 
+                "title": "Me\u017eica", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.3225, 
+                    45.7759
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "959", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1443_", 
+                "parentId": "SI_SPODNJEPOSAVSKA_", 
+                "title": "Miklav\u017e na Gorjancih", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    16.191299999999998, 
+                    46.652099999999997
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "188", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1444_", 
+                "parentId": "SI_POMURSKA_", 
+                "title": "Murska Sobota", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.053800000000001, 
+                    45.771099999999997
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1242", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1445_", 
+                "parentId": "SI_NOTRANJSKO-KRASKA_", 
+                "title": "Nanos", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.508800000000001, 
+                    45.768900000000002
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "718", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "1", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1446_", 
+                "parentId": "SI_NOTRANJSKO-KRASKA_", 
+                "title": "Nova vas - Bloke", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    15.177300000000001, 
+                    45.8018
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "220", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1447_", 
+                "parentId": "SI_DOLENJSKA_", 
+                "title": "Novo mesto", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.6915, 
+                    45.531399999999998
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "331", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1448_", 
+                "parentId": "SI_KOCEVSKA_", 
+                "title": "Osilnica", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.228199999999999, 
+                    46.097700000000003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "1019", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "1", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1449_", 
+                "parentId": "SI_GORENJSKA_", 
+                "title": "Pasja ravan", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.933, 
+                    46.366100000000003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "794", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1413_", 
+                "parentId": "SI_SAVINJSKA_", 
+                "title": "Radegunda", 
+                "type": "SI_RNSTATION_B"
+            }, 
+            "snowSensorData": true, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.0023, 
+                    45.939500000000002
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "altitude": "716", 
+                "country": "SI", 
+                "days": [
+                    {
+                        "UTCoffset": "+01:00", 
+                        "date": "2022-03-11", 
+                        "timeline": [
+                            {
+                                "interval": "720", 
+                                "snow": "0", 
+                                "snowNew_val": "0", 
+                                "time": "1140", 
+                                "valid": "2022-03-11T18:00:00+00:00"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "METEO-1408_", 
+                "parentId": "SI_BOVSKA_", 
+                "title": "Zadlog", 
+                "type": "SI_RNSTATION_B"
             }, 
             "snowSensorData": true, 
             "type": "Feature"
@@ -323,7 +1411,7 @@
             "unit": "cm"
         }
     }, 
-    "tsUpdated": "2022-03-11T06:15:01+00:00", 
+    "tsUpdated": "2022-03-11T18:15:01+00:00", 
     "type": "FeatureCollection", 
     "webcamUrl": "https://meteo.arso.gov.si/uploads/probase/www/observ/webcam/"
 }
