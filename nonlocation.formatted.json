@@ -1,16 +1,16 @@
 {
     "fcast_si_hint": {
         "articleinfo": {
-            "pubdate": "Friday, 11.3.2022 ob 8h", 
+            "pubdate": "Saturday, 12.3.2022 ob 5h", 
             "title": "Vremenski namig", 
-            "tsValid_issued": "2022-03-11 08:04"
+            "tsValid_issued": "2022-03-12 05:03"
         }, 
         "section": [
             {
                 "id": "fcast_SLOVENIA_d1", 
                 "para": [
                     {
-                        "para": "Zaradi tehni\u010dnih te\u017eav prihaja do ob\u010dasnega izpada nekaterih podatkov.\n\nHvala za razumevanje!"
+                        "para": "Dobro jutro, danes in jutri bo jasno. https://t.co/hPuoDLfj78"
                     }
                 ], 
                 "title": "Zadnja novica"
@@ -516,7 +516,7 @@
         "type": "FeatureCollection"
     }, 
     "warning_si": {
-        "icon_url_base": "https://meteo.arso.gov.si/uploads/meteo/style/img/warning/", 
+        "icon_url_base": "http://www.meteo.si/uploads/meteo/style/img/warning/", 
         "language": "sl", 
         "locations": [
             {
@@ -531,6 +531,13 @@
                     }, 
                     {
                         "event": [
+                            {
+                                "degree": "yellow", 
+                                "parameter": "WarningWind", 
+                                "parameter_desc": "Veter", 
+                                "validEnd": "2022-03-15T21:59:00+00:00", 
+                                "validStart": "2022-03-15T10:00:00+00:00"
+                            }, 
                             {
                                 "degree": "yellow", 
                                 "parameter": "WarningTn", 
@@ -552,8 +559,8 @@
                 }
             }
         ], 
-        "map_url_base": "https://meteo.arso.gov.si//uploads/probase/www/warning/graphic/bundle/", 
+        "map_url_base": "http://www.meteo.si//uploads/probase/www/warning/graphic/bundle/", 
         "type": "warning", 
-        "updated": "2022-03-11T06:56:00+00:00"
+        "updated": "2022-03-12T05:40:00+00:00"
     }
 }
